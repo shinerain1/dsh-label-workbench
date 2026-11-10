@@ -1,0 +1,346 @@
+{
+  "kind": "real_public_data_controlled_fault_replay",
+  "model_calls": 0,
+  "human_events": "simulated",
+  "source_commit": "bb22f5c8f9597193f7c1090cc58ef830861a76ac",
+  "protocol_sha256": "4311293658a20e7f3992cc3fb770db0d1253641e1add4cf7048cfb06506f0b7d",
+  "script_sha256": "e2f22e0a647cea0a1901b7b848e92aab0109a280d90b82c809dfd00cd37a437e",
+  "service_sha256": "4074523b33845b403636f7ab439c89b0106412adcfb11c368b45af6f6cb773db",
+  "manifest_sha256": "024cb054deee59785c5748d4b8bb1a00bd88a7e935ab4066d37c2c41b2d9ad82",
+  "expected_counts": {
+    "Prepaid card": 400,
+    "Credit card": 400,
+    "Checking or savings account": 400
+  },
+  "changed_records": 800,
+  "runs": [
+    {
+      "seed": 7,
+      "human_records": 24,
+      "late_callbacks": 120,
+      "arms": [
+        {
+          "arm": "simple_json",
+          "records": 1200,
+          "wrong_final_labels": 80,
+          "before_late_wrong_labels": 0,
+          "before_late_stale_current": 0,
+          "before_late_human_overwritten": 0,
+          "stale_current": 120,
+          "human_overwritten": 24,
+          "missed_changed_review": 0,
+          "selected_for_review": 808,
+          "unchanged_selected": 8,
+          "new_machine_results": 784,
+          "human_confirmations": 24,
+          "early_export": "UNSAFE_ACCEPTED",
+          "export_before_human_reconfirmation": "UNSAFE_ACCEPTED",
+          "late_callback": {
+            "isolated": 0,
+            "replayed": null,
+            "replay_new_decisions": null,
+            "reasons": {}
+          },
+          "retained_human_history": 48,
+          "recovered_from_disk": true,
+          "artifact_verified": null,
+          "final_counts": {
+            "Prepaid card": 360,
+            "Credit card": 360,
+            "Checking or savings account": 400,
+            "Credit card or prepaid card": 80
+          },
+          "audit_file": "audit-7-simple_json.csv",
+          "audit_sha256": "0a1f6e655c0e2b39c9dde2aa56ab9050e26dfa1b47149c24e9330940e07ee51e"
+        },
+        {
+          "arm": "guarded_json",
+          "records": 1200,
+          "wrong_final_labels": 0,
+          "before_late_wrong_labels": 0,
+          "before_late_stale_current": 0,
+          "before_late_human_overwritten": 0,
+          "stale_current": 0,
+          "human_overwritten": 0,
+          "missed_changed_review": 0,
+          "selected_for_review": 1200,
+          "unchanged_selected": 400,
+          "new_machine_results": 1176,
+          "human_confirmations": 24,
+          "early_export": "REVIEW_INCOMPLETE",
+          "export_before_human_reconfirmation": "REVIEW_INCOMPLETE",
+          "late_callback": {
+            "isolated": 120,
+            "replayed": null,
+            "replay_new_decisions": null,
+            "reasons": {}
+          },
+          "retained_human_history": 48,
+          "recovered_from_disk": true,
+          "artifact_verified": null,
+          "final_counts": {
+            "Prepaid card": 400,
+            "Credit card": 400,
+            "Checking or savings account": 400
+          },
+          "audit_file": "audit-7-guarded_json.csv",
+          "audit_sha256": "4366fbe8662b7972436da1e165d02dff95eaec5a402582009a5a092202761dde"
+        },
+        {
+          "arm": "workbench",
+          "records": 1200,
+          "wrong_final_labels": 0,
+          "before_late_wrong_labels": 0,
+          "before_late_stale_current": 0,
+          "before_late_human_overwritten": 0,
+          "stale_current": 0,
+          "human_overwritten": 0,
+          "missed_changed_review": 0,
+          "selected_for_review": 1200,
+          "unchanged_selected": 400,
+          "new_machine_results": 1176,
+          "human_confirmations": 24,
+          "early_export": "REVIEW_INCOMPLETE",
+          "export_before_human_reconfirmation": "REVIEW_INCOMPLETE",
+          "late_callback": {
+            "isolated": 120,
+            "replayed": 120,
+            "replay_new_decisions": 0,
+            "reasons": {
+              "stale_rule": 120
+            }
+          },
+          "retained_human_history": 48,
+          "recovered_from_disk": true,
+          "artifact_verified": true,
+          "final_counts": {
+            "Prepaid card": 400,
+            "Credit card": 400,
+            "Checking or savings account": 400
+          },
+          "audit_file": "audit-7-workbench.csv",
+          "audit_sha256": "4366fbe8662b7972436da1e165d02dff95eaec5a402582009a5a092202761dde"
+        }
+      ]
+    },
+    {
+      "seed": 11,
+      "human_records": 24,
+      "late_callbacks": 120,
+      "arms": [
+        {
+          "arm": "simple_json",
+          "records": 1200,
+          "wrong_final_labels": 80,
+          "before_late_wrong_labels": 0,
+          "before_late_stale_current": 0,
+          "before_late_human_overwritten": 0,
+          "stale_current": 120,
+          "human_overwritten": 24,
+          "missed_changed_review": 0,
+          "selected_for_review": 808,
+          "unchanged_selected": 8,
+          "new_machine_results": 784,
+          "human_confirmations": 24,
+          "early_export": "UNSAFE_ACCEPTED",
+          "export_before_human_reconfirmation": "UNSAFE_ACCEPTED",
+          "late_callback": {
+            "isolated": 0,
+            "replayed": null,
+            "replay_new_decisions": null,
+            "reasons": {}
+          },
+          "retained_human_history": 48,
+          "recovered_from_disk": true,
+          "artifact_verified": null,
+          "final_counts": {
+            "Credit card or prepaid card": 80,
+            "Credit card": 360,
+            "Prepaid card": 360,
+            "Checking or savings account": 400
+          },
+          "audit_file": "audit-11-simple_json.csv",
+          "audit_sha256": "eb066e71b11690854edbd18e0c3c1f0484126183d7e375737105a3db605b641d"
+        },
+        {
+          "arm": "guarded_json",
+          "records": 1200,
+          "wrong_final_labels": 0,
+          "before_late_wrong_labels": 0,
+          "before_late_stale_current": 0,
+          "before_late_human_overwritten": 0,
+          "stale_current": 0,
+          "human_overwritten": 0,
+          "missed_changed_review": 0,
+          "selected_for_review": 1200,
+          "unchanged_selected": 400,
+          "new_machine_results": 1176,
+          "human_confirmations": 24,
+          "early_export": "REVIEW_INCOMPLETE",
+          "export_before_human_reconfirmation": "REVIEW_INCOMPLETE",
+          "late_callback": {
+            "isolated": 120,
+            "replayed": null,
+            "replay_new_decisions": null,
+            "reasons": {}
+          },
+          "retained_human_history": 48,
+          "recovered_from_disk": true,
+          "artifact_verified": null,
+          "final_counts": {
+            "Prepaid card": 400,
+            "Credit card": 400,
+            "Checking or savings account": 400
+          },
+          "audit_file": "audit-11-guarded_json.csv",
+          "audit_sha256": "8ee0eae7e22a97c79dfc1e569688870717fa886d16329e25e5d458e8f1c0a68b"
+        },
+        {
+          "arm": "workbench",
+          "records": 1200,
+          "wrong_final_labels": 0,
+          "before_late_wrong_labels": 0,
+          "before_late_stale_current": 0,
+          "before_late_human_overwritten": 0,
+          "stale_current": 0,
+          "human_overwritten": 0,
+          "missed_changed_review": 0,
+          "selected_for_review": 1200,
+          "unchanged_selected": 400,
+          "new_machine_results": 1176,
+          "human_confirmations": 24,
+          "early_export": "REVIEW_INCOMPLETE",
+          "export_before_human_reconfirmation": "REVIEW_INCOMPLETE",
+          "late_callback": {
+            "isolated": 120,
+            "replayed": 120,
+            "replay_new_decisions": 0,
+            "reasons": {
+              "stale_rule": 120
+            }
+          },
+          "retained_human_history": 48,
+          "recovered_from_disk": true,
+          "artifact_verified": true,
+          "final_counts": {
+            "Prepaid card": 400,
+            "Credit card": 400,
+            "Checking or savings account": 400
+          },
+          "audit_file": "audit-11-workbench.csv",
+          "audit_sha256": "8ee0eae7e22a97c79dfc1e569688870717fa886d16329e25e5d458e8f1c0a68b"
+        }
+      ]
+    },
+    {
+      "seed": 19,
+      "human_records": 24,
+      "late_callbacks": 120,
+      "arms": [
+        {
+          "arm": "simple_json",
+          "records": 1200,
+          "wrong_final_labels": 80,
+          "before_late_wrong_labels": 0,
+          "before_late_stale_current": 0,
+          "before_late_human_overwritten": 0,
+          "stale_current": 120,
+          "human_overwritten": 24,
+          "missed_changed_review": 0,
+          "selected_for_review": 808,
+          "unchanged_selected": 8,
+          "new_machine_results": 784,
+          "human_confirmations": 24,
+          "early_export": "UNSAFE_ACCEPTED",
+          "export_before_human_reconfirmation": "UNSAFE_ACCEPTED",
+          "late_callback": {
+            "isolated": 0,
+            "replayed": null,
+            "replay_new_decisions": null,
+            "reasons": {}
+          },
+          "retained_human_history": 48,
+          "recovered_from_disk": true,
+          "artifact_verified": null,
+          "final_counts": {
+            "Prepaid card": 360,
+            "Credit card": 360,
+            "Checking or savings account": 400,
+            "Credit card or prepaid card": 80
+          },
+          "audit_file": "audit-19-simple_json.csv",
+          "audit_sha256": "f69247f71d276dd942c28ba565043d77d634a832a23e887e6163159524dc4119"
+        },
+        {
+          "arm": "guarded_json",
+          "records": 1200,
+          "wrong_final_labels": 0,
+          "before_late_wrong_labels": 0,
+          "before_late_stale_current": 0,
+          "before_late_human_overwritten": 0,
+          "stale_current": 0,
+          "human_overwritten": 0,
+          "missed_changed_review": 0,
+          "selected_for_review": 1200,
+          "unchanged_selected": 400,
+          "new_machine_results": 1176,
+          "human_confirmations": 24,
+          "early_export": "REVIEW_INCOMPLETE",
+          "export_before_human_reconfirmation": "REVIEW_INCOMPLETE",
+          "late_callback": {
+            "isolated": 120,
+            "replayed": null,
+            "replay_new_decisions": null,
+            "reasons": {}
+          },
+          "retained_human_history": 48,
+          "recovered_from_disk": true,
+          "artifact_verified": null,
+          "final_counts": {
+            "Prepaid card": 400,
+            "Credit card": 400,
+            "Checking or savings account": 400
+          },
+          "audit_file": "audit-19-guarded_json.csv",
+          "audit_sha256": "39cfffe62134534d232683cf0f69617bbf1ca7165817bfdf6a38d9d26ac9ca63"
+        },
+        {
+          "arm": "workbench",
+          "records": 1200,
+          "wrong_final_labels": 0,
+          "before_late_wrong_labels": 0,
+          "before_late_stale_current": 0,
+          "before_late_human_overwritten": 0,
+          "stale_current": 0,
+          "human_overwritten": 0,
+          "missed_changed_review": 0,
+          "selected_for_review": 1200,
+          "unchanged_selected": 400,
+          "new_machine_results": 1176,
+          "human_confirmations": 24,
+          "early_export": "REVIEW_INCOMPLETE",
+          "export_before_human_reconfirmation": "REVIEW_INCOMPLETE",
+          "late_callback": {
+            "isolated": 120,
+            "replayed": 120,
+            "replay_new_decisions": 0,
+            "reasons": {
+              "stale_rule": 120
+            }
+          },
+          "retained_human_history": 48,
+          "recovered_from_disk": true,
+          "artifact_verified": true,
+          "final_counts": {
+            "Prepaid card": 400,
+            "Credit card": 400,
+            "Checking or savings account": 400
+          },
+          "audit_file": "audit-19-workbench.csv",
+          "audit_sha256": "39cfffe62134534d232683cf0f69617bbf1ca7165817bfdf6a38d9d26ac9ca63"
+        }
+      ]
+    }
+  ],
+  "completed_utc": "2026-11-10T07:12:03.704658+00:00"
+}

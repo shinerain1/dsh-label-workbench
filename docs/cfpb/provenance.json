@@ -1,0 +1,47 @@
+{
+  "kind": "official_public_complaints_historical_taxonomy_replay",
+  "retrieved_utc": "2026-11-10T07:06:37.471828+00:00",
+  "url": "https://files.consumerfinance.gov/f/documents/CCDB_Export_4_November_2022_through_August_2023.zip",
+  "archive_bytes": 115518181,
+  "archive_sha256": "547e8bdb07961861d4bacabff74fd2dd7358c04d225b492b286c37920cb39921",
+  "archive_csv": "CCDB_Export_4_November_2022_through_August_2023.csv",
+  "scanned_rows": 987495,
+  "date_window": [
+    "2023-01-01",
+    "2023-08-24 (exclusive)"
+  ],
+  "date_window_source_products": {
+    "Credit reporting, credit repair services, or other personal consumer reports": 640870,
+    "Vehicle loan or lease": 8625,
+    "Credit card or prepaid card": 35123,
+    "Mortgage": 15446,
+    "Debt collection": 44167,
+    "Checking or savings account": 33592,
+    "Money transfer, virtual currency, or money service": 8703,
+    "Payday loan, title loan, or personal loan": 4664,
+    "Student loan": 3913,
+    "Credit card": 1,
+    "Prepaid card": 1
+  },
+  "exclusions": {
+    "outside_product_scope": 726390,
+    "outside_date_window": 192390,
+    "empty_narrative": 28811
+  },
+  "unmapped_subproducts": {},
+  "eligible_per_target": {
+    "Credit card": 19537,
+    "Prepaid card": 1635,
+    "Checking or savings account": 18732
+  },
+  "sample_per_target": {
+    "Prepaid card": 400,
+    "Credit card": 400,
+    "Checking or savings account": 400
+  },
+  "manifest_sha256": "024cb054deee59785c5748d4b8bb1a00bd88a7e935ab4066d37c2c41b2d9ad82",
+  "sample_json_sha256": "19da6247a9966f88486252016097e1df57ea242a3bed635e13c863eb90934b9f",
+  "protocol_sha256": "4311293658a20e7f3992cc3fb770db0d1253641e1add4cf7048cfb06506f0b7d",
+  "unique_narratives": 1158,
+  "label_source": "Consumer-selected subproduct mapped to official 2023 taxonomy; not expert NLP gold"
+}

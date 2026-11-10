@@ -64,13 +64,14 @@ npm.cmd run build
 
 ## 证据与边界
 
+- [真实数据案例：CFPB 分类迁移](docs/CFPB-CASE-STUDY.md)：1,200 条官方公开投诉、真实发生的类别拆分、三组对照及逐记录审计；旧回调隔离有效，但全量复核增加了处理量，有保护脚本同样正确。
 - [实验预案](docs/PROTOCOL.md)与[对照结果](docs/benchmark-results.json)：合成规则变更、迟到结果及人工保护，含有完整保护措施的普通脚本基线。
 - [真实 DSH PTC 验证](docs/dsh-ptc-results.json)：正式工具、批量调用、插件重载后 Session 恢复；不是模型对照。
 - [真实 Agent 试验预案](docs/AGENT-PILOT-PROTOCOL.md)与[结果](docs/agent-pilot-results.json)：普通脚本与插件分别运行，保留不利结果。
 - [成熟项目调研](docs/RESEARCH.md)、[状态与接口说明](docs/ARCHITECTURE.md)、[实验解读](docs/EXPERIMENTS.md)。
 - [首版验证记录](docs/VERIFICATION.md)：22 个 Python 测试、2 个 Node 测试、独立 wheel 安装，以及尚未完成的浏览器视觉验收。
 
-有保护的脚本也能解决这些一致性问题。插件的贡献是把事务、版本、租约、人审保护和导出约束固化成 DSH 可复用工具，不是发明标注算法。未验证真实企业数据、语义影响筛选、多人权限和大规模长期运行。
+有保护的脚本也能解决这些一致性问题。插件的贡献是把事务、版本、租约、人审保护和导出约束固化成 DSH 可复用工具，不是发明标注算法。已验证公开真实数据的分类迁移回放；未验证企业生产部署、语义影响筛选、多人权限和大规模长期运行。
 
 ## 复现实验
 

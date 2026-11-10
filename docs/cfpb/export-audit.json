@@ -1,0 +1,48 @@
+{
+  "verified": true,
+  "kind": "independent_actual_export_to_source_manifest_check",
+  "runs": [
+    {
+      "seed": 7,
+      "zip_sha256": "1e179984dbe593ca27c49590355b6d9c54c7e7c1dbb3a3d822afec6a4b597f1b",
+      "records_checked": 1200,
+      "text_hashes_match": true,
+      "reference_labels_match": true,
+      "public_audit_matches_actual_export": true,
+      "human_history_count": 48,
+      "counts": {
+        "Prepaid card": 400,
+        "Credit card": 400,
+        "Checking or savings account": 400
+      }
+    },
+    {
+      "seed": 11,
+      "zip_sha256": "1057ab418e5993950bc814b0073800a8e1e59cc834b2e826ac38e7ff8b88a93a",
+      "records_checked": 1200,
+      "text_hashes_match": true,
+      "reference_labels_match": true,
+      "public_audit_matches_actual_export": true,
+      "human_history_count": 48,
+      "counts": {
+        "Prepaid card": 400,
+        "Credit card": 400,
+        "Checking or savings account": 400
+      }
+    },
+    {
+      "seed": 19,
+      "zip_sha256": "1126c3f60b8449e621482d0beab65fa31f89672541dc02a6360dcf5a6c9e0fc1",
+      "records_checked": 1200,
+      "text_hashes_match": true,
+      "reference_labels_match": true,
+      "public_audit_matches_actual_export": true,
+      "human_history_count": 48,
+      "counts": {
+        "Prepaid card": 400,
+        "Credit card": 400,
+        "Checking or savings account": 400
+      }
+    }
+  ]
+}

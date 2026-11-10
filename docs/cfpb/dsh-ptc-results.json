@@ -1,0 +1,27 @@
+{
+  "kind": "real-dsh-ptc-real-cfpb-data-no-model",
+  "model_calls": 0,
+  "dsh_commit": "8bd073392eef6f54e921a093b95076248eb08cbb",
+  "input_sha256": "280361ac700a016ed60c3115de8d507acc244fa239b6a5fbfc3c657a2a19e070",
+  "script_sha256": "3d86e86d7e2d5ed444bc2e010d99bb7a1a3fd643268905afb4f2324284fb8284",
+  "records": 90,
+  "outer_workflow_calls": 1,
+  "nested_workflow_calls": 13,
+  "selected_for_review": 90,
+  "safely_carried": 0,
+  "late_callbacks_isolated": 10,
+  "session_recovered_after_plugin_remount": true,
+  "exported_texts_and_reference_labels_match": true,
+  "export_audit": {
+    "valid": true,
+    "project_id": "7e2cdd1ed7e34f4883ba780461665397",
+    "rule_version": 2,
+    "record_count": 90,
+    "human_history_count": 0
+  },
+  "limitations": [
+    "Reference labels supplied from official taxonomy; no LLM labeling accuracy measurement",
+    "Plugin remount in one DSH process; not a full process restart",
+    "Managed host RPC store is not DSH subprocess confinement"
+  ]
+}

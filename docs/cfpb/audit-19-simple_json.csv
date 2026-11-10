@@ -1,0 +1,1201 @@
+id,text_sha256,expected,selected,human,late,before_label,before_version,before_origin,label,version,origin
+6382160,26b4b0a9050e084eed76dfe811614fb12efe9c678a1c1db58696b6910a2e7996,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6383556,59c7e6fe544076838d08b527b4ad67a7643cc84e66980c74cf108f6a729c6a8b,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6385112,4d86f1b05bfd94f022eab182f000879a6832a409992a0c2c4a731b7f9d8d4f40,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6385784,bc5f4d865b3d286daa5baedd5285ae183145bf94beb2ec3fc2dd145cde25dca5,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6386598,09434a89d6900021e7b93274ed1dabeffeeb84dfb63355046c8097fcb9277dcf,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6387243,7f3b9da81802fabe82adc52dc29a45f206e652f89f02bac995d4639d982d0b9f,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6387577,458c70013f6a02b615eda4eff0c3178e84401e0820b64c0dff7976098ff47eeb,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6387977,9ca5ac5aea0ff04673ec847bdd2628d0c55bb72dc760e9d5c72631051ba7e104,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6388154,09d0d3f98fb39faa89200f844c35008ac302d0801efeaeffafd08bed7fe1a36a,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6388912,88e79a335aadd65737350e567455fa4a6d7879b44b0faefcdbe0a8e5140a7bbd,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6390620,d889a39d155b0ff74e279603cc314c2a68f850849caac6ad59b6cc38a892b87c,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6390980,ff34184975b5a9c84d505ca5850b4b5ea68c0051af3cb9aaa738303e2e407f1d,Prepaid card,1,0,1,Prepaid card,2,machine,Credit card or prepaid card,1,machine
+6391053,813c4933321fa8da111fd6765bad3579e691c23678b9672d5538d7b5ed215d3d,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6391546,52f7c1895f42c4e047d86faed6e62a321c5159406a8421ef3f402517c78644af,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6392064,12bac38da42e00d067595d5a940d6940b26b4842be1071804863651ef5ecf652,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6392068,2b49de68ddf0df6a0943e533fdd04583398ec127f7549377c91f537618745dcd,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6395502,924013361c79ec34ccdf3a9c228dbfe25c6e10d14f64e0ba38c35ae831c4833c,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6397409,85224935d253d2b97947f78eea1fdf9ecb54e2e41f33da47abbf24f09b621d3c,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6397693,20a97602abb3a32fbb4b8f927bac795bfd7c5a6e5b4b4ce1adc787617dbe62b5,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6397723,21a5cefb048655381389c0729723e9c225e6b1806c3cae5ac271dd09d9463c2e,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6398360,cd359d396a0325b74e253581dad1c0955b49cb5df6704484387ffa81cff64782,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6400190,03ac7b65431a9eb75ba5d4305c3955379be15f82fd5df65f6d6ba945a5a0d8ce,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6401483,22a37ba425e425cf8c9713b909567e7cf0bf97f64cabf16353f56e72edc8fc8e,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6402441,d8efd1dd6982a051cb21c72cac7b1bc119c8f067b370f45e5016d70cbc5cdf3f,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6403321,c7df43862db517393881592db2411654cd22622b42056762e40d9562bb5039e5,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6404076,6e3833a487c4ffd118911191dd3e53b6c535e44d7a9ca9dc0f07969cf4cec20b,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6405911,9cc031b3c124c6f4beba01c73b55404b800753bf48a62ed86d60e00651910671,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6406666,f02ee3bb6bb0a6050db08c798891a335cb022fe33297464a3bdbbeab9d90e3d5,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6407026,53f187a266f3b96b909e87368e3363fefe4134053853bf1af75ca9aa96d83b6d,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6407104,239faba1299474ef6a80836d711a8ca3a7f2aa95d56564b6a5209b54f45f0968,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6407633,9b91f81b9414f5c601ff906202704afb5f9e94ed24c1d2886f8e63c6fe28f9c3,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6407648,de8d2abadd60919bf6f346eba231d4952c109a98830ab1f4b1777e0d1b714c09,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6407862,1021d3f31c058d3a2546dbc5e926e425bac95425f832e7d373db2c54207e9aff,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6408033,24f00682eb27d1813349769e21a20df40fd40dd7fcca3bbc293403afbdf5abcd,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6409768,b43be15500425bd79a4ddb73f73d9660334ed45c204dd3ab9fd68742f2ccb510,Checking or savings account,0,0,1,Checking or savings account,2,machine,Checking or savings account,1,machine
+6410348,53bda2b30b3886dba6fb663054b67363777ea4846abe30234a98f4435c8f8231,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6410469,01c92aaf1f4f6efc5470bee5c3b47629ec1a109e10a915459db760074c8ba5ec,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6410733,e51877f058f6128f8a86cab001b5b8c9477d1f0ec84c77de56b86890fa7327c9,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6410782,72f626b75611054179914282d11aac1241aea5098b3824ac29a7a92eaff70626,Prepaid card,1,0,1,Prepaid card,2,machine,Credit card or prepaid card,1,machine
+6411124,0b1168ce7c43cd3b8c9eeb85d099f9350a8211616d948f4872741e324565e651,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6411254,6135ad2e9b4ea4be770fc611000c25d324fb13f51ea450d6911ee05b43fd4971,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6412444,343c4f1ec97eaa9c8d46692e5e65db8fb834891d21f3e5285ccc537307d0f8ff,Checking or savings account,0,0,1,Checking or savings account,2,machine,Checking or savings account,1,machine
+6414573,1700d047b7949c7229ec956de99b3c67ce69cfc3a70b263d27b9dda991c95fe1,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6417012,8c4818f24727a5869c72feb1d95a4b29204e7a87e87caeae2c7a46a6300f823d,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6419185,3450723d99ca1b6d993f2072ca72dc115662e73308ec576f3d88bf574d3ff442,Credit card,1,0,1,Credit card,2,machine,Credit card or prepaid card,1,machine
+6419233,ad3f737f26ca0c021d71fe9e97b71996745b229fefe15adcefdc5af1ce46825f,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6420011,3c1bcf5fb7cdbb65a3c91f105c46e1c2913e92e3edc1c206305fbc7df50b9899,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6420217,7a03f1345381997082af9ec470c36b65c69077bfd849873a948f12be92f72a76,Checking or savings account,0,0,1,Checking or savings account,2,machine,Checking or savings account,1,machine
+6420218,d26c190599e8165936c668a6afcc0f0d9c0eaf84fab54f7574afa7dbb1ed7434,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6421456,ba98833dae6110c9583f7758366ac3f08f17564350e9825b15f0da2a40ff4c5e,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6421660,fd0f9b127f6b384785c6cad141783cff0510944745c39282263b3361a3aff338,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6422100,7d4a380e17e9f51ca29fc1e3efba02a41846eaa9d79a58a7b446f5c72a3dc871,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6422441,9887fd14911f76d983a9d04f94f4f85f2cef205d2720691e6db96c0b3971f5c8,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6422494,7d5364fafeec43a3244dc1934ff6fadac9153f57a7213af1c6511b1d944b930c,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6422521,4d031111a4282656df6327beef8d7b4c2c6cf36c28a4aac5de16aa97ad4b43b1,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6422671,3b863ae97916be9dff18520cd69b22aefb59f2eb6f582a48f27fda7b21e33408,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6422999,6978f182b1c84d1f5f1093a68d9562acd7e78749f411920936ce93471f518dad,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6424027,de119ff54ed1bccdf1ca3a7de861267349286e08c6f7d75a86b4c04bb852bad4,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6424827,1a423b441595b7691c3576659242ec7e4fbb0abbb82204766370d6c8418ff5bc,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6426149,743110bd2da2374fc159de62b314f1cf64db78d4d5b1ef98f383adbdb38dbc5a,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6426275,e6263c55ab36e3a4261cd89bbf733e7d8d92aa14e5359d8e8e904fa13d11540f,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6426654,5f20269e7c5322134151a759598f55a168202977d11634f0ededa1d1d3ec8f91,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6426655,99ab45deca05bf94519538b8dbc9d3980bc6056ff8b32cb377aa52a31b4942b5,Prepaid card,1,0,1,Prepaid card,2,machine,Credit card or prepaid card,1,machine
+6429347,62d1a78489dc2e612eaf474a199330881274aa05b1fb3439512121853b6c4c9f,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6430455,6593b8cf1afdc15ab99b110a383ff0cde4fe066a265f63e90ab219a13d1e007e,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6430731,5ec3264e88be605b5cbfde43b1a3015ce670407ec9ea47edfed03ed113c669a0,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6430864,97b0074ef47b52e36a12659dc772b28ba0b81102fa5324071ce389a87d61cb9f,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6431030,9a6f4a7c334bb9a61dadf016fae52ab4fde05db068e3e39f33d13a6f805604b9,Checking or savings account,0,0,1,Checking or savings account,2,machine,Checking or savings account,1,machine
+6431404,b83df51b646850ccd581ce4037f414ff363fa1e9bef563fc1af7e2f99aea80f2,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6432718,a120023c2274f5c2cdc4fefa10aa383e5e96e81d0000b85aa709f868959f5ba7,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6432753,65169b4c990e4ac31256e12bf094729b51a3086925962b57a03e2196f9ac7179,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6433945,844b92dbbc4c42f5d577524ae6f45b24e5086e2e6d92357147ec9e73929d2a1a,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6434178,b2275169f4a29c634a06bd1df2057de0b8e35ce03b0857069666b07d2e677cf8,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6434496,d9893294d9946a883c4933289bf70717163e273b478e160a3fb6a1b4441a37b8,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6435995,7e937791cb6a1c65beb1156a80684a07ff944315c6886344d80ff8299d5bf39f,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6438031,47abd50c7bc26add1c532d57ad48da317236302c83bcb477e89aee4ed7dd2d30,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6440596,4f936bfa42a6ddc05b1350b89408a822835fa2fd8e78d085f7214b8fc8ea0802,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6440636,9011d022542dda20b9fe66523c6f582a1889896278092b3891893c452c0b70db,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6441517,3c12a386dfa11e994d84034e53916394e0577fce6540e6a3e35a7eb46d9c2c77,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6442077,fd8ff17eb6f93b7ecafebc96314b1f80d488cc875d62122682685e1e5c5e9185,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6444262,421351127008a213de5284c59480af8dd652b3a4068120755583de68b7fbf600,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6445112,b0820e5f437262d7d005ed6ed268842198541f771bf42665af1a611e2811247f,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6446850,c0e8355770361d869c9a14d5ebb2c6e8acfeb036da7afdb6c8a5997ade187652,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6447572,a38756a7bcdedbeaecf2d14a0aa1ad0219c6ae1619f3b655b14cc3ea1e2dbf37,Checking or savings account,0,0,1,Checking or savings account,2,machine,Checking or savings account,1,machine
+6447982,5f122ba4450e3b8f8fcab7784c099e75746b62516b9a3dbdc8e6eac4525b24e4,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6448069,62ea3c1ed22b904c1453203eb9c2b80f1aeba9e578dfc97e263c9642669f8301,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6450434,9ad13fc4820e38828480f6965c4325b515e1b1fd7c20d627c4cf2640718dd7b9,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6451250,0a7b880345102e44de0d6e1e37b79798f2fd2a6ee482b9067344f89196b48ddd,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6452219,fe260651b83551e50b98c121b30f60551fd12dff6c30fc95bfa86aada4686af4,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6452337,e3f3066dd00eca31d3bcb311462f6237e915d6ed65ded1188fb5fc23de1d4f90,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6452461,85d2d6bbc8d79210296387754cdd038000b8dc843f22ec5e833d93e4ba45b2a1,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6453153,fc1fb2d12089d5f59c93b11946500ce3cc9615e612debfd2ec681f8ad8f0c05c,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6453280,5bea42fc4229d6201b19bb3d22dcb268542d67e12a0116206807de5ebe5853b4,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6454324,d1933564482420b829d0b0a36bee962e593690f7f2073ff7aa6f1505d37517c6,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6455883,4332ef0aeff4ee718924f96b0bc03974b02bf7eeaa57b5d0f7ca04a63851f2bb,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6456327,9039c7946e0903f9ab373fd1f796b11e78642af05bcc5fd51c92545579f7bb1e,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6456633,844fe82d1b97102ba4bf79c2f8b1e0418df29a325be4d7a71d6cc290d5a2678e,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6456668,fac5551d335ffb17b0d911f35dcdf9c433a5cdfde548b5679eb5eed6199feb1a,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6456783,e1d6d8bd360082816fc70b26e488da4c8a64fe71b00062f38b57b0e56b91e3a5,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6457248,bfece13f58a19fc7338b570d561cf80da6addaa60b2ccfe1d50f39e480cfb576,Checking or savings account,0,0,1,Checking or savings account,2,machine,Checking or savings account,1,machine
+6457308,9987b20332f6975817ebbeba8175ce4854041bdb3f891be91ad9dbe21192853d,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6458456,1aff59669f03b3bc52751109fa71d65e2804425ed30c3652b1bbd14aebba5811,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6458581,ea381ce26d8ae62da19e62c799dadeadb46b839baa2305f5d62b5daa25765f2a,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6458588,752601a39d6bb3977934f8b8ff8ce71d188896dbde9fdd36ca6cd168320f251c,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6458957,13ce2d5dd8a4add085209caa656828c11963ca441f132cac15f81fc4805e5136,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6459748,8432c7802b77016ab80ed8d3cb0d5e9a3c8c3cb59c8fec72804c0a53f70c7753,Checking or savings account,0,0,1,Checking or savings account,2,machine,Checking or savings account,1,machine
+6460303,597ae608138bad690069b6bf1f55485169addc1e6b4521559f8c3f0ca5127d3e,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6460317,f39cbc7b820955d078918ca2868eefcb4f488adf7536dc13aa59fbbc456c8042,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6461026,166ae49d6f7ecd73ae3613913531032c8a5a7183ec08056bb880eb65f74adc14,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6461101,5775f6b7ef2b3367b29faebfac122ce009100f0de23efb993d99d5b704589548,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6461249,92b1b0d15d56d11f09acd564d9acbf91e5b4360ac4f2a1b00864543790898d35,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6461266,bbb29c3c46839db30a89a1952b5a9b7b6a64ed5c2de905ef4f79681ed821f766,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6461378,cec64a6c7b33ce0a7d9ec62e48899725524005f25d2f2402729a4a03154dc1d8,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6461485,cb53ee7701b13e5efb9cc7eb6c290ebeb789c56bbb75446bf696caf4141e2db2,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6463198,fc6cd90852b9ed34edb9b42bebab8a781af2d20d436f178a085cf0483a8de40a,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6463931,4d113944eb6fa39b566b77fb768d8b1835d1ec9a9840d90e9540316ba1122266,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6464071,1f41bb9f22d18175301a9345ce49c67aabb03e5f05225a89acc936f0b6be9b18,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6464187,ec55c8c189e0292c190cf4849bd28576d8a1f35adcb51b14d6d0c8e466badddc,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6464671,cf6c5acf291ea7ceaac094a3fc71ffdf81c474dc1f3e60da92b0d656fde0562a,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6465030,a721cb57f35a8a7a73e5686c333e06407fb80dd43cc4c44d4eb35220c812963c,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6465516,a5e5f91052d5f6043bbc6a2d74b4ae8766cfe7846bc621235644e7af46864ee1,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6466535,0134eeb885401d7945582f87537a3ae46dd6dabbda54103f51f40fb2096f8741,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6466546,9ef63932d78639a1cdc2fb3a2a7567e8b0d6fa17358f913a7e03b91634c21163,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6466567,be1b83c4c6932031270827db34422c59804a42dcefe85526d2ef148ace67b216,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6466717,b9649852302faf4fcf826739c5782075ac1e7d074d03f1f7fa0f4ccfd8cd99a2,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6466857,c7a6368ef187ed56a4cf9102645f263e34e89ca65457c6901a625b32249fe394,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6466866,d19323ff525ee33b4f7ab0a0299702ff6949f43e66361922afa3412a5ce6246d,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6466890,03de68b61a2a4b53443aae4a31d89218c2b3700c720f54a1cac09ca5bf1e3f4b,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6466898,17341a9352fe6a659e71102f39c4ce2c4b3c438f78be946ba0437d082bd8400e,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6467370,49284694e2a2c88f432eb88121399a367d275a6322c0fe90ef73a94064aa4ea5,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6467492,1756b6f439a2b188acbe425645e89104734fa4ec6da5c0a56ea419f98da48d47,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6467666,88ebf0677a20e3c754a99b98e0e96d3bd12d2b0402db07c34e4e99da7fd2900a,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6467786,67f947e6a2d344aa291d4024c3ee37ac4236b382297fe23f90abb16b366f8d0d,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6467925,87de13a4e053e90149915f99529ca396f75a332236f9fdbf6602577ea3ffc860,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6468097,25f2256164f445bd995f4d6a5e93065557953a33ebc18f0c75add6968bf55cb6,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6468412,2da543f1ee6dc53ab68fbc1ed107d9cb2a167fa7f9ded13db01e2d050de0f02d,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6468468,6e4fac13b1f3554e01b1283a649824c181373005db7ecd483dd3155f1f26b6b1,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6468656,ceaa4ccaa3d4454ed19a88410b807ce7d903e7cb12b965454ed7ac7f48667275,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6468724,723855739801d9bf993f629085fd7a1e8e68f67be20df4553c272973dcedbd2a,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6469159,d7d602fe1381a387a54bef0e482eff9f1187ecc5c3940efb7c5e273ba4218702,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6469451,b4639fab7e6673b06ddf9fa0fc3be295baa37680d38a4587223a36e509f59464,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6470560,11662820ee86479183b9562451f63991396df72f6c5747b6104bc8f6de00513c,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6470780,ee64cc1fac7b74f223bce83121ec1ba5b7852cbefdfaeb8e608fc769d62361ba,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6470875,88edc4185ef26e87a80851eda70e99d3c0bcc21eec1f49c22addc9e48284ebd1,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6471104,70e3a50c5e00d669f323e323c80aac6d8b3712985e1b9f46be3ef89f5cc0a5e1,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6471516,00a51e071e76ee99322ccc18abef8d598f80f16337a24024c47cca7d54a187b7,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6471644,69599b9b8fac3fcd517514b07c1f0f3f45b5d6915bfea8669c3a6ba9399a4422,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6472135,23123f842c8fa6c9fca30f468428b9ed2fd5f302d61ecb78193eea0d8ae4c50c,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6472340,d394e70518eb60b04b50adeaf634fbcb0c538e5a50f20bfdcb2a16b0851da95d,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6472550,7836d22f9f93b8380fe119d2a391894c76019aaf0e5a62f124c1f307fad93022,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6473517,525dab0043fa6a6c3c04307e5f07b9087ef833c0bca29cd3cb226c1da0cce2c6,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6474342,7658a3b70ba6124be41627b6ccc259850979bd08e3f6d5d7e2e823c8fc1255a3,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6474673,f6722cd47bd1342e7bf1055d0c6d404d968e5d829e654a229e15209606aa34e1,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6474678,6a7a494dc4074c22b595c237b9e25bc07dc30ea8742538342f62e64f22b665b3,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6474817,35429575962c516b7ca15d62f84111a8860e3d3c5a89c83c0b4ddbff309b7cc8,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6475506,432b1a6cba8b4209b6d71d2521ba1b8bda4709e8fb9b60933009af6c216978e1,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6476124,6801186296397c2a405b6ed5050452cc6116f5e101d424f93843f9429150641e,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6476825,591d526437f021fad6ca340e8a4b897cfcc29d26b29891f1f1bc4eca046a81c7,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6476951,0376195e04678fe597dc31b223d4039669f8503939791f82ab4fab9968c701e7,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6477774,532a3168fb5f1a44ed84a5af4b73612760eb3c5837b4e655e655682bdc59b1eb,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6477984,3400d7d9dce26d1c339cdd67ff02d9c5109b0295511480d4759e5fc0961c5808,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6478658,16d4af51916741fa264a2b7c0b4b65173bd3dc3a73e4ec5f9e774a43b571d6cb,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6478693,70e7c462cf121daa933d601ca101cb22557c56278042f31d3844baaad01c1266,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6479212,e1fbee6232ecc58528dcda4fce4355dd829492c332dca1cafd2c0e6c4a2a1d1c,Checking or savings account,0,0,1,Checking or savings account,2,machine,Checking or savings account,1,machine
+6479715,85240339fb538a2b43d02bb4e2bdb61ba7691bb5dc8f17b652275d6ab4ed9a9f,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6482352,ef6b14e4b07b8ac0795fbd2ee286b456a87b35eb794346661f72139915a16ca1,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6483945,fa0b015c6b009a013d34eeee96eb86408419c209e3e84fdcc56abf3f80e0fea8,Checking or savings account,1,1,1,Checking or savings account,2,human,Checking or savings account,1,machine
+6485002,027cf33438130bb956a67fd9a859117563e66eed9f2c0a78f866b3bc22b069d8,Checking or savings account,0,0,1,Checking or savings account,2,machine,Checking or savings account,1,machine
+6486744,206eb9cb1cf4fdea5dc3ddd624864f137fc91feab9f14d2f9e75c08375051f85,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6488265,7d7919533bd0251ed8949e7087f105bd944dc1ef7689d88bfca88cf97da8a75d,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6488757,c741edc2fea45009311cc77247a4e1edaa3faa80afb29c25d1a0023c33459a39,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6490453,eca083f5df4c0a43b322a1dda650292071e87f0af390bbe3a05b3dfeaafdfd40,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6490474,4eeed58c8c9b744d5f4fd32213bfc2c46dcb7dca9d448f647a8bbd6d02629a9a,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6490733,c628e98a89aa80c4fcd0370181c7e04dc6d0ec7f750d24e7019840219177c207,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6491573,721fa679a1f00c05210a57c25470f3251697ca9bf876c557ccb41a3044e4986d,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6492544,75e07c90aebf4fe2197bb3388857535d98d14b0a388085e465e2f3b4b66e4d4e,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6493306,51e786dd7ad932b094a808b3d14626732b25ea53cc41c0bf7df277ba81ee7f72,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6494456,1d7cc71e0cb0943f362c63fa0c85a248c555cff24504b0da9b69c38cf0e205b5,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6495160,bde04c3817de7cea16a999bc0802bd243c78ead77b30817199b482ae051a624b,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6495469,a627dab017634ecfd3676326a5f572e653f7ae4671394e2a1665f4518a4d2664,Credit card,1,0,1,Credit card,2,machine,Credit card or prepaid card,1,machine
+6496517,b94beacf8798bab196bd7a966004342a710cc355365ed5024eed9eeae8f41566,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6497093,5a42182c0ce83492c977851a43d598a03ec859596cf3d3f7012c2d9355f2ea6e,Credit card,1,0,1,Credit card,2,machine,Credit card or prepaid card,1,machine
+6498841,2f6c6ab0873ddc1df64963fdcef0c30d5be379cb5b9b65131d01036e088470fb,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6500065,4b0ebf594c5de4080a683c8b25b67500221855e16b9d05fe6c8c9924978099b0,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6501869,e2c25c73390a9bd9d55e9060e352bc412167f56255f9018a80dfd2c6bd7b48a1,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6502779,6922089e1cb8f751a3b1ef5ac3df3277968f3531854fe039496fc8acda48473d,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6503135,f695b7ebba8f0b5fcc67feb619b23de1ee9d6a75a4015206e2f061360f0940c7,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6505135,6a5e0f0239d3cc055176bafd5a3ffb8b4f76641565c8e6c2fdfb29246aa00530,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6505475,70766fb8f4c752c63ca85dbed7c8bce39e3bb328383babb4e51aada99f464d12,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6507477,150ca8b6a926256147cb3dbdca7c468470bfe4798f1f46cff17bf1402751daf7,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6510360,098859a5fc0ee50f85312528ad56c15d0983eb9e6acda73cb15f5c4050cc76f9,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6510527,108365b3c94ce1e3d1773d2b969ba599f7e49e571fc69d12f2236e4dd9387466,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6510532,222c44832d814f307606c41d971d5b1c9c9a93edf75a8063b1f360db41a8789d,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6511472,e348a20e2accc272356c14193e9b4c267be81eef3967cc903d13bdae3e42d7ab,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6511657,2fb99a34ac456ea8fd6c9ebee8f1a1de8f97002a460536dbd759f40b3034deb8,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6513059,145cd58aa5e021decf5c70074d87a5ded1f2f37e5f28c75a9ee56b65bdf8fda4,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6515133,294ff355631a4bbad564f6481cb6daf3a42c180406140a7d9f5f6bd34cfeee23,Checking or savings account,1,1,1,Checking or savings account,2,human,Checking or savings account,1,machine
+6515909,7e02628b9169028014b27eb548ea077f706404162c3d16e9992f45a294e38c7a,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6516555,532a3168fb5f1a44ed84a5af4b73612760eb3c5837b4e655e655682bdc59b1eb,Credit card,1,0,1,Credit card,2,machine,Credit card or prepaid card,1,machine
+6516766,50bae26b464b1f8033b24365cf538d1b831f71a9f5fb8adc0242c821d124fb5f,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6517222,c54a24b72ad0d416946c100776027d4858aec54533adb32fb1bb5785ea7b38c0,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6518066,85be5374bf74fd4e63dd90c34c8b189d929cb1f06f1142431e0bbb580b6068dc,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6518576,532a3168fb5f1a44ed84a5af4b73612760eb3c5837b4e655e655682bdc59b1eb,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6520042,cbca96b9765c98e8310d1df8e922029fb03d60dbb0dcad266d3e615e4d2f2233,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6520608,f780486aa2bcaff77118d100c0184f92aeb8910e0c111c3a927fc79dc0b6cf72,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6521796,5792477f95b1b76cea7af746728c9a5a716aba670b05180d35f4c36a6994780b,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6524362,12750080a556d95d220e90554ca2e3972999aeb92a306d96e71eeaf9fa1b92c1,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6525065,ed7ed314a9a738cecd1d0f6dd0d4bc67c3c115baa3158e6a3a594d7aea2b9b54,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6525177,64995a49089aaf62c294dab21062b13067f097f4254882d92eb651c361c23de1,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6525362,edb994505338860f8d4899887cf149746b4a2fdce43de50ed1b9f21d742d64ed,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6525780,b7d2c891ed24aea77b110e703a7d16fd6925bb74e2751e5d5e71686a8fa706aa,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6526253,e454ca5318d6c7234cabfa4e87496fe379e096cc8a56ab4ba4b925c1f9021cda,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6527462,d482f27d6a3823d7dea05b5bf644c9bfe4573f32a88c215042853a1004a9894c,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6528140,c5c39407342131d6509360bd9fd08a248cc14a6f35ec59ba5437db43b1531704,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6528393,a2985d9439f1afbf7d3e82ed63971b551b9bf779bf8a00b06253835d086b01dd,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6530897,a9e308da7051081cc1be7e4833992fea2d45806ca49b98b62a55be64ffdd71f9,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6532794,67ed0995688db6afcf2e88fd274e4c4fc2943357b5b4490f28d65cdb8b2de3bb,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6532806,7b37edc5cdefa81795d795aa2580ee5a94cd6f711ad8e1222dfd3dfba0b04f92,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6535230,e1315bb7da33bc3fa2435849a7826e7d8c6611a8468491215d81996d9a817d28,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6535832,c9f0224f5ac696214d66a36dd02b346967c78d22cd6be8043cd6ad63cb4275ce,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6536166,90c858a7a06892f8858fff1b9f719343b2846c9189a16403689b87b144ccde4e,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6536234,bcd8b01a9855e48b4e51cf112a075b3639cf72abf7f812433f48743b905f2760,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6536944,37a5c39521762e46653cd0035ee13f65cd81ab69854ab9dfa002ce00b1338687,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6536999,85f188156f72d92da5c56a8a1273c04158781dc0777d845c6725abf749b0db6c,Prepaid card,1,1,1,Prepaid card,2,human,Credit card or prepaid card,1,machine
+6537718,2403ac63f006111728b355c9211a45189b4cb246e0af754bda486e7ef5900c65,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6538352,eb9a868f5d44a4bc544abfeb84a72c0a942d449434f2ef7cf119f3be71f3530c,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6538723,532a3168fb5f1a44ed84a5af4b73612760eb3c5837b4e655e655682bdc59b1eb,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6540637,f90c35d1cdee6349cfd91e6518787e1fd66fe11359c3ebe7755968ff5141b78f,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6540643,83a7705c25cea4bf53f0518e8d646633eec94c591373c320d6b0d4138968b988,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6540788,6ab297df8b7e38d4d61a65e0127292487dcd930f6c4ca576f765916071c0ce20,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6541490,9be0beda53e72ed677516eb7f829bf58c91007ef98ee511452a7b2e4a1769694,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6542206,b38a8c898af627698c429dbe29e82ba6e6670a7b2f8017536e02da0c150654f3,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6542542,9a5e2d76e289175405ef7a7c36a92b265b4e2e9cfa6c36f438e67e750b8f0c44,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6543946,36721ae7124f28aae124d15fc95801894caf179d0504db8248441cf098cb6ff1,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6545572,0add4e539bc34a3f74d62b6493bf66e546cecca43b23ebaec0986a0d882c3c14,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6545760,0499119bed0349a5a71e3dd8a45f48f5e2d3171e93b1ed2e15d75f18e17c6e76,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6545884,73404854dd74bff77e1cf7896bfa3585ac4cbfa44d6602454c8fb0397120f9fc,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6545891,836fa7f87513ee05631da6d04445b771be1f16e46cab5266d135234429da738b,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6546574,4c8550dca97ad611a67cb8a290f2b11c8a6b7054f8f83442582075ddd4138742,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6546655,6d844461dc3d087de32c827e1782639e6512ba5caef95f68aaa3bfb3c7785293,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6547366,f9a566c6ff29e49136004acbe6d2033c4666afe7a9c3b7f3a90d6e5e89827fc2,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6550006,428accbf790108cfa75b376d03f12495053936763592c3015941082abe4cc0b5,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6550679,113f7c96a312191f86d7d2decfcb7d8644fa0a56d887089169904af972ed214d,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6550745,be9d4e14c2f17e7927ff11cbaa777911e17c503da5c8ac4815e2ddf79c76317e,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6551014,614c32b5cd97bd364dacbdd549d00b8675ef69b07467db3888ee1c1f536c35dd,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6551481,93beefefd6b65305f9811037a31fc622e49b4ab5fc919b9f9f5da329cea9cd01,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6551958,101fd89547392ad36853031703cbaaf88823d63a22d2273ecc39fd9ad9afefaa,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6552097,811bdc6fc71368a8ded7c23fee1b1248d3aa707f0dc9c044248ddedb8306f864,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6552361,eb8bbe89d342b0a893bcb913260f07e8f859d78c907ef50e35e5f8982bd3d21d,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6553658,67afef466797b04f77519d83d56957fb85eb2f56c02a6685f2d96c920136ab29,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6554432,a3c9ed3054310e3751f912a41148313b54b0265754b5b9b04c4dcf069e6b0604,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6555837,1ced0b5491ec87f8c645e34e4d820a0fbbb53f3a9873af9477c1838a540827e1,Prepaid card,1,0,1,Prepaid card,2,machine,Credit card or prepaid card,1,machine
+6556533,5ab31382423651bfc77be87bfda8c14ae56a6287b5e99376ff55747167b28544,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6558159,e10a4d467f62b809ca91983d66c3ac34b295643e1051b06a297704eb56de3eb6,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6558909,60f0c25ae4fd8a0020042974d54b7fc20887782f3ec539775d13408614348cdf,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6560242,9e69e03f3989742ba18b19c99c2954c37302c0cde09adc2a0aca964a9303c6d5,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6560550,59b2e6bb56ac520ba7d270a280c4a578255b57645dea434e2cc8a466d2712ad9,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6561002,43d96d9310f40f14caf587f8f4194e47b404727fa2641e93ca94cbc2ecc1ad2d,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6561117,321f0ae25bd4fd907a1596823a6e1d258396fe8181f270c5c3759607878844c6,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6562027,399a985061f42e21afea4442170d34a38c71a324ffff2f95a23627be880e0e5a,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6562145,0353a53a03ca1bc2c48699d2ec27b145ce9d99bf7282d9a45a9952d2c3db61b2,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6562923,f23e5f511d1729cd2f885438af639984c4b077d7d158660b4caa29f54a17d3ef,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6563290,52b9dec5837c42805d7f9508ff8051218db815ef2de1d5f579a2e3ceb54b4082,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6565159,e79a37365c7d16408a3fff145694b130d310d067b06abde3718b660415c821ca,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6565555,634cf2292fa59b7643c44212489206ffeff74cac8f1b92acd78cc8ec78fc42cf,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6565954,8d78a87964862566d70808fd735990b69da1502a15b3d44bdcaae9a552cabb98,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6566512,a029cdbe8f3d0ac7e6985a807d69f60bdb5a084d2391d4805ed628e483675915,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6566586,0af07d9f55291c8d3a69c78a86e22a33edacb0d62d0fc06618f6ece0ade4e4ab,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6569686,e5a1a8fbfc9c47ad58b0723d443eb97bcd138c84ae734e3abe17976e508b5ab9,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6569823,886893819493f23762b7008507dc96b66073167f5dac73704d87697371311182,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6569872,0491f900bfbb2fde30c7fcfb1373d680e54e5d5951e24149c8242dc2a31a9e66,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6570209,fce65f2625cce9536ca5638e3306c31bbeab48b260850f077caea010660bc829,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6570486,32d32896ec319a010adf042de447ef4c0b46921131d9c7585e29456134845df9,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6571523,0905855cfcdbb72d74eabb5cffbac10d2b7dd03194493e93d227af42f6d35725,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6572326,7e66ab6ce7f4a9b6933b24de487318b244a9700985f837a6af83a52188d0f038,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6573333,0cd55dc840a6bf2f50aa11183e93fed174faf750efe567308493953aef5986b6,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6573704,9baafdcbfe6ce11d4df00c7f97a8c58252c69af1fe24dbed7a75fa2a3dfa9c81,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6574506,74b28adce355e350d56d3ded1d6e1fe6178797123cb957490312e6a7a6dd2c5b,Checking or savings account,0,0,1,Checking or savings account,2,machine,Checking or savings account,1,machine
+6574811,122434aa0f87acce97e318566b5177923d7e0598cd6fd0690e28ed28a5e4e2fe,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6577595,26e77aecfc5796091467709ba82491dc261e1989a22c2b58e3ada3a165b8e3cc,Prepaid card,1,0,1,Prepaid card,2,machine,Credit card or prepaid card,1,machine
+6579357,4cae789346e5a94f19c9bb9501bc4aff2daae1a889c600b5b35d86f251acf413,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6579501,29f52aa4fb38ba689657b2859ad4e74474af922c9a16b6c30f3a8ffff28e4f24,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6581009,13f4b2908ab5c4a5a18291fff682dcb0af8ecf2309d58cfb9c35cc362e3a3969,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6585348,48f011fa55c1280a43fd12a33c0b5f7bc66ff95f2e84239fbbbe4082a2ffac64,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6586367,cb076d77dc490ecb2dde0b14a5579ada438aa9e4c79abfe41e07dd7f49520254,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6586385,5786174baf80cfba6ad191a61eb27a7fc8c4f296726acd3372841c5b9cb73b5d,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6587963,1e33305b8da444d78ba18e3162c772faf55bc7ed60e007355c88eda32d5c3c25,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6588542,06f68eb308f09f6a9d6e43b54df5f0af0c2997c0a9b60b7938012bcf7ec2a782,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6588805,71fe57ac614f5fc9931c19a9258f4a7bcff7d2cf224ea88a7330786698a77c1e,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6588920,24c76d94d1d352316383451c5de7b87cadf33fadcb8bff83472b10e1c1c37302,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6589174,a3d37802f44b277805fd3c06d4b653240113d227a517a92a91694462e44c955a,Credit card,1,0,1,Credit card,2,machine,Credit card or prepaid card,1,machine
+6590187,31a1255a9369e64c8973b8f6fb96c1a3f27b40abb708a83bd09bfaa273e77c98,Prepaid card,1,1,1,Prepaid card,2,human,Credit card or prepaid card,1,machine
+6590641,57f5e4d016487e4b223a7a3c640d29626ba5cbbbfe291edf6d981ffe8d7b49d9,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6590809,f7d7c9d751e2fb0a1860ea0e3b0a007d8ba73898f48dc91c9376c64656d86679,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6594239,b03592834d9a229e793ec29cb37edc22cd64cfa76dfa2be6d7e63128c78a21c2,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6595021,d0b3dace522605f543aa282cf47ee20418755e9185557889c0e6c2ec729a61bf,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6597538,1a93e075bd4d8aadfb566f81cdb9fe9a69a63660ec143728f9929d45eab79ca8,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6602055,ea9677c3f61e05ba29bed5f67e7eb13dc83e8a1c739404ed368df0b5d0ebcb08,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6603026,0bead1c66fb47394777f467f7d961c5d8348901da5590343d21c078fa3078c7b,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6603263,9e7250cc8838ec86b55f98bcd162cb62f59040d1e26979042ac68f26260f51ce,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6603456,3f6e55d43672fd4270882fe45f1c2a2f5941ead8ec349f492a239cd9ca1e7bf2,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6607337,513a76059f996d5c98978495e6e4a1c1f6337673776302f77fc495e27d20c90a,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6607490,fa0da831abaeef5e8b9a91b3eed0316a95b9bfcaba3283bff3d7b1b0f0f6e7f5,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6607499,62eee18c0da7b862c482a30c758fc944a778f120611275b1c123fce3b4a8e72d,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6607863,9da8d82cad9119e77ae6b93ce655ab05ffa11edfd3fb244ebafd487c8f44f38b,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6609063,6cb3f91a803f670cda2e6671c5fdf3a359b196a157c5f724706325fe7e0354cc,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6609681,002804f7f6d0a1ee6d665e8153ebe2592f108141ced065983afb00117089e2f4,Prepaid card,1,0,1,Prepaid card,2,machine,Credit card or prepaid card,1,machine
+6612263,b7957936d0152891acb0228e6d833a81129669174859001d18395f165fa88d6f,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6613312,cb92f5e7fe1f68ec249147b278eb6413aec12db430747cc149faf60fe1134fc4,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6615647,f9d0f978420bcafc47f18f5f66c34ab7c42a2bb1e1afe3fdcd4d18374b1b63ff,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6618201,b24efdee767d2d806047b9fe322fed4ff51edeef70ea9765940cf32de403ac8b,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6618397,c49003d2f2ba133e28f9ec2d78e7fcebe35a89c91c38774f467797d348e9ca36,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6619162,6b28b7922678a08f7cd1c771e5c578dd749407ba1763316c2b97a394d9953a26,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6620039,223814819b4d90655f7755fbd0c32b6e97415b13201777abd255e60b96ab8d48,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6620495,34e430bc44384fad901859e257771f2175b8d6869e0c22aa0d4186fc8a3daf69,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6621120,5729ac62fb3b16aac4ded7f1c65559f7c03ea6230fff70e7cf0bc9d4fbd941cc,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6621657,4ecbc552909876438245dbd9e7ed401cbb65e1adacf481fa69e9aa4007094028,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6623427,f903e502c005f6c016d51210062512549ad35c05a1047df7af330d8184293b86,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6624085,ea8b808d9562888aace56096a62264c9508d0b1d9ac390821eb9be74e3318c09,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6624430,799de59284424d5191d8923551ae6fb5432e2dee2ec509012cf9b678f83d49eb,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6624694,66b218ba5d25a92546e6db33f3cd37c5d7a7e7e54c974df95b56033e0d20252a,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6627638,f67d2513a9e70a213e3da9c504e6c798151385b449d51078de30ca7f5c639448,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6628726,17e3dea3ebeaf93e1fadbdd33f50fdb05a716cf5bd28336b70062d83b458b8c4,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6629544,acfa4d4ab75be987f3c4783876f73415d237a2b2bb2b6fe71fe37ab36affcd16,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6629926,7b5173e71c2eddcc83f34faba8ec92c1fad48b93691e88fef604d6f63936f5cf,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6633389,edf98399a4d027f2b6ffb67e76d6a0cbba9945bc9481e4797d0609e9cf2b774e,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6633643,48dafa489c5a03d4160e4f46570b4f9d56efb224199ac6e7164972823d17f8cf,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6634265,541135aee26a7f578868eb79df86c4a51bef95bb42e94d0655e97de8df2fc13c,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6635087,85feaa1f5d266c09eaa10acbd8860ce308f73d0d6f3945e1268ee0bb6b1f8d97,Checking or savings account,0,0,1,Checking or savings account,2,machine,Checking or savings account,1,machine
+6636001,212824f11027774400f5b414e1033b0b1120c1c80788781a4f79f4069ec42e75,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6636086,d1b5b42c655ce896d87720577d879802db73a7dc382ea4d2ab48997979577900,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6636114,92cb0d96218fd778bf89f02f4032ae15f8a64cffffe85c6052e7f8255a117b62,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6636797,738b5a9b1671421ab974644657f4a96499e5acb928cb9d511b90df67f4a75ce4,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6638820,85085d846673675ea2d2af834112ff48265ebfa864fd86ffa23e3bb814298649,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6639327,b932d9688da48951f45f61c1fc61368b01551bba7d892d290063d091d1e1f5f3,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6639401,42aa3e56fa8151a5e09ea4432fa1e0d4a9cc8ae25337753b478f0de03460c2d0,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6639583,6941af9ffb1cd521756d98d521c6378253cc0c3e1524fffc8237b1414d76afb8,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6639634,58fbef3eaa347d8b64dd255f41b0e7854247fe62eb0490ef31131f89fd249527,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6641191,5a121d629ce35d74447615acea59ff1ad0d27d01a07015b7822cac11b0b52f81,Credit card,1,0,1,Credit card,2,machine,Credit card or prepaid card,1,machine
+6641855,30cc264bced545983b9fae1550b8e18fc2de4b4223569d5902d0473f9a051941,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6642722,796eb9969e142504b96e0f8a88a53b412d5a782e58f6fa2bd6e59669bf65e9e2,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6643329,7f86b04eaa25343cd38a9b9dd11504c86101caa79bca6c2d5aedcf00a277844a,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6643894,cc3ac5514a077c4f133caf697aa3a719b70899c950cd7f3eca3a67e21d581f24,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6644101,fcff777c113d598b98630ef3c207f10573b5772d6977c97602526de1dd3ec1e1,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6644783,4c332933b134dc4cc1fc0a8c2cde276cd7ccf7f87faef83a23cbba0be4fd1bb3,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6647462,2307783cb5124211d327b9a85bbf8acaa255cbb0291fdec5f8e8f776a5f33109,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6647924,ea549127c4c8867ffdd9eb3d5dbaef05e2795f5a83293dea0e75ab71ebbdc6d4,Prepaid card,1,0,1,Prepaid card,2,machine,Credit card or prepaid card,1,machine
+6649622,334a4c31926c48991140c455c80110c8c687fc5ac03d0d5cd934320496311f03,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6650020,f00ca860fc013cbcb675e0b94cb6ef33b1726b9967e370a36a834dc766ff192a,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6651318,babd3b9024ffb528f58b1c9b448f36f69838d2d4c7914e4088db3ef761505976,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6652583,73fb3e72ad586b506610a4ae31c49ca3b4e24d9ffb3169d9e7871d27deeb58f3,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6654483,d02d16d0ae7cc50bf5763d890d004b50c13c8f9f7f574b60e2d93042ec5148db,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6654669,a4b9ceb35be54f7c516ff40af303a4289abec3840160cfaff255a6d88fc37528,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6656910,a52975d2b67db5a65f5d1248d755028a5ace3e17201a9d24a38a0ba9807e0b4c,Prepaid card,1,0,1,Prepaid card,2,machine,Credit card or prepaid card,1,machine
+6660252,9c0c0ce52bb1ce90de37cfb5f4021785b828c67fa9232ec471263afd0bcb8c33,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6661692,fe83371155cad5f10ff2d2f0ded6b323544f47a056a783b6d595b43ebfb4e622,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6662032,7f04102e483a2a8a925d52a02299b339d7385100f492328d97fb110357bc9689,Credit card,1,0,1,Credit card,2,machine,Credit card or prepaid card,1,machine
+6662328,0602b8b2beb5b3e76b282bf718dc293d540a9250a89dca73c58f1f3d54e48748,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6662792,0339110af50a11e3b68b675b1b2c7617baea946f38be157bfc839e06924fd088,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6665639,52c069a1f85027fe6728d6d777c05693809c866a3a4eb4dc4f17192f0960cfea,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6666882,335186b909ac4204575c407f6eb4c9992e309ecf3f66168ef1af4745e0d19093,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6668978,d5097382bbff8599f2bd0e73b580700a7eea6eebcfa4abf9883d909998f79cc9,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6675092,840b5fc099b523fbfe0b057faf8d7a0032617004104aa9a9df9c106ebfc68e6e,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6676969,93b71347b2c0fff786fecce826d7e0f5a4b88e39cdf6643f3fe540af8cae923c,Credit card,1,1,1,Credit card,2,human,Credit card or prepaid card,1,machine
+6677055,3de7891722d849fb517fcda2adfa88c591d0ee2f64665fc09ac61838f78edfce,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6677296,95caf998137c24e3f9323ed20de35969f2c6c764355a6c1de7f0a61981c174f9,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6679539,0fef1f766b86ab3f164446e03acdf412a2eebed85c5952ab30433d9fa995873c,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6679903,234b922a86b7fcf45469ddff3b09abc3a57e91ff76eb4472f1a01ac072c9908c,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6680143,2ce772e7b36afae75f583f50e877aa697c10a6ddf886385f6c1cc3255a8bec0f,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6680306,e5031c81e1d7fdaed4eee9b4eafc153f90bdf6b241a6242cf554013bb62a9c16,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6682459,b21598624523dadadbf94c5fff43dce10743cd1a1aabc5b7bae30fb44daf10e6,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6683059,06e6d65be41897fc3a8acee35416ff3cb9b28b4d31ac1d2783b107726f929158,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6683119,90d0afc293b2c067f64cab97bff71fad30c7fdb713716972daac5109cb2dd958,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6684699,08eed9bcfe9ff5ee6ce1a0b2ec2c02266a277a59cd8ea7395ea1592332aaaafc,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6686182,e2407fa07181b38d14a07bb46e26166cc1a480bc0fa354de490be5f246c0db1e,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6686311,ee677862cb07cd0e34dc4414c38468a6c5bf8b187f07fe67d5941a48cde9388c,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6687897,68a409369fd8f8c9e95aa03082e47f5c892185437cf4e915cd815c01c469e152,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6689423,532a3168fb5f1a44ed84a5af4b73612760eb3c5837b4e655e655682bdc59b1eb,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6689870,93c5d25378f890b6012ee57a653d73ddf6d754014685f9fa87a6348db198031d,Prepaid card,1,0,1,Prepaid card,2,machine,Credit card or prepaid card,1,machine
+6693222,bbaf38f54d44b1d98990f581fbeb41f3551d7fec1cf42c42d496ba7e31fbfeb3,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6693613,3295c0fba8ba6075606c76b2d418e37b1667805d1d1bf59d19d52eab25c954d1,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6694444,532a3168fb5f1a44ed84a5af4b73612760eb3c5837b4e655e655682bdc59b1eb,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6695312,e0504da6944353d57b2647b063898cd54ff13361037766789c5d4d66e4d12f39,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6695944,53c3c05b1293dfa3d270e3a6cdc974fc5eaca7428deef43794a67fb7760c356e,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6697729,f81462b379c5657f7705f04103579a376c2ccbb77e82e699b5e876b800577046,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6697883,bfbb50d5fb3f07d60b5adc737641f0a1fe054b02bee0c4fc11c02a925791c8ef,Credit card,1,0,1,Credit card,2,machine,Credit card or prepaid card,1,machine
+6697899,3afdae57aba20a5a784f4371bf59b6ed3527970f8cc5dcb0f23b8a7b89aab232,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6698078,7b0941fc9e0b5efe19926789a80e4d7b05a88550af8993d57863123094cc4e89,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6698286,5d64619ef01d4f6be135ce24b9ffe3e16ddf793b2cb32ca98ede0727549505d4,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6698379,618cea58e39319c129bf182aa596544fa0e6d9afd5dd4d6f2266d1feb889229f,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6699555,b52078cb72571dac80eb1b4b94c34f19116dd52bf5ef2ede3f1f0a9ee5f43d73,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6700026,b10bb098d975c1a9c7f4d03dcd05c268428cd1a4dab6f6b342ebecd1fcbd158d,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6700121,f55314696dca964311828e1508f8e590466b884ad9e06d054a37d5d919723b8e,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6700416,13aa160337deb9fe99dd42b608bf53afeefb3e176606913a296f61e3b0702dff,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6700842,bb0e39e59cbee39269a698496a1684cfc70c1fcc2ef6e0aefcc507bcd36d60ec,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6703485,cfc3a71f3c3b4e31671a9bb7ac56772306dac076e79322f61f0e825111ce3cae,Credit card,1,1,1,Credit card,2,human,Credit card or prepaid card,1,machine
+6703726,6b52894a8c7e4c49b63231e1683059b03003d0a5bf595e59c8900d1f78e28099,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6704213,0a44400d57050801a27300e785776c4a6668284f1dd0277e3d3b845e67ed09cb,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6707309,a3b9a6f783046218efcb21d53e0ae1de611a4aba2e61762dff8e293c4f42472e,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6707440,532a3168fb5f1a44ed84a5af4b73612760eb3c5837b4e655e655682bdc59b1eb,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6707859,b70ede9cf342717aea68bb6a4bad79a8f3f92000b1e8f998fdbc4a0b0dd50184,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6708058,444cc120782c06a469507b0bb9f88427b5265e79d1aac65726656fd82b5ad99c,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6708807,3183219aaee36395a274e5f127f13fa323c0f45924cb70df2ea6dd9546d6e136,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6709360,5c82d6e98624772d06ed08430264281051fd9abf1446accbbf422cac52946c99,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6709659,b1a7867895cfd0b540dce141c544f7e31b3c688d508d2c4a8a92a5caa81bcff2,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6711080,cf705c72d7eff8c985c1a903150cc8ede348c9c7c0f2a43560080a7829c70bc2,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6711336,bb9081a390a2bbd30bfeac8046ad281ad1e278e616eeb284e0876413e580b480,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6711356,6b5661345972aa82d6ddc2f35010cf6a0f13eda7d83c3daed31deec79b785329,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6715792,9a90bf941ecbdbdb70df727750d3765e452cf02397398668f3b2e06c50808cb1,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6716299,4e5fb6883184a5b99ad1cf5774c2bfdbae8fc5a7b3e0336d63656327376a7950,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6718307,c70d9a5175704d63a3307a719c7a67fb3ce2c7f7255d2b70090c73a714b10558,Prepaid card,1,0,1,Prepaid card,2,machine,Credit card or prepaid card,1,machine
+6719198,9c04af9d1582de5cf7a795b8c3fbd335984859109b94a53af243420f9b0ff600,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6719745,4843f5a1d9a2bbf2ca420b6112751d082c18a9c5ea4144290484b9d18f76bbc9,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6719784,05d7d738d765ee5723e20830c57cb80348fdbfdb71a41180f51caa1698331735,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6720584,66834791008af3dd797d30cd6ae4d658eade59bc15f0a494546aa457d04a8984,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6720697,1135aa28c19a58008b70f259fe618e4202717f6bbb96e87caf98c86da44bda76,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6721080,70922b93164667dd142e7134fd6ef3a32b433c63a5432a81f20277ba2b3a016e,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6721375,c35e320d186d722ea089f4966d0ca5c093cf12ce8a4ba2d8f4ac95a340180ad6,Credit card,1,0,1,Credit card,2,machine,Credit card or prepaid card,1,machine
+6722002,5c855ba5470d1e8a8c3ecb61ec7807d457427746b4dfa53f4c724382003ada7e,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6724429,98c32cdb7501d5b839de07c9897b6f0e78aa3648101eac40f018e7ccf766b151,Prepaid card,1,0,1,Prepaid card,2,machine,Credit card or prepaid card,1,machine
+6725021,7e0190201d3219b1783913003eb40cfd9c82b019bf49ae7847c31729f0f39428,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6725062,de4682c205f575f1f7402d110d0c4b4d64a38981dcef334140b0a34ac360170e,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6725070,02fcd850d0c261ea9f296ab55d679a8465d0ed794bd0a4d1fe2b5e1301870279,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6725449,05e583f050aef461b1a6475e3d6e925bb1f7f6b8338fb3872565b16e33a750d4,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6725631,380784cee8f8bd4b64ebf0fe3a6ca6dfea12a02a65d7a4271d8cbbdd71884f51,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6726487,99db3e976b857bd5c654ff22ebc84007819f8ee6772b81f6fdc4e456bcfa4f6e,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6726716,964eee4d2926933667330dc474ac5da2a98b6a24f3708f684bfcf33756b6ffd0,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6727003,7853752df8c90bba1fa13018f50be7a17766d4fd09b8d1079011a0165daed689,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6727474,caed911d98e142fc7287b09dc4d6258d30f48c1f767fcee5b985abe105dd6027,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6729686,f379cc77836de7b8269842bef022646d816432d4c724b92f8a820b95dfb91237,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6732015,a05e396743b2ebe7fda4288bd4c38a3d56491368b6b3e4859c52b57ac8795a79,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6736083,19ffc31317d649c0df4e1f2147757672a1464bfebd3c9b024f221a21ca3b2857,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6736794,9e8b4062ef22a858a15b9a2c9b663beadd296979cf70e0aa2544e19865e801f1,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6736916,28c4c987a9ea04acd40e0fdac033775e21d76f13432cd50c22b5a8a0066233d5,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6738164,67f1baf361f4de6de40fa8aaebc7c16a0b9e7fecf2444fa83c5c987723a6a73d,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6738431,3b9b016d491ae683d04316872e4c1f26aad05654e0282bb987753084ec742d05,Credit card,1,0,1,Credit card,2,machine,Credit card or prepaid card,1,machine
+6739661,e9c1b9e5f41cca8c6a1bf7d7e67255992e4d1c11badafea074cab9ef016889e9,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6740131,04be0ec4c07c09877687632d05d1dc08ee93d0456933ac6207c801528dd54307,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6741638,cdd97b635b54748c8d54f41d3cf9281665655f386c0a6143928e05e7b34ef9d5,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6744185,122d3bf1bd7b957192f1383fd8292d32d1df3e8516f44b4081d2bd539fde7f88,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6745296,67a44d50099dab694a87e4a1c37cc218eb7e44e04e37e0e2e360c29a6d42b377,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6746079,14ba86fcaae6b6663040fe34c9b8b5271f52044521881b8241c49b4871923f46,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6746258,4a1a9da2eeece60958fef7106ecc5f6f11f3733313d5d1619316d3f33eac7c0f,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6747457,b9fb2c99d7c556e73d96fb7010f75a7cf8baa51f09148a24cce456b72d66805c,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6748051,4b39efe84c5c9854fa03ebf0208c43a8129909785578f4d33df951b41fa4ba49,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6748415,b623343479596642509b616609c3fe44fabe3d3a458c96be187a5721182c625a,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6749536,ea0be14ba26f1189bafc06498b5a3c780776de6ea13d6e6b7c85111164f6b7c1,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6750302,1fe51b3f118e2b5d8e9e6d4b962c619d499ef1531d45b35d51cde918632c0116,Prepaid card,1,1,1,Prepaid card,2,human,Credit card or prepaid card,1,machine
+6751439,502fd01ded2c28ef1838b2577bcebadcf24ec5d1da8b2d49525d43b83f63715d,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6751496,aafe00b75be707d3b438b621d2a3143d79caf45ac6a5c39e06d5fc667ca2c94b,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6756885,05d6f3c5d135528e13bcccfea44b6215509b23a81319b0fcd305b58f3fd318c0,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6757044,cbbc680b184e4e43dc975cbadbbab409992646d5eff27e95b0b943d0fce0da5c,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6757389,146b55cd0c5ace141b4add60dde5df96be3f999a588970c795810fcaa2dfd206,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6757449,5bf82345490db63cc2fff5aa7d4cd68b501dda96dcad6bf309261c123455a0b0,Checking or savings account,0,0,1,Checking or savings account,2,machine,Checking or savings account,1,machine
+6758520,04e566eed945f9f06b699b105c2ba16e359e1be8b0e37e412673ad039f650c54,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6759257,9e9faa63993ab6b0626900de40769b0800a8f5d68d4a3b891bf6d9a056897e76,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6762327,02d388e20ba3e6be8ab323136288c125dec32205559c14f0108ba14af69bc8e8,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6763475,644ce8b9883553211832ff31e18a078479d35d9ecbf50499cbac44fa0c33f011,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6764682,c0dd10d022ac5d5bdd6ba87ceb397e26237025207777da78ab97d136aa0232ff,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6765278,8e924b85dae50fac0b64e6a7f9a15d3bc6498ab0079c49f069fb8df37004d0dd,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6765479,00a46376c19703cae63f0ccd414646de9d77acaea331d0394c8b2f9708ed008c,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6765994,526647013347c189cdc96311f09a5225bbed57978dd092decb534a208ee7ef94,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6766709,0f96026f0f7372592bc76612be3da543d067324591ce29144be0ac306d22d44d,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6767374,55d07abb93309c955251bfa8207edcc65b6c938b9b98b206ee9f91de71865a98,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6769805,42310e9461e115850bff68789da1eb96ba449e4b2faacbb72f4cc28f7061c39e,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6769968,80642f9dfa053ccadb0aa4ea9d01a8c9744c3943d21e4bd6af7bbf4d5b1d12ac,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6770217,c13a5ebadeb859f94056b41ac9bcda422bce952768bc6ae0ae1f513fd1d4dcd6,Checking or savings account,0,0,1,Checking or savings account,2,machine,Checking or savings account,1,machine
+6770237,8563f0798c3552dc9f8fb0a6b7b77972d25c3ad6abb99077d7d7aebea09cda02,Checking or savings account,0,0,1,Checking or savings account,2,machine,Checking or savings account,1,machine
+6770500,0b2095692d5f47565a47ec9e472e5b336fd463cb9980178727d8570f4768c95d,Checking or savings account,0,0,1,Checking or savings account,2,machine,Checking or savings account,1,machine
+6773333,dc05364e247c2659069649a5bc1a22dced7e908ec8982ec848bd0a16b24c930c,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6773487,95c0e786acf80c1f8b6aa297a8e62d9823e520ae08c25361b4793c182f1ad7b4,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6773926,452e57c56cf7e191caddc089ad15e1610f391ade80e33d51e2d83df5d24f1615,Prepaid card,1,0,1,Prepaid card,2,machine,Credit card or prepaid card,1,machine
+6773931,e165d75e02dc52c22505fa4e0fc757952e0a38bc26f5006a7fe7336fa95d23db,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6774086,769fd7d687ba68336064725121ba59c0868da73dbd70cf8b7db99160b3e3d0a3,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6775040,ba941745ef5c9ff19a0ef68a3d655cdb98ba036975ef22f77b71f5b6ce15af1b,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6780936,b1fd3941ff5d39902d8fdcb08b43f001c6b33815900caa5a4ed18cce47c2a5b7,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6785516,7f48b98d804f33234765583489c1b5ce1afc2857dd39b57ee7b73230e6ba642d,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6786597,54c2cce286368202ab90bf88f235d1090b308cec5e2df8f3753dfccf6f6a11f1,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6787293,08deb65823d774437b4527dd38b23feaeb4c349a4819bc3b225abec2c37e45bc,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6789507,55128478f96781188f2695d2c16b8988584e0b63f24d0f51f3fb468667cd578f,Prepaid card,1,0,1,Prepaid card,2,machine,Credit card or prepaid card,1,machine
+6791480,a1c9e9c2b6a1ac6ee856c0407e99ea6e50788af69900a465a0f26be2027d06a2,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6791686,19c05994e8a3956ab6b9e027c70933456384a3f5ae2514a50972f23df01eed7d,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6791873,30cafe81be3d64bdb6371dc8d4dbd6d04621b4b9ec9d9434838abd83a99e9b50,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6791919,9ba639ea54824090e8ec0f8bdcab31f81e3907f0814420a183b259d03398faca,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6793435,640a5ee331434c3566fe75cc79d4daeea14939c8deebf36287b7f7b37b7c7d72,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6793498,7f544f9a583e773ebcade8717d4737227c9886a333aab5c2fac6c599c8ff5d67,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6796068,f131acd11fda4f7270b89b525aa8c11a85adaad3a8a4f980b3552dfa6deb311b,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6796076,ac7e046def14257bf7cf7c8277445fd25256c45978c8c51df1a5a09ea943c71b,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6798009,e392fab2bda2ebb8925ee78cdff132f01634bd0b2291eb260cbcbfc2a66f1ef8,Prepaid card,1,0,1,Prepaid card,2,machine,Credit card or prepaid card,1,machine
+6798113,df27c458d340e1bee336cb92c1dc32ddbb07988b41733bf35e22dcc061434fad,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6798208,d40ddd7a389d19d1a8ecf2a10804bbf25fe07463835472fc64779906e6536909,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6798550,f4c7506f9da3db45e932d264b32575d5d19e405f88f020daeafa40b1b3de05f4,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6802897,dd488bc4f673fbb097781120c6c36638facdb2f2ffcd89185666fca2c75891c8,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6803391,d194fd0c0f23631be10612744c371f4e260fe9ee3e71d5e89407a611627988c4,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6803939,672218edaff614faf8c3da9fe6da45576980bc13a58781bfb2d1c2fb69bdd1ca,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6806054,095ab7974d04d5efe2730d594e61cb78215fe6830cab8d909152612b53a654d7,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6806938,cbf4b167b2cb97368d84d47595e415b9245f418e9180df75d9af676e55d7c611,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6807036,5c977c243b7fc85d7080e174891876b31bf125323600aed112e53ea13874b257,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6807492,9bac67a02525060be05d7e8d51c0f3a86cf0f1bd6bc9adfc2c25f0aa603c329f,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6808657,930f459ec398ebbc03d05acae7d741e13563bb90dfe9a569fdc1f0fc2e23feca,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6809177,76c9645e378201964665ed0efd7be69abf99a53c7ad0f343270bcf531541e13a,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6809186,9c5376ec7ed738ae4e299cd01329603cfd051be46cc0e3053d5f226e088a5d28,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6809574,5fb385649aa682b159f851267adeb1f9637a538c9501f22edfd1b5dae985e147,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6811491,08e4d8a98af52fb8478d3686f77ecbea55ebd36beb57553464c19de1350f41e5,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6812284,b06ab381f9ff0e21668ba398c0d1fd76ba4162cdba4affd97aabf270d6fbef83,Checking or savings account,0,0,1,Checking or savings account,2,machine,Checking or savings account,1,machine
+6813084,47ffc4b72cc047134d16a241abaa4f15158ff37e15019f5fa8416ead0d03ff65,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6813633,43225e9c61ec4f27f1b00763ce0846c34f94b827cde45066989293161a19ba89,Checking or savings account,0,0,1,Checking or savings account,2,machine,Checking or savings account,1,machine
+6814117,69a71637749014e61068be4bdbeacd87a67fca07808d696a6208dfc70987fe10,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6816440,bd9cc83455023c6cb86c93a415d3f15b93523cdf6cf7f3739be7cc03f86649a8,Credit card,1,0,1,Credit card,2,machine,Credit card or prepaid card,1,machine
+6817149,9c65343f59662a754220b8460b66bd20511a961ccd7fd557916ffdfc1aa60c43,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6818450,bd6ec89722bdd0662ace31f5d987057d5d95025261b284dd38f7d76ae8e37246,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6822112,3a2e3872880f34d81fbbe451c1ce45e55e1aab8d3834ce811996d9fbda970085,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6822362,28b874be10028aec5638d7354d52623fd169bd43a565469e0187dbed55212d9c,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6822448,7b0511d149693b30283b14fd3d30130f229a5eac4694d58a7f6db1dc47ac795f,Credit card,1,0,1,Credit card,2,machine,Credit card or prepaid card,1,machine
+6826041,85775ad3b456571acab51cec4398533ffbb881dd97a92b2264c33a425080bf14,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6826580,97168eb53cba477f8f748fec8aa847e40f73bdb7ce8f045ea1fc418f2f7ec4e2,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6826604,b950273451734e827574c0b2b90512bc8731d96ab4761ef89d6269019a6f8222,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6827641,dd4ac176712d6722cf77256903f4d5a3103e8352f35b608f01a148b3414169d8,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6828293,38f688f8ef6fbf586fd8024a3630eb15a2783e42652151d849a061ac7c4faca5,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6829036,5dbc81919556bf24e40a641e4601196a55ab0fd5386f6375143eb3ff3a4b32ec,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6829415,66dd034f9f03c7a928c7f73c017e68206f1065ed086e65edaf279937c93bb16d,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6830142,18f188fcb22f858fb7ade4fad7cd678d636d9567d4a2f2f818757432219c495d,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6830895,0579bd6cc2f6367a9b51986b53de094d834ade8e5846eeeb79b1ecdc857298a4,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6831077,6a204802d8a8c34c8467d6be67aa8d347e8bbc05469a5855a4e87e0339dd4225,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6831440,e80a2d24c88d5e814fb229b1ba0349ce474a858fb6849652d872326d8f5b22c4,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6831477,a0f5207f05da05c235f1d5df33d8310f08c582a6094582f9a6cf7c3cdce4590f,Credit card,1,0,1,Credit card,2,machine,Credit card or prepaid card,1,machine
+6832274,732407848570dcf088eaf584b1cfea396dbdcf0cf48df5ad12e88d68670b180b,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6832388,998aabae8691f1d7825f55a87850839e41a0764d09d7e3c72188807bce5e1239,Checking or savings account,0,0,1,Checking or savings account,2,machine,Checking or savings account,1,machine
+6834989,948e8de598044c3fe411e109c9e2801e8fedce9d2cd82b517803b55144e9a8df,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6835216,0fe935776218e329378a0c40beae75a87b02fbbaf8b2ff97015810615780ebc7,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6835399,6a2ae592d3185a98bdcb22851fac33c72f7d288b730bb50ee0e56c08ea0c1d43,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6835599,870989b03864b6ad49a73b39362ebb35b69836f1f62df0678c7beff592d24d44,Prepaid card,1,0,1,Prepaid card,2,machine,Credit card or prepaid card,1,machine
+6835607,47c8c8a4e71df631360be396c5b656349185995976adac7cf027ace3d01b51d6,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6836535,ce8a59228dda8f9cdce26389bb1a9f65ce68600a7ec7c54efe1078f7b6e27e2a,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6837291,2748b266851d7d119ebf7a05fd22a255dac45aa2cf2a39f843b33c86f976a49c,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6839066,812bc4d9e341115470201450620c1c29f1b11fe8f19faf15ba70e1c469e1e053,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6839706,cc25fa69f541c0738ff5b83b48bc62dbca99f17aa42859ba617c9aada7a4ab4e,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6840100,d72d6d93c8e30a79b2b37e2bd34e831b1bf71a5f284c2857d9b2928d9fd3f2c3,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6841446,0be88f23dbbbcc7a975796d83e9eff9b8580016e7c22446711ed01ad88a1410f,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6843426,bc9778fc856b48107b1887aff6098c39edd5d7a55068f00da0bc6b6dd16f0c9e,Prepaid card,1,0,1,Prepaid card,2,machine,Credit card or prepaid card,1,machine
+6845107,d291d45aa5e664f26ce8f8e57aed0a215aefa28628463c27efef71825bf0b0b9,Prepaid card,1,0,1,Prepaid card,2,machine,Credit card or prepaid card,1,machine
+6846255,b08e8e5e815c3584025234c8c909355bc0c418bd7cdfebc302c5892d72bc086e,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6847248,b2cd6c75e6ba8b1a46cbac232d8e690e3b450b603d25453db186a326d3a5c44b,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6847808,241e10940bd023e3d513be8eb9c91312d9a5cb38eab69a5b4348f504dd11fb9a,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6848555,2cf5246ed8688e4a72fb6c6302a5fca11aa0d3d85ce83b937419351a52e18a23,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6849760,66831230af55410b6fa6676a5628d933e83faba2cde808015985ad74c9a9ad65,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6850197,ec6d09c587d815ccc7e3f5949ce4db5877d9581cfa0ee966144304bdeb00f8e1,Credit card,1,0,1,Credit card,2,machine,Credit card or prepaid card,1,machine
+6850607,5f52fb9ad81041ff16082fdc6034d2e7de36e5066ddecde347f98447511a4970,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6852977,2ba3e9fb65ddf5ac1ae230f871274f7dbfa6d7db1d99299038a07f66eb8ee549,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6853934,4fd9a985c47bbec2745835a2b5554bf69d459d038c90a46cc4aa83dbd1e3aa17,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6855731,7161938c7ed710083c6a0166bfc92419d75215cc20e4fe9632f45662ee104761,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6855928,926fc479ef193aea1029c9953ae56dcdddeaf5f23dd5635e4af22c803c4a28d7,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6856343,683b76478ca61d1b2d17017ba90d7115f8f5ff28998a45fa2b166936cd08e824,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6856523,f23d6b1362732e578e5c7ae6c6b1d2fac91de3407751242643069cebf03d443f,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6857651,d2299cfe3e3a6c2413de648e5ff611e70e7912ed896b3604b68007299bc4b16e,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6859016,ec6d09c587d815ccc7e3f5949ce4db5877d9581cfa0ee966144304bdeb00f8e1,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6859252,e41d0aa029f1f8e9aa0c527a19e259fb3fd4306973e8478c17d40b63a2b45f73,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6861176,adf726dab396e152f27d86a983b00f89ef5b8df550c779ea3d089366a6cbbe65,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6862156,d8cffd9995d3f6836d97081218029365b3200fccb68ea4e23b89a8e0b68e4113,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6862536,000314276f1452a9b8a4697ee79f89b81bd03366bf2ac80baaff8942286438ee,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6866294,8256e67663f001bc5b7666dd7df2a82e077b2ba064db1c85bb521a131cf0f676,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6867188,34a0e8b2edfbf451a1384a67ec862e5fa1bdd93f602fab86518e22699a6ae3ca,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6867193,0edca7d3156d2cd80936354c853b92fcd34a81e5833d2bad01fa5bb947e1efd7,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6867975,ec6d09c587d815ccc7e3f5949ce4db5877d9581cfa0ee966144304bdeb00f8e1,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6868529,e522532d855e534b6b1469d9960c39e8d7c31a29fc004c01eee44a2067647b6a,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6868752,26f804f524fc49dc1af46370543cfcc09784cb6d01cf8627870896da45853791,Prepaid card,1,0,1,Prepaid card,2,machine,Credit card or prepaid card,1,machine
+6870071,7c62888a7e5feec97b7c11d3d53c42b8ccd8bf22df8b70eff5dbb42dd50c6111,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6872168,4e253ea46d307fb2a039dbcaf6f73a81cd672929f3bf5e08982758f0e5c0e38d,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6872481,f7cb2b3cc9dd4fd87075535b8d4c9e3cefd548fe4f9f2014bd1d93b05d4b2d97,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6873069,8a3c9dcf35763d186459e00112cdc2632c754702d5c53afbc8846179c657adfc,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6875674,e6733c5c71a8467b52850dd2a0deb35b439670a21c80f3331511402f2a715a17,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6876894,ab3725b1679e5409ee3379ef77c470cd9b036790693dcc73109b16932ae51d95,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6877160,8a8585c46eb3338c17bd6cdc6e569aa328db5224f4a66a889e3932a7cd23a7c7,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6878441,8a5e35a2b6c680525237854809ba26974fc00b1beddbcdd7c8ee2fd7a3b34cce,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6880631,22d9b06ff650e1c1668586781d3460c34d0efda78cd03f07b1a74b6fa539f8eb,Prepaid card,1,0,1,Prepaid card,2,machine,Credit card or prepaid card,1,machine
+6881954,a890e630314e1a6d10ae9e25f8d359f7ecbeca883acb972a956848b773e7b350,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6882305,8e0ca4491b41a01739a16c9532d6443c2de03323b34355afa80b7cfe3f7d845e,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6883091,223b6fa232adb2a48a2a53be592c1091d570cb083c204785db0208c8057ed34e,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6883176,30d30afd57784a75786cdc4b55b42c6fb8c9b375d564443f11639ec05f21f19f,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6885080,757c31401e23fc11d579fe399847a56be956580c023601838a80a74ab0d07a9c,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6886945,ec6d09c587d815ccc7e3f5949ce4db5877d9581cfa0ee966144304bdeb00f8e1,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6887341,241858b33e8a15cadc2afb4a515a39b95033aafc4810e94227a4139d5250ab7d,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6887759,5211d8d50246b29215d1a36394a7f053a15260fe6b0dd354db101b7cceec86ce,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6889837,5835fd8c7c1ec37db9b86e42c968c5dcedfedc967b2fba3754dc5532a67cb20e,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6890333,a85a7cd090c4bfa4ec456b49a0e12515e8e80bce85410d67b28562dc0c331eac,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6890712,91e38f8fe4db05fcc471811847c2a146716da62109cf71fbafcc45609e918470,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6892876,9556a6b420b84a4a81b6784fec76ae69643c164c1a0ff6fbd20f39cf29a7dbab,Checking or savings account,0,0,1,Checking or savings account,2,machine,Checking or savings account,1,machine
+6895184,3513c3936e92e8a1393f97d07318e4bc1817d97d3e6459131bd8bd8216f6a5b2,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6895626,514916874e133e93ad8098ccafd3c5bdc9f061b66fac0141f1f2e78f6c67cf70,Checking or savings account,0,0,1,Checking or savings account,2,machine,Checking or savings account,1,machine
+6895651,e977a9e5cf2787cab5d8a83dc97f0b89a46733a6af8454379b3c73ee79ec718b,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6898443,a96323405b0635855bdc70bccd60e6e732f0f8911bedb1efe4f7fed47c1b3268,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6899687,e5711879935fa81dfde24316a5544bfd40ebb5aa9c7f4204cdca27a58c8b1b6c,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6899927,e57540b3f9f8fb7ccea48317d3883b500e1719b625ac98eeb661929cc92c0005,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6901959,7bb5ad7f45e5791330fdf0c71f69bf7912a733b40a46c4facd233319ca7bbaf2,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6902901,44bbdf62d3d86c203ef4eb19d77601774e47960f728df9d95face4cc92c654ea,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6904584,5311045b8748d974dd81b7e72765398e40a47775ef77c12c64b1c5d263e86446,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6904956,cb9c3659e1a733e240bf85332e6734cc1222c5b5797183454cfb1d63702c7e42,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6905416,76b4b661452fc6a9b0e24793c74d8ef21e09e56cdfa88553ba50fd7d83355333,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6908068,e14fb70d617bea6bf0226da0b02272364a6f5438b55cbe1e3d9a41d7ceb60ebb,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6908412,396fa4481a46f665f8cbd46e2214744451bb1565e074bdba39aef3604fdb234f,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6910574,3fee74a27c9139034f6947d37f64735712fd6fab26e7269f0e75eea30f88aafb,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6910721,9f1ea87a09118a448d79a90d510ee135df5e1b03386cfacd8242176dcffcbc9a,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6912690,b68aab259d5a51e3871688694b0222ca05d03887148de2e21910bb0fb59755a2,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6914312,1ddd4800a0dc80eeb1342fb8e6d739d8380b58839c15ae85f30eb0d66a11ec18,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6914749,a9f0f1741c11567f0068be9cfbd5eee4a40b245d7323e4366c13cb4ddccde7f7,Checking or savings account,1,1,1,Checking or savings account,2,human,Checking or savings account,1,machine
+6914759,6f4931fd004bb70720638bc3c9d6e97a1511b13e566153b3e3007aee0b2e8bde,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6917211,43b1c9082ff5460d7db3d9433bcbef4ead4e56dc45ee02c6fc32ee6acf26e09e,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6917237,9fc1c0dad8692fe0d33dce9a76e87e3ac397eb2f8dffb98e5e2c273e857bd51f,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6917575,7dacf2ac3bec790e930fe0a8186b06dde9e5e7ce0c92b18d467e457e3286a389,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6917971,41e52db40581aaf739ada16bfaf7fbcd950e94865da86c1e9e963b2a7e2bf207,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6918806,03de2224f7cae99c787ccd1ccab23118e8eea85e868f885c8fe06c97ec17ccf5,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6918920,d781cd4c1cb76992fe2c03c7de606accd8625a0fb479ad5ad3a50e48dabbcaf3,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6919829,921deb4cb6eb566733bf1a102ce1b8c51923538ae4b7abde1623817b8f945315,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6921962,2c6f7cc91513807fcd01948d0b40812fc0526d1a47b1a1caf7b5f573698795c0,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6922586,dfe659024cb8e9b9e0434428c93d3296c16398b9fc7714a3b6b36ab0de112b9c,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6923658,c2b01149994a18738f7b3f3f19c188e1db400249396aa7a2ff26649f1c8ec934,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6923891,c36b0dc7170810340f48b6c17835440edc7f4b68b5bad0c0f9460435d2a41ed8,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6925877,9c7f6fb4bc45be82baaae79f9a5e2be32bea52d62487b8e6d927951b41005d30,Credit card,1,1,1,Credit card,2,human,Credit card or prepaid card,1,machine
+6927075,d3f606e6f55a944da2bcc7e130a0ebb8660ca14a7e5ccb9a05846973f667399a,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6927334,d06e09da4602719a6994ec1bddb12bab27895cfd43b3753e43fc0f16daef6748,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6928425,3aa0c0a9f22796c6686af240d3f536713b1e0ee741133f07a1d76e4e0a550081,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6929205,bbb67ed03a960960c039c77d9ea83958fa394c45b3cd4088772695d8e6923424,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6929350,c3d81f08f1f3eb25ac2cd9e4bb21737a146cae05bcdd8734aa5b697f25a15e1d,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6930259,7e848d65a86920d7a3eb483ed6e0d6f63c7292de682e98759a7eb7fcbad8631c,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6930345,d7a0c29543a2047edd4b6c1c339d9456f0378d68dbb423d3a89ff8a97118fa3f,Credit card,1,0,1,Credit card,2,machine,Credit card or prepaid card,1,machine
+6931026,6aba6a8c70773be82139e21f25b07763625cc21397929a8a7fe233b16392af39,Prepaid card,1,0,1,Prepaid card,2,machine,Credit card or prepaid card,1,machine
+6932649,c126012558f226b0bed444b27b6511d5b918c5cbcafe9ceb8498b64615df5a2d,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6932916,b49e4c0d9890e69186c05dd58d0ed458aa07414e68cea970ea85d56d3be5e4c6,Checking or savings account,0,0,1,Checking or savings account,2,machine,Checking or savings account,1,machine
+6933247,4d022d26603fb475bbabeefff9de12aea02985d78e56d54ff796f1791968811b,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6935487,1ba1f8a23a2a745541866069448d36138873c432e9c3fbb15630f7990cc094e4,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6935701,02660ffc6979a9d571f9e5ce33b3c60f6b1a3cba452e4ef90aefb168fcf97e89,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6937572,61604a21f8cbf025d444cdc69f338ca7daef1157a742ea60509d9ec1e7129f1f,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6937706,90c597450d06f98112f696b64416d36c6644d25f2877a49fd407586b69bc4875,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6938515,019e645108a5f4853a02946a7e9bb4b4602953055a2326923e743e1b25a63b3f,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6940112,88d576510b2fea4b66d0ba135beb6fc3c54b28adedd4344b55af9339ccf419e2,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6941686,6bf713e27574841522e378fbf4f639bf8d0d43c4202438610bc0b6295f88dc1a,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6942815,49fec85cf12ff5fc074a5b95a421a9445cdd2114efbc99c7645a7d57cb68cee3,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6944365,904582401e7a5b5f435f4e00c2a6f78dd74154696a0251b1873b4f1ee6a8107c,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6945906,6f64c897a19492ff80d075e778e328bc9fc2639840dd6543867dab3dcad67c10,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6946638,bc18e5ec3f5564a39880f9b97e53a7517456a43d12f73daf6c05462c5858b8f0,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6946902,df60c82d97d2b09f8373165ea65fa542e52651cd0bfbf77215fffd3afeedac6d,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6947360,fa07952dc546c6084e8fbb0749295c546344ffc79ac181b97aa560ac5968a209,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6947813,702baf98259658973440f782a5c3ad070fd964d41bfec8066079e790122b8b3b,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6947842,d7d318457e727e6c8b7d9ebf748c1f3da3bd21592cdd0a64e99f23a642709bf5,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6948453,b7ac4e084ff15074e502cda7e7ed5d40143fe382693fd4c0eaee3d1f64e29648,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6950016,433b3ae49327ff107735d3065e32b84b18029da9280c7095aea96b3de820053b,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6950220,b7e39870190c3dfc02a42c99290795f0da0f27b95a4ea929108768e5cad07ae0,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6950361,c94f268e9476dbda60a76a2c355d274e5bb2a2b73a0f7a6495aea68801a63618,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6951844,19c6b024f0beff23820f2de263b4fcfdfbd3c28aef5936cb1d4c32a35f897371,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6953269,5d3a6343a461d06c3519837f64ea43ec46199d922d30c829daf51bc31b54a635,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6953746,495ba447814c285391c939cbccc0e799d693ffd9e38d9b32bc551dd645cb401c,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6953961,d0b0223c8e2cb256e3eb6cba221b9e3bed348d42c93607ff2f6102a9fe28fbdd,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6954354,bb0fa67b67e6625c80b2413d0e3f07a04e18ca43a727ac570986bbeeeb63227f,Prepaid card,1,0,1,Prepaid card,2,machine,Credit card or prepaid card,1,machine
+6958237,2c48eba033c418351bc70aca1a7cd81c1a19fdc102b10bd7c1dd92131db4e9cb,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6958960,4b76dd1a90149f71fa0fda91ba2cd2dd85b9bd89c6ed9b3163fd962993f0fdfe,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6959337,e4b87f19111f63a4d9d0f9311e20c2148e8ceae063bdc5bb24da5fd2179d4c6c,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6959932,ea04a9fa80a561086575318216688878b8191e8244f029ea7e71d889f2d7ca40,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6960009,79323d910220eaaa0ae397b21c9ac279cc969e119c9fab77c6f2539d3ec3db20,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6960051,91840f03bde130c02a122a995c050f4b82ee1896c999667139f47319448a1e6d,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6960180,2c20b47dc81e0d1debbcdb9bed56c06ccba7e5390045d3d54eae86bf43979fa5,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6960309,d5f70ba62feb494f0122bd849e028800ffbfe65f670da891075986c67e183970,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6961130,6a1f5c30753db4eb141b8564b6563a43f70ee3ae915190068b6db0ead4f655bb,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6961349,cd22798dbeea18d9a41c8990030ec7ae9762bf4af4ea7bfd8214de54f302c89c,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6962405,ea3d58c606f07fd88286606539cf8bb15a32a1c990872c520ce13d04b4249568,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6964244,cd728f3cf180a42df6bf982fff7b867b28676f651c42909d465972f5a43aa571,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6965266,6e8c0d3d8732aeec5f23681d6cfd25b0f2010e32c43f1618137d0886ff78f850,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6965651,22f424c383daaab79e1df9b13007099919aca55109e01c4ad2ab8cc10a7b11bc,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6966068,3bc8c221ad5a1cb9fde8dc3beea39d70b11210cf32452030543102171fa803a9,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6967615,d10dc7465d6e62a6ecd946d942f72744d459b7725dd6a154f3b8691e5fbb5cdc,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6968944,81462a1b42e03a68f641dce6c0526524f6321989731a5bb8a7bf1f812613111f,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6969719,c582fde00db6396d0866133a5dbb1bf3c2915704dd90cfcc58cfb80c5e5d56ae,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6970104,fee5ebc8a659994f4d45e0c22197e6ccec014481d96a60025f3e52055eb834ea,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6970901,188e8f76f7bc3fca976975c8e5bc9cf39b899ad578a5ec80ded86cd66de83abc,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6971299,6d3668d35368088bb34579d0319e6514148af856b4ca7b338e186f6f26552220,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6972586,9adf39dd77060fc0d73ddf894aa29b583a3dbc03e158263818109ebd7d329230,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6973078,8769daa317d7778bdb0ea27c7c59934e68fafd51ea1d379dd5dc4747d3b4fc85,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6974316,5bb8e98ef6cfe431238c991d2cad15fc698e1fd75e3331fdaa37a09c44f5f3d2,Checking or savings account,0,0,1,Checking or savings account,2,machine,Checking or savings account,1,machine
+6975446,d0b514f724b25ef64c3e447df537e29053cf69723db505ce9efa648c458597af,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6978137,9ce204e8cd36b49213c5e82fa339ecc0aff505307e78f7e8a14b16d1149ae371,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6978565,f0c7c5dbf41d64bac1083bf9c34f94663a353574ba4cb407258ad94d1c60eebe,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6978925,d29112536d8348554b1cd351a290904f344072f47620e5f57a2cd8ffa0ddf222,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6981150,1892a8e482d17119756df330efa23ba758cc63eb740918ca88c2cb8d0acf9d6b,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6981208,228856ce650fd4029ee310643983df49b23b16c8f3f1a9d8ed9b1c8a3aeae9a5,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6981463,104567cd045f411162020a69e928ae12d0817a55a18fa371b47b93e2da42b20c,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6982658,16e7d2f7a51c720e202b9e2c6f933baf5058d7fa914ccb3cf80e840a7e0b5ad2,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6982942,b02fb5037d33a367302b81252500487c03963f659e420d6211475d50d1149cb4,Credit card,1,1,1,Credit card,2,human,Credit card or prepaid card,1,machine
+6984696,ee18bba58526dbb9493f12007ac9bc7c4ab4b3f32a6fe1e0ecdfd1cf9d9275c8,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6985014,0d482d176d0c3c9f89a1e78778518b2051a69e0144343ed506351af0e3e80401,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6985420,0b22744268494c1703e5183d58fa191b854bd582ebd853db4c17fb781c27bf7b,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6986189,aae1e3f8c887d2825d1e94382dc6799f9750804cfddcfee5210649b114bd05b6,Credit card,1,0,1,Credit card,2,machine,Credit card or prepaid card,1,machine
+6986351,248bab1ffebf60183f85a9af245dbb6803fd1feb8ebb3d47e63ed1449305feb9,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6991962,633b8fe84463bdeade20bc114f254f1daf5aec86e9281036b4083ed9442e7aaf,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+6992740,bdde8a970ee7e889d66c29fd13426cd1adb8f9060017f4ba1e54b6d9cff0c957,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6993003,6208cb3454c5e3ac67f089d9e1d2bc29709d51a191549aeeb71ee2455534bef9,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6993255,4bd0f1c105e004ad18ac5083574c176767333d27fcb81426e4269e4c7e767d63,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6994654,ecf0eb9a221d251b29e22cb8e16fffd89c7569b92a12318c672316f7c526905c,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6995471,e577c995f1307bb7657008a5773166bc3f01f42f289a40dcd8c928501dca8dd4,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6995844,b95471771fc62937a1f90fc61e9761e7dd45ed897c6465a575183fb14b546e2d,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+6995927,271dd7b6c5f07b8f8b02a19b10cfbf0dc5469e735719dffe8a147fd7ea7c4006,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6996497,af6d7015e7c62d5a24b50773eae394a9f63ea0bd6d6f371f0120e933a7bce8c9,Prepaid card,1,1,1,Prepaid card,2,human,Credit card or prepaid card,1,machine
+6996540,dfde381db4dc2a8ffc3f6d14edabaf98c8c0c08d70f3eb2618bde3a4e1328e35,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6996894,7ade6b3b61220e7daac7cce24b617dd4858b532bda45e3c5977f48a8859f3064,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+6998958,54d3b6c448a8ae2044eb5c41ff5dc128a04c89c7dee318fae7da4536c96d1c91,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+7000647,623f3c722e5f6eb5d0f4ea31b4c53c828601ac28ebfab268acf64336b1736881,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+7000855,57fdd3d0cca42168ed3b97029ec1081521191c81554d401aa22f83d119159e34,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7001488,6c1a147d895f87f02fff5f6b6300328408e66e7f973a0361c61c8204714b1a16,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+7001756,45c06dfa494a1dbfc3c9e73d76784b72f8edb2f0789551a8d985afef6e868781,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+7002158,d57fefe23ce17cae5e2bfddf42202238517928c9df0aae04b7c920dd52e933da,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+7003269,be11b3a3a9b89c0ef2acad09e1a1724479b75b67906650d158e07fa918a8c737,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+7003334,fceace42629b03cbf7ee02ee7ac07e58bdd3c2e5d9537bffcc6edc1a1860a658,Checking or savings account,0,0,1,Checking or savings account,2,machine,Checking or savings account,1,machine
+7003487,674645d0a47ac27b4b6bf8ece3c373236790cc6322d93aa2a6fd1ac138fccf7f,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+7003945,fce51b6933c39ecd8160707ec852c9efd1ed6afff07586d0aff7e7909ad86113,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+7003949,d125bfe3a765b0fb2819025b573b8950c752d1e5abee455b8e803f1882f1fd49,Credit card,1,0,1,Credit card,2,machine,Credit card or prepaid card,1,machine
+7004402,a8b8fcb0172fbe2ce21d0416bbf776f20c4565ee25cf9a09c328897f8002ebf3,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+7005868,4cc6d1b886665bd9a9efc293dcf4553e34c764576d15d2d66a51c67678bb0092,Checking or savings account,1,1,1,Checking or savings account,2,human,Checking or savings account,1,machine
+7006412,51efe727f6baf0719a3ef7e435404a46a531a9e8b8a83ec3ae062d0de71664f3,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+7006935,2342debaaee1e607849baebeb3e28b1cb4b8c05dbbfeb7f51af3b897a5b92263,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+7009204,9ecd82735a594c6b6572684c53839362532acf646d3821459a7cef989fd213f9,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7009260,88c255373b210fe2901ffbbffe87541441bcf02bf9d835f91322ee33d73e75d2,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7012484,c5c212240cce5c823188f2f7e8a0e5aa8b8cfe6dd58d527ebb6f9d25cc56f056,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7015229,0fe04a7cd37ff17df1b4230700a5d9e2290a76a25668011cf5dd9b3782e99d76,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+7015971,5c8787d1a0c5c03b20a96a3652201b36574ba741b460bed2c87f7c0e19a9414d,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7016827,24ef94b27c1892be335bb93d49197cc0d561cec4be7449b7401548505f0f32ae,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+7018083,1fed80c11211d246ff3876c3714d5d7f3d6f4f39f2cab0f678032cec3a53d90e,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7018768,e565142cc9f80951879b7964d9c1d1acf88c53f8ac02df882c567e4eacef6eee,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+7019768,6956f86596f44a949a9c9e6d0528410e80f43b5c2af0d3db86905b01856a49b7,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+7020122,b3cd7ed133b413c123be47521cc253da8b2dbf145b7d23de19b27b15b2f916f1,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+7020267,d775549990646b1c845f1bfca9f0f17da3245d6b7273c2b348e5253eee3aa041,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+7022743,5aae4ab3bc3c86efcac8e3d056d7aec4a30111c23727502d7322b791720b1e7a,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+7023161,70a6fbd66b17467edd40570ed203b27eac270b96e1ca3db36dd3e2ae6e773fc9,Credit card,1,0,1,Credit card,2,machine,Credit card or prepaid card,1,machine
+7023259,b4e94278faff9d0016084a75d5e1be178477f0b3a21ea2618b0e48c75192f7b3,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7024294,3d837a7caca08aae533cc249451cc62de0ce6a0d8648e22de2fa03d0119ab7be,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7024424,5576c27cfdf0a32c3156bfe0d960a9b2b140c2c65b03ef5b9166a9dd370b79cd,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7026046,0148cad017ccac66113f4ee0918690febbe0d76a78b54924955bc212494612aa,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+7027010,a294d12b597dabfdf9fa18662d387663bfb42ba036467add1e53c14318ccd3cd,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+7027084,b3be9eddbdbec436cf651975f19bed2f7ecbeba4d95623c3d09eb80e462eca18,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7028907,8175082f72d8357c6562f6b3cb1140ed0c2f31abd1bfeb928c93c62cc04ed823,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+7029302,fbeceee55d876132a3431f76c8df42904b58d58f33d2aad04ad69850776e06e6,Credit card,1,0,1,Credit card,2,machine,Credit card or prepaid card,1,machine
+7029669,41b1b4a035527a65c40b05047a8208988a51c78c6a488f1aa651f93d99339f7b,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7030555,52dcad951c48f099c83267cad1486c6237f2f67ecc1cf04e712df20b04092e89,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+7031302,f54ee591cf7f6f2dbd6b31c779626b285a7ccd16063912b990f098847c1c6f39,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+7032722,c20a7c2a1121218f18d298af2ee424cd7431cedb456f7075c2ea740260514db6,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7033626,980b83cc6dad3dfd9885f115e790f6d3609d6ccc1796bbf24596cef23ce91970,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+7035873,9d4da10814a1c4989bdf1487456b7a491654e6382b58e76a256ec871ab29fd99,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+7036797,27a94db35fe2643cfd310e050c0c35c77b8c405f5d4a2be9cedf7292dc8cb0ed,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7037967,bfa6ef454e47cb769d00e4dc794de0f34745fe783ded149cb7fe8eb3ab7bb002,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+7038029,692f2c2e07048f9306cb57555bdc4aadbd98b8b5c978e73b83be84ffd959d25b,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7038383,6607a2b0b7de9fd180777b44e5a4bd90dc7c3a945bfcd918158ab5ef063087cf,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+7038945,6487942e45e4deffbae6200eaeb44a08298542c7ca73816d43d045efb02e1275,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+7039395,f536ce947d4c1c4ad1a62456243ddd99f07d46f102250ef0a5ffa323b083010a,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7039450,0efb975ebcb37075b1d188fb78b68bfc92d8a00a450155b3b6f089c24e455270,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7039645,84a0c940ffa9c4ab558ed6f9e5b6212be64f1780907aaf059eaf382d385678d9,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7043094,a7af6ddc88a120ec00b1228fd8ea1cd721acc823be97fc309c67e17897069dfe,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7043378,38ed34a0506f9113e77dc75cde97a6b91e7c4bc541d2547d7469c4b44e8c09bf,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+7046850,d393236e53839eafd524fc96d151739d7b60f0b6f7688ef9a83a0a557dc878f9,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7048136,c6524a8304f34cfe3e9138dcdf1d5ab4c1d04c923c9bdccd6adb213d3c8516cc,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+7048362,9849acfd24de2fe962fae4c022bf8c380dd9ebe5ef145f1c600642fa010a45d9,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7049561,0029fc34e9123bbb02ffcad7e8190ebd8929f0028f640aeb4cea549f6c8a889e,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7050898,4fc45cd7acb973834312ecccb10d36e33fececa1137ef1279dbbf06feef7f2bf,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7050952,83b189fbd9f77a5e3b431b3bd70bea4d001029fcd75f040446655010f8ea608d,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+7051080,8c2188acced2da647d0e2cdd2744d5e28ea87523511757dd58cb37e47ec2b5f4,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+7051694,55b25b3e144e18d93b84d1900775a4324c3e3b08be5df58a571658403f8f6f41,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+7051898,19749bf5cbcf735942cec1b9e452d9a3ff6290b23f47d33bca404ff9c06000f5,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7051938,938a5f6fab4f81259b3e413796fc0928a2f1953382e8cda0fa39641349f6b0e8,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7052003,411684bfb1fb02a8de9b3aabcdf6bd5a7785fef7bf597fef4c15d6ba03246e0a,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7052785,3f4b6bce56100bbe05a1203f891b28c4bc9802f0fb071f067b85a78871a1f50c,Checking or savings account,0,0,1,Checking or savings account,2,machine,Checking or savings account,1,machine
+7052979,9b10cee43e6e3f6a25e00a38f47a0506932cca457936a27db8d24444c409fca3,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+7053435,72d349a702062493a7f63e55f9a53d78436782a89bc0aaf6c06f673be3c9ce4a,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+7053648,5e07ef9912985ecf0e6ff7a02cee0c5d78ecae93a79c319b8d00e5cef535f3bb,Checking or savings account,0,0,1,Checking or savings account,2,machine,Checking or savings account,1,machine
+7054435,bbbac90078be8de7134606e802805d16fa1a56a340f554414f6ce378ee1ba95e,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+7055702,3886a176e12dfd5219af701db425296ffa490effb43648ab9537443e4e4bf233,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+7056024,3ae25df8aa6e1d0092c5f3b174d589b0838b03afbd765a26f618a1d8061e410d,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+7057450,b27a3182fea588ecfcfa68af4c626c9565b50aa171c1b7eb6331713fd36fccf7,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7057913,24eb990e8aa915e88cd66e1177714c4852d846a14102cc94d80899287c734322,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7058173,829cad2a2eef60362ed6c4a1c8905e1ef508fb9b700ed6dc8ddc7afade384b1c,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+7061448,b4b02a8486af5c7d5e8ef68ca3e9a6c89787cc7dcaf95547179fc85e611f52bb,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+7062198,68ad7e6941a245b5b424a76f85cc07878c9f5cd2a233f7f789b838646cc7a793,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7063363,f067e8d441de8c58c144ebe620353c7636d8a7274b60816398f42555e526173b,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7065067,7db27285407de8e8919da655d02973d5681de59b61d40d0adf16b102ae03b3c0,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+7065416,9856450a0a512f6b52bc4303e6a5951475dd8d0d26f582e16208b4bfbf843e35,Prepaid card,1,0,1,Prepaid card,2,machine,Credit card or prepaid card,1,machine
+7066223,04fe9b519ddb0b1be1a456997be27ab774ca37128095b153c0a7a1f6b4444f2b,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7068671,0602226527e577643bf561e8acda306a431f4df0ab7571bdc16929d6746546f4,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7069297,64e4a4e35185ec4766bb290935e1aa222542307f4b37ddc9cbb18e7c16d94cf1,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+7069329,b8b251d10db736e8bc7acbf4f64d9ced1c7cf5dfccf71c0125bef5eb6cc3b9c9,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7073771,4d56483b56e7da197104f4789f773c929d77518dce064b089b767d3d7bb49085,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+7074858,52d9e6a4ca7f3e7381460db46e50f386b53e5aa11531ef2672187a05a0e3465a,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7078017,1e0ddc84ea2cf13d54b9b5ab5a29c43281d880a95b87ae711f405a2fa54d5813,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+7079397,9a846b54410adb3ad86ae26c81556dbcdb79bd04ef5aceeec5509318270b231a,Prepaid card,1,0,1,Prepaid card,2,machine,Credit card or prepaid card,1,machine
+7079639,d6a240f299d9069a6add6daf7f28856dd99a3082863da67328708e7ee9b0cdf1,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+7079890,298ef3da8bf3943a462c5a3352709cc854ae8eb97b3a55f2aefc4bbb48fbe35b,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7081371,bee13d42dc28ca6657c38861a39845e09c8fabe5820ad9fc4948f3a1cf00ff35,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+7084165,e45aa302e26cdbb29fb83c761c6eccb44bd5f2a7f637e6e3b74c2f091e37bdd6,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+7088319,0cb0cb6a09b27f9fb809d7d3871c638bab574f46ae119ad104e91a701f48da33,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+7088656,f99eb1a3e7f9597c2a15ee32e9a40767133ad2d4873d6daad13fb6b36864d78c,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+7089400,3c13fd1f22ede4bc71dd9c1a48db11a1a4176cce72cc907c33324f9e6f9b0a9a,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+7091375,0b0805fc9c0b61ac5a0e3cbc65fd019a613a79d764fdc1cb5998a5a1254f4ca3,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7091897,2a983f13a4af5aa0d628ffc885eeeaf44b0848933437fce35888b7829e790bc3,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7092605,53d57012946480d6f70b7010f1bd619580c0cba2fb4275ba5d7354b653b0624f,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+7092844,05dbb3de741fb922f9406577091bc22d18d9432a0e39c13416350e6fc20963a9,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7094090,826d6477865fbffa32ccc25348ea0469d9e8f0427f36966a6dd8485ae75b6251,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+7095440,1bfa99279077631940f7a974ed51fb08fd900ad0833ebb82baa89d538d9b67a7,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+7096159,2c98c2c7d9b8bbd730e1e02af7f4176d6d03e27d6e7149967422fd46314f0fab,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+7101821,9a750437a4f5086b4f72b430da860bf3d6ed8737ee56418551ac8ff7c0e71fd1,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7101859,beb764e11fe3152b10b9f7a94a7fc623f1eee55ef4efc85e5f375833c61ffa31,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+7102334,3262e8e04774d45e7d6b850414aa3a91184456f384f2b685b82ab4fa984e79d6,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7107494,40d8cb3bbc89f0feebfc3417a41893d406ec2245dc0152f17c0769b5d074142a,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+7107529,98502ad3f0cb68680e80620ee64236e18ffb06f7fcf6a4196bb9377cc4539a7d,Checking or savings account,0,0,1,Checking or savings account,2,machine,Checking or savings account,1,machine
+7111638,6077d434f8b229267cf9f3e7c90286e6ce2579e8e0a858927dbdbd55adeb4573,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7113673,203a4a555b533a195a5ff003c6b11aa9de8e98e720e73bbb957bcab1cd25c078,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+7118188,b98f7516ca189d72a072d88982e9777fcc89d9aa78fc040c2f9746ba9c867d9b,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+7118560,11258e6bbd735923f7fb272294020e58fc4c34ac5549fd766f140899797bedb7,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7118663,bb3eb08f738f41ba7a89d97ed61bacc4f6a035d748cbdc0d9b2758f60f246001,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+7119356,2f68d8f235d5b5e29ca752a76eae7a42d1eebbf4e08c24af713ca0841f1df3ae,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7119559,cdcf49706898ff98339f999ce2b01fae0f48af86e45104b8272e3df3d05e2f64,Credit card,1,0,1,Credit card,2,machine,Credit card or prepaid card,1,machine
+7119736,4c9ba13b6a85b9e73c5229130be2dbcafc89b11625169df4cd37d9b85a80def9,Credit card,1,0,1,Credit card,2,machine,Credit card or prepaid card,1,machine
+7122947,9b8a3386092dde90f2a2a8e41a652db5e9821ca63c8535118e7f01e7d0449aef,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+7123282,ee89924ef0612791e5696a7c16db2ed4a81c102de723fff706ef89339a5614b8,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7123660,de2c08848238134316cc7ba6597d295a4dfe76c0d5c1d7763117f89c8ef385e7,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7124733,7b53d1c107d9a430a16938a6bec01f9c64a5a5e46328e96b93b1370652851cb7,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+7125943,69dec006236800eacdeb2e54f369a87771fb1733e295bd6c6318d82ad95db3ff,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7126181,a486487a507175aafb0427d3737c9296c41da991153760b638c89d296623ea0f,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7126405,bbb00f93f6858b190e16ee7f4ed33da6136e1e495683a4fd4bf2175c7018b410,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+7127859,7516a202bf9cd963617cda4cd284651bc79e407e6b0786a8ca7cabc278462283,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7129539,b47242a55cb57a2f0789ff6170346ddfbc2c14a43fabafc9d418a95ebc8e3a6c,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7130309,b31f2bac64b40526a3ac25b2126ec2a62f324cabcf5484298e62d8bd72975485,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+7132144,24b5562f27f74104f605787376b0e1b86c7448ba3825041b20b31efe66071fb1,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+7132205,89df4e0c2231eedd22aecd8d5029b7eec549da825f3052ace97ebbc69410b135,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+7132609,5e64ad840626c3d36870859bbfe1fbf3a09347cb1cf5f1068e11dcb34eb9231d,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+7133937,45c2453c5734c2fdc66b9f257d95de43df1ecfdd62793b51190ff92521c9296b,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7135324,70857142518eee41e20875fd590c8942cd3361da272027da394bbab472d74c8d,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+7135462,a709da30012904fe92441020061bf416f2df4a92d53865a50562881521d8aae0,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+7135664,fb1e20dd9c0017fbb9579c9944532ef8cd5bfea461e47a2657299bc7beb2d8ee,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7137275,05dbb3de741fb922f9406577091bc22d18d9432a0e39c13416350e6fc20963a9,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7138362,be91b37ac50066f1d13a82907624efa2dfcb0a98f90ca6c09a5d9febb1329429,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+7138594,ed5f4b017f04d3c113619b02f02e22ad62b3aadc85b1d8674cd058b3001a11e2,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+7141642,ec670012e10caf72d314f02e51122179ec0e6e6a42000afc27332e090f6db6a0,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+7142003,16a6289a0594efdbdf542175339b1c1e970d4c3da9420d6960b9b750206aa9ca,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+7142326,5a41618adc15d0b3c19a9a5461bfa407994747bfc030c248cd4418e4506f01f9,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+7142655,0d42825bb94e15cb87b6645646e16155db5dc4b70d3c9290c34e4cd06fc97a65,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+7143057,e6f00b64f47db0809c86b2375cd6aea783298e3a52dd03ed26f18efa474cb2e2,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+7145070,03ea4f471a865b3ffe25f85e3a29af13d480f01fbcb4de5800a171586b4442e0,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+7145345,372d49c0493e7c5ce187f3bc443e2c0c295b46d1fc5c78152b39ce29e26bbb0a,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+7147684,ac69269602d9c06ca6688efd5171ba2b35d60d0d47f0e90714c89f3c22d119fb,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+7148505,a486487a507175aafb0427d3737c9296c41da991153760b638c89d296623ea0f,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7148673,07cefa53fd57d59cde36a73869b0663843d1cebfd8f4d9550a3b99ab5d268dff,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+7148730,82cbd0b5e5b2688cebebecb696152c978db976a93cb3e44f42244c4b68663d39,Credit card,1,0,1,Credit card,2,machine,Credit card or prepaid card,1,machine
+7149207,e8341caef7076132bb65ea83b44c919671623077cf3daf417494225b0745b120,Prepaid card,1,0,1,Prepaid card,2,machine,Credit card or prepaid card,1,machine
+7149737,0704636d553e47f07cf8215e881df9a25fee368c16e448229a6606888e5a3cad,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7149982,a80c3d5cf526ce09bdc309940e67364486f9808ade62a280b4a6c45d1f18dbfa,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+7150114,86af03010d8acb1c43feccc6c401307ab0d59c7612935f1a4261888cf0cff628,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7150123,02622de9eb1d74adcd5f2528797d69a43a1d87cd7dab4a179838818427c8cff3,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7150139,e02a677830543c81349df363412aa72eaa39376b63ab0fd023a92d4a01733f2b,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+7150190,59e7fbf0666cc212b5d4dd78038dbd26b1faaab917d8b44f7087df4617606d16,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+7150784,005f9f5d67e55963341eb0048b67da3cc21173b43b18e6f6f729e5fb5d71f13a,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+7152197,047b8579b11836816ecb73f9131ee3be46cba8f6cac80fbf66d1ba9d07742e0f,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+7153818,15ead44fde16e118cbbce0bf9b04188016743a310e82f6093f8b0f82495c752f,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+7154740,ddd575fbac33c99bcea3f8edb9c0f95ead4009e2a5f5dc3a565b783fda80df43,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+7155024,2bebdf8db4d523550aaa6a2bc6e28f029a4961d936716a9589e7145f75f99da7,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+7156258,e57e6a3908c75fa43431576346a95fb3d0a00fb4e54d39d6d630f3d64142655d,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+7157040,293fbb2b2cac64b2530b04e37ced04d514af677a30d94998dde20ae46149ad80,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+7157573,6e08ee754fb879c62e6a38777cdd78337d554f03e0c8cbf6272ff6fcf6e37844,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+7158284,018b4a268495e43dac01111a4dec2cbb361b00552b92eeae38c0725542f2a77e,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+7158616,5c6ec3d94e049e48e3e143405b260b3f7234d5f185375b887b93f2cdfe7479f4,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7160324,b4d7e4d89f06a32065a2518497dd786b3ce5de79d6066eed9d8c4caea27d58da,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7161467,65347317cba59e9a9a9d5d91ae56142153a255d906c4a14f905b7ecd5cb526ff,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+7161803,d2fcb6cb65ce2218df64ae43c44126a92cc4d8d4e5f57a1138ed60d64898c9a8,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+7162264,40d083b38fc1afbce4b1bae9d11297bbbef93ae2b68265a1d4d7b351479b79ff,Checking or savings account,0,0,1,Checking or savings account,2,machine,Checking or savings account,1,machine
+7162299,77d18316b25e3921810c903627ab5f065b3c40942869568815c891524a323251,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+7162562,f14682e6823983bca147bbc0c7860a509b6f53dd95bfba9860f2414c6354a633,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7163027,71bedbec77ed507d03a3f1df4a003787976ae437b1e4ab391faaf8c23f3284e6,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7165525,88144de6c0c32877e903b4e7a819347318b99b1b5e313cc4a16df77f760ebdaf,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7168365,12ec2383dd433b6595ac68d1d2bacb24895080405ea7a395c126d14abed394d8,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7168778,551c7085c46526168e85a8cd8c0fea093a85b78830c52b01ddaf07b7ad96028e,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+7169056,107fa5f41959bc48e2f722aea194accfa3c2c52be5622001f53db4f2433fb5b0,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7169348,10da877635501b2ee623fbefdd87e827255174283fa19b89cbab7425fb6915a4,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7169666,d00bf913b67e5e3ce6731de01510e9eda50fcf9de3780f49ed2a6ce7c7043e9f,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+7172013,c92a04395d2af8ea2d28d5765841f5ce27bacd3796eaf7151f4ecc7a39e3757f,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+7173469,57d3ca430beed84c716b36ac8ce6acf08477dfc63357562d2090b59badecbf88,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+7174636,38486a83ba1c40462fd5c153a28d60a3cd9af951a2d49cfc89c0f2f1705ea5d1,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7176342,a682774db96c216e7c3e359379b782d4d0dca805d255825a69d874ff81613bc8,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+7176439,a15679cbc3c7b4fe03bdc8d2ab374141fcae033e7fda2bc042a177cd9ea2d6d7,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+7178469,2d3454ebebe8ecb561ee64c5c9e47fcbe82258651c5c47c9c734545956255418,Credit card,1,0,1,Credit card,2,machine,Credit card or prepaid card,1,machine
+7180541,f97ec86f0f6fe4e752980a4c5db915aea716599607e8d788cf7eb7d72c487db0,Checking or savings account,1,1,1,Checking or savings account,2,human,Checking or savings account,1,machine
+7181980,3f5b4d69dce3451ed0c251c19f2bd097c94c7d3981584ff1dd70aeb595733e61,Prepaid card,1,1,1,Prepaid card,2,human,Credit card or prepaid card,1,machine
+7182752,c6856692a831eab4061f546f45043952f1aa3bd909eabe4504752a8b8aca9f72,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+7182870,4e6d67c5f65e567cdd98c44a53ea823f0947106c37499773b814e171a43796ec,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+7184020,08c60cdd94e30940faf0e426cb68fd96974da727ca8f19719af72836b3284e1f,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+7184302,28f40ed58308e46033a4c041ae828e5aa4e8b4c97790a14873e672a76ba186db,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7184448,2686022320d35f3ed3b73b20c5ddf8f8a61894929f2c2b7027d631b3fb4f3327,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+7184642,8a16908eed5f866ce1e04dfcec5ce9ed414f1cbf449ee271ab149f022503091e,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+7184666,7562e4c23cb20fd3e511aacdb13192d0fa59aea1aac474888587e7ff184cc368,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7185663,d76697e8d86fab7363643aa7604bdb70fdc416207a877d21f82c98e870f17e8f,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+7187944,cabcd2180de1528df4feee5b65413b4e191b727c684faded2e10a41a1780b5ef,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+7188898,75b2da631e0efd9d661d50cc45d7ddd6234fed2c0a6c7604e518aba66e1f97e1,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7190535,7464f731adfcc768a73aadad49c27529ca356ee86968c747334f14ecf6ec0a10,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+7190869,63c84f2bd547496b92b92a9421fbf067932751f483649219e940696852bbbe1e,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+7191384,579fb34e20b4fbf78eff4a85f899ca9955855a3e667d50057ff8cad571b31e0b,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+7191408,ff2d340239bfb5769765a6609c8735d1e6b568368f4314d9a72564b435fa7ad7,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7192452,4356a9773f4e5611cd29024ace517dc29c7b7c3c6cfa58b2002e4fb68bbd2bf2,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7193093,bb8d69e127e87108b28dc0ad69ad47834380989b6f80b4440754aa2d2249ff50,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+7193117,51416b332d585ef3b11d589cd8b11b1c3990ec1cbb9da8ade77a09fea74de86f,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+7193372,02eafa970e2176e907cf03307ceabcaea2ef89c94cb8722403169d0579214a75,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+7193556,12902c755db568d26a2be273384c898e0f2070f2ac7bb0bc51bac6d28874de4d,Credit card,1,1,1,Credit card,2,human,Credit card or prepaid card,1,machine
+7194776,c25448e9a5a9721ce0b94c0983dec618df66581fd77b5d4bd7b7c9b1304eee85,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7194957,c6b36246c75885b5c8443ef29bec0a3e54d692278ade2e699934e4460c70f750,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7197161,0fc1b5b6807c743644e2e6f21e3b0d81c82decb2e36bbe7fa212f10320a15dca,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7199427,42c4a5ea3de069551e401f4067653c2e3061b60f63929bc6b14bba1fde5d89f7,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+7199527,c0b2f73b4f09e088a98bb6662516c973005e55cf0263a9e70472ede5b0cb7b66,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+7199698,5b3d98a04824004bb3e87bb881d727fdb1e2399342aa19d10eb679d729d0392d,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+7200087,3230ccf0df8f37c9eea09afe0cb5fabf1216c338a72707d960e3b8d6980735d4,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+7200534,a1e7d019a073be4e979f0763f9b32bd0a96af23c2a825ea79b943bae74a17844,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+7201501,3d30125303d007911a8481f2335708f7d894824e9a0a79ee9292be422e821559,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+7208277,e4f346304d046b386c9c81a4a16e4f340b1f7269d4fa18283ec1161fd7a7ec60,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+7208744,74fd42f877a7896133281de2c921f3ebbec5e21aacdd4343c3307cfe48379b66,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7208773,10da877635501b2ee623fbefdd87e827255174283fa19b89cbab7425fb6915a4,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7209351,00ac8f6b04c31fa1be6776f27e6061e5b408559a3599a05ddb35da598291669c,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7209652,b4363e9d2fc86a70c3e255192864841735f4b3f09fde17a29a53a98e14dbf1c3,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7210697,f94410a8bd369f7d27fa8307304747f301424b9f338c7eab72314be0cb7779d7,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+7211794,233488ab6c18e58ec43683aafdfbd85e7c58a4b6e6d4b0f64a90e84ae042358d,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+7212285,f2e0d0c296df28a38336ad707d04e927a8d7f97f72be67aa58a9fb34b2fde673,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7213780,e619e85b01ba30d2897641ac1a09d342d1ed91b418f7187b5976c9438ca0d0e5,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+7215991,2302c67e6fd4058e421fd838edda14f54a792da4f700791d80794d3526a3ea9e,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+7216468,9ddae58da70cd99072f5435c859fdaeacd67456307d73783ac7618595565b4e2,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7218627,51558834a04cfdd8e05d176dc75ea162c9a76e760ba5e49385912b5b1a932685,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+7218701,4e762e179a9468fc07d866afb20230c504041966a18848be6c6066c387ee5656,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+7219019,947833438cd690694000b7297d00f47803d870da25110f8537c419d9d8926006,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7219466,9291851d1b8c5ac2a158f505150e9a9211e134f60c23e851f1ab3380d44df929,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+7220311,4fa12ce1f5f9feb25c8e7e8cc82038672b0a6e013c56665613c236bd3948cf8a,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+7221891,3f5d9c6ddfa6108ca662f4c96590b92f854c3d7dc50dcb9590ac4313b38ca626,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7221999,5449a5fab3ac41195f46ecbba64081fe2fe415e6e5e4980951e5a9eee087dd27,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+7223659,959f707001c519cade3fa53445674ac338d202884c3d7faa542e4a197cc0c7d0,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+7223995,a45d071ed6716f4590f3941d1582fabd8f8667484824656f02e4957d30b47a3c,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+7224204,8b7790edd9a50fa693e81ef2448fdb64c768f5eed1e021ce14ed2380ff074fd0,Checking or savings account,0,0,1,Checking or savings account,2,machine,Checking or savings account,1,machine
+7225381,392ea33c30adf88b73efb97c67d4e8ab6e56b592d60af4b0d31cc2db667a5eb9,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+7226347,b346ebe84677e74247830abfd92e5f10aaa420c325389d7cb84000e760de625f,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7226358,88e5a6a4dfecf00420a8260eddb9513e0a8e1625487c754eef6dd4e28b5f91bb,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7230921,fbfa419fc70c68df8f85ceda951ae336ddbaee1ed59b21fc04e47959ae77c9f5,Prepaid card,1,0,1,Prepaid card,2,machine,Credit card or prepaid card,1,machine
+7231259,549dda0e40dd90df518ebe8792db89a8638758bfbf6e84f022be79fd4ad4b798,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+7231991,1f1845f967ac793b5c625d4e3dcfea1ce7d0ba81e1caf9db084b3acdfa5532d8,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7233274,6c4f4f8ee8cbcd5ecdb13dff3c6048ff12f1493f3ba6f4581f7961f6163a2611,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+7234028,c0b5c04eebdd1f73f23895ae82306401c97bf228d77e3d2c05ee637d8b2ca1ad,Checking or savings account,1,1,1,Checking or savings account,2,human,Checking or savings account,1,machine
+7235091,44977190f5d119372582693d122b313ba88bc052b9dae33d36f0a82f94720101,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+7235188,784204354bf6a07c1c0c4e7d9ca796fe6f71e5e7f48a0a9de361f65149d96525,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+7235286,73f7456094687954b2c6b5b0067c86d1383d32f277c6cb5861b84dc629afa00d,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+7235440,ba3070aabe0c56496227e069e26d59c8ee6bf4316ee5d64d0af5a754599d66b7,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+7236075,10da877635501b2ee623fbefdd87e827255174283fa19b89cbab7425fb6915a4,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7236337,4b6735e1708340176200348e2082804191eadab214573697ee5114d6335a925b,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+7236769,b4363e9d2fc86a70c3e255192864841735f4b3f09fde17a29a53a98e14dbf1c3,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7237842,39d22dbcbfd8f67f186a57a1a596410b27624e96f3bdbf541877014ebbbf281f,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7238682,42d5deeab8291faeb0f1e9d5a101ee7669602b0dd8859aa96f7565ffa3f7b0c0,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+7238801,1503548c07426651e4297cb851d43c4e57e3c00946ee9124d2c34981f4eba206,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+7240821,f70d5ed07345fddb262a91bb9546430c8e52a336ee40f1f4fce82db0e6f9abbd,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7241477,eba2e4f36177162491ef6a209ba035ea87c8e32b295784979cbd18838c7ce56f,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+7242008,2d3454ebebe8ecb561ee64c5c9e47fcbe82258651c5c47c9c734545956255418,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7242791,c5a677e4dcd34d67d6defe04790b2e928ae7e8bbb9900d388f679e4b21acac6d,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7242919,e75cdfdf34749b36806f6f6a559a19db088c8cd54e2ff180a7415230bd0fb305,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+7242936,8352fa90a542365f28014315630eb544259f598803ec7449250067e214add0b3,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+7242949,d5a81112e2627b7c8cb3f61f75bc06ebe7257554391c5244e1d4267b36992254,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+7243422,4bd8fbb15ff1a5194d222d00bc73d8a0e16b19fcc3c920aceaa19df974153793,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+7244135,f70d5ed07345fddb262a91bb9546430c8e52a336ee40f1f4fce82db0e6f9abbd,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7246278,e39df5aedec9473e251ba23e3fb2981717a4021e52b23b72238eb82bdf62730b,Credit card,1,1,1,Credit card,2,human,Credit card or prepaid card,1,machine
+7247726,9a512fbafab24061a7d7899a8f3d852d0cf212b71fe69da24099ea62f1a2f217,Prepaid card,1,1,1,Prepaid card,2,human,Credit card or prepaid card,1,machine
+7247775,1636c2a0573399b5e1d8848f7f73c14f8bb324cbb7daf4b1629c28a07edd4f98,Prepaid card,1,0,1,Prepaid card,2,machine,Credit card or prepaid card,1,machine
+7248087,c2b7cae08c7bc7504eaa78aa6bb6dec30a2d327a48a53f92149b4520a7cf9ced,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+7248275,350ab198ad4eb35e4109e1b56616bc96223cc610c15913619a2b5660d02ebaa5,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+7248485,9ef89bf9d1bce964d5945b55a50de7df74734285cfdde1c97895ad9ae1360618,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+7248562,2d3454ebebe8ecb561ee64c5c9e47fcbe82258651c5c47c9c734545956255418,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7249735,0e4ab144cf7212ba68ea7885e329b9be11197514c25be5f2e0b01981f8e5761e,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+7251654,0521cb4685fa5873882b3365bb6d39db159484e66cee958a58d9a4bccc160dc0,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7252469,b052f3c2da58b605117785137496ccbb9e6d5309896a6daa9f8c455b3ca9bbef,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7252515,10da877635501b2ee623fbefdd87e827255174283fa19b89cbab7425fb6915a4,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7252552,f067e8d441de8c58c144ebe620353c7636d8a7274b60816398f42555e526173b,Credit card,1,0,1,Credit card,2,machine,Credit card or prepaid card,1,machine
+7254456,10da877635501b2ee623fbefdd87e827255174283fa19b89cbab7425fb6915a4,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7255848,a99139fe2bf168d2a3e979471b1a78060ac98a8a812910c55d6a0b86aa48e170,Credit card,1,0,1,Credit card,2,machine,Credit card or prepaid card,1,machine
+7256885,a1a3d0173fb73d6d70fcd01be1d3d034ba7590fc2a7a24a1d103a0241b89de5b,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7257261,c45001c2b4a03de6fb2016d9a94db16e36d877ca0e3cbc30ce835a1dc75fff41,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7257425,a505a8f4941bffb9842804642af4d4cbde76dd9bd7e5ddea269f33840b047c44,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7257645,654fcbd6be9fae4bf06d2465bc0f64fcadea07d8d43bd6c2231d5d858f68050e,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+7257699,6b6fade3935d7c615253261c97af1cc3b54f6d9ec0f18dcf5b58be233952c601,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7257858,391ae264fd11b8a96a4ca13dcb1cda2b6c316173e64fe30bcbd51af2771a3ff3,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7260039,b9f3c0b0bf4b383f54fed04c0114918a5576e1f8f711b0b09805afa38264f772,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+7260711,8d19e0c342ab472dd7321cdc972b2ab47498beb26957ae094b99e8bab9377854,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+7261340,10da877635501b2ee623fbefdd87e827255174283fa19b89cbab7425fb6915a4,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7261908,a9a1922d0d7ad049c3e7a9a3fb21ed2bfbb593f4b7338c883b0e9b4cf154256f,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+7263708,ef526b0b8f997274cb22a2be04b2b51c99a775d0e0c2cabf9c0e279385d6eff7,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+7264211,576ed6cb17189bf7136871ee1ca8af6785e4b1471a1e68c0be0dc29152ffd22d,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7267355,4b246fd3366f5e16d96df2d2dc55041791753cba7fd7a297fc1ea8dec0c54227,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+7269823,7b8cadf8bcb900f6bd1d058ddd83b2332c2f4e44d7b1dc1210ecc960f6feed6b,Prepaid card,1,1,1,Prepaid card,2,human,Credit card or prepaid card,1,machine
+7270785,d798d2600de733f18d1aef0b21b298227246b4c78e57f14d09c9de60d230f09d,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+7272377,6f5b06c3ef33cdd9b03d00a1281fbaaa23d19a2b8210ec163a28c4d7bce90641,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+7272891,d21d9e119df80f04bc1e3e111481c2239e08fd001fc0dd969a9e05152f74fd82,Credit card,1,0,1,Credit card,2,machine,Credit card or prepaid card,1,machine
+7273316,daedd3fb3c0b2927aae94cc826d21385f796f0d7d54a0c7e0329ec92df19cfd3,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+7273633,d349eeff232a7c1fabfe16457bc034a7387cd3b9f9ca568adf388df02b8441b7,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7274204,d2deabf162f3b4fdf4ccad6a8db42a09379512d59b758e841cb2592ab886db83,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+7274539,25af16ac75ba872d2aa1774246070c167a34a1358ab6e675ef1667006017caa9,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+7274891,3eed74145f5a0bfaf5067f372b74bea9889ffd253eb3f261dc386c0f1c699d0f,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7275198,5f43313575aad25e279c84d0552c01947bbea0dc64dd165d7853d6a7896cec39,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7275979,05dbb3de741fb922f9406577091bc22d18d9432a0e39c13416350e6fc20963a9,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7279632,4e33ba3aef7e0ce89fe5638b8d6bd9a0e16c1614d79b95a1e8df880548f9e37c,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+7280129,1f4e3ec2e893da1b5ee7907592ed9eb9d992e42990f818c9ce428d9c80ee1ac9,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+7281523,faf75815247fdc86a1f9666970b7f2310e3c4c424c2a62c7179b472744351abb,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+7282424,3b2bd946bdab86b6ddabc15035d7c67ad9e58504a1070a6675d415a6a32bd0c7,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+7282622,99a35f7977ca74070fe8ef8d676602b46e2ef3dbc10d89311425ec26f2f61180,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7282941,1ca6466778078d7f57de6a213c703411f5f2cbad8748da7bfd5104ab215bed1d,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7283344,e3f84eb3c96fec20c71e037bd9da7f08a25dc08d9b7f5b3397177c3f3c2cff97,Credit card,1,0,1,Credit card,2,machine,Credit card or prepaid card,1,machine
+7283405,8900602d2b44a95a3d07ec1fa25f197c8879cf3945f55c36da4815fd3085d145,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7284504,16d270e5e08aec6ed2c21344da6474f248e837474ba982777ec57f791045b0ca,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+7285982,9242549048787c00e18201285cfb3d45298cf440fcef8937e93dee9ba63d32a1,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+7286080,18a71700b4d7fdbc7511cf137eb6f7e8ea60e618f2b23c4b6559341ef274c338,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+7286364,fc8c2eae7265cb25af94fdc0fca80803cb981440dae5bfe360e950848d74c406,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+7286871,2959a9784588fae9d974d9a3ab9f45915c0ccbf2099e769b337cf247d84a9a4d,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+7286899,006af7bf7cefa5adb8ab0a1f5cc8a31ec3519694a4e78f030ea529046d88e699,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+7289030,ec58c3bd25bf6594f08496bbe99a95f318c70b6bcdac9b2c1cc39c16d1ce2195,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+7290938,51bada3bb6b076d7659c73d5215d5e1526c24ed17348aff4cd693b6451d0b4e3,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+7291189,d57f5d5b32e1149a4d985d03de8f0f7bac401f157205a9be5054f254c99f8fc5,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+7291320,46b9bec2b3c9992dbb1d04ec7cdc10a9a41a7a4940aff8605dbde588cb6b193e,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+7291344,61d6c9ab3ea5d5340da7d3459e2bc49c7e4dde5b9aeb520bb92e293b4ad12154,Credit card,1,0,1,Credit card,2,machine,Credit card or prepaid card,1,machine
+7294087,c145a1f5fcabe14febc1c24f2b4b1f28444d8ed2ad1ab7c8414d503eef05d3e4,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+7298723,8d794f200a08006606028cb8e48e05ae3206a5a2fdc6407c2e4b3dae25f44760,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+7299264,0f444bb93d238a5203e146354c37ed61d618d7fabf1b5478d2782fb9b1569bdc,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7299502,3504f2d2c0ae930d30e466a9550b58d8f8708d9f8a2073371679815ffec2fd4e,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7299573,aa3b4bd551b96986e156cbc128cb6d916eadbe3f5eaf91f64535fce87248f384,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+7300353,b95e2915483f7ead9fb81fa9fa60b4e5287af244873d9cb3707efc16a3336d85,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7300678,c86bcb37bd85eb0c31b3f9ca0aa33bb369b4cc8122e602eff72916958f8247af,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+7301242,832ff4f4d8fb8de7dc4f3c6a4ecda3940cc53c29cc313eddac1e31f5213e66a5,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+7303985,b070e91251afdd0cf35c2496e882072495276d98a2211b5ad100722b50ac400a,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+7304092,814701281fc398b19e99489a8648799f4b4fc719b80a09a26b9e18cbbf7ee214,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+7304692,9d934b4c9474a8ae88d0cf34d510342c2c096f76dd6f78308023fa9dfb36259b,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7304940,10da877635501b2ee623fbefdd87e827255174283fa19b89cbab7425fb6915a4,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7306150,c4a2f1338d5d1d55cf68abbfe9c90b15fab041be1695f36bcf1a72e257e4fc64,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+7306383,3a96cdf8072fc61b60ee17844bb2a09c69eec55a66738c17840b8ed145d453e7,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+7308300,41f28bed264c95c9d470f73a34cce963f86c6c665d1f2631fde4c370b42dbfe8,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+7308537,25f9e008c2685769d35d356f8d9d5e3279eb9ce8cb7ce439df57957703abd523,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+7308615,b2b1dc0acf1257a6beee6e99390487c18ab849ee83b406647d017315d0121d9e,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7309763,e545bca8bd846c46fba1496539e1aec3c876e41fbea63ccabab4f018b28b9352,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7310140,7d02478bbda87f9a721a6099ea8246c1c4c373fbe2c155786adcf70967d950a5,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7310826,1789f15365676889bfef7ff5262fc8d9443df33093fe1382639f54f482102930,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+7310935,53cf74a675ae65619e3f283d596d84fbe5bcef7dc9cdd2e30a0635779510652b,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+7313304,8022fbc0783745d7ae68b92a4b80615f97d718eacd765d6480d6d4f6ad839c9d,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+7314382,75e982aef30e6f9a27f0ec78de635fc7f6df7872dde57e03a14bedbeb58d8100,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+7314779,e545bca8bd846c46fba1496539e1aec3c876e41fbea63ccabab4f018b28b9352,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7315008,917bc3804c7e35986a3bd7e8b927e4f619ae39726d9614d871aead63b723dadc,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+7319629,a7edfb48f7a6f939041ddaebd88128728a68ced1f9160c8f5314ca7ae35a8bed,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+7319982,4fbb4ba7e178c72a81cbe80ea99c081adea507a3fccd02edd9db64514b635302,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+7320919,156cde801e54d2c1de1fe76dbd678fc52ce4852204ec8e9580611380c64fa50c,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+7323766,65e1528ecf290a3a3f76d731526846ab0c52a7c18bb9b9564300f5b0eef25689,Checking or savings account,1,1,1,Checking or savings account,2,human,Checking or savings account,1,machine
+7324117,e7c05d6c83dd2753b633981e0b9ee242da4a2c402912dd172545f24f8e7efce9,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7324626,ab87670fdc380a2cf82728d4e3cf7b2ff8bf286a27513b4a6d385af53f2c3ff4,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+7325792,6947d057f33054cabd779189d0586f9a64166e3884875fdf34b348e927002a84,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+7327003,ee183571c0e6860f2709e9fd01ca9f9d2d3ad6a94b1c9815e13690acfea198b5,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7327383,c286c753f40a846f0be49f3912d2298c662cb1843880a572c0a066c29f9d320e,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7327789,5eab50cee34e0dcddac7afc803203476dd99918146bb24d33d11d245f495731d,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7328085,a989262a58f9d3c51a934abad4aaf86015da3cacde567d0bbfedcf9f02fdbd8e,Prepaid card,1,0,1,Prepaid card,2,machine,Credit card or prepaid card,1,machine
+7329685,10da877635501b2ee623fbefdd87e827255174283fa19b89cbab7425fb6915a4,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7330569,8e1a498af705e04bf46b9aabd9c69710b0c352719dfb7659f7cb34d3aaacc317,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7330899,80647bd342ebbaa6408175a56cdc5683da9c00911ea6020b14829a3fac5473cc,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+7331001,17bac8f256da84300e0422e6b78e76778d023ce018eaffd0311e32138f1c4e91,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+7331544,10da877635501b2ee623fbefdd87e827255174283fa19b89cbab7425fb6915a4,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7331874,10da877635501b2ee623fbefdd87e827255174283fa19b89cbab7425fb6915a4,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7331935,6353bf807fbfb2a98f50e214a87b36c44f030911eefa41afb2d390b29c0c65fc,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+7332084,a1a7e7333eedf3bec322aef963d5aec95154bf059a86b8d1cfa71a3520476deb,Checking or savings account,0,0,1,Checking or savings account,2,machine,Checking or savings account,1,machine
+7333041,091caad5229e7a47e00e246e46eed78c69b462635e5bf0196f226f8038f70f89,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+7335032,6785e237175a24dcd58ecfc5f61d66f6fd7deaea1305ad63af4a187b3e8ace6c,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+7335720,4c108b9ab1a484888185317342e63ddab88460b9081bd9ff6f063d5d8f93c29f,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+7336182,a838c7b4ce150cf647835f9adb595593f2f614eec229a91d8a907d98f599c39b,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7337254,e2a14c123e5b6c44531d8535db7f426d47e80698a6eb5f6e5965f0e84eef5201,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+7337490,e8b53dba927a89afe966ec703c831fddc6e6273058bf62d1998a42138184901e,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+7338056,0ad5a7706fd7d4eda754dd79993372acf7623deb99a2f997d67cad18c5f0bd6a,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+7338196,0a2401f80f9441d5e02b1bb779d86bfc3d4dad9e832c4ecb11a38124a0e02f10,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7339117,8bc5a896f69c9aa37b16e0fc70e7e0e8b8acdb62ac59671834a8479295bfae3f,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7340436,6aa0068a0868c09f727e1db36992a9aacc2f1946fa49d8855a4e25b44359ccd2,Checking or savings account,1,1,1,Checking or savings account,2,human,Checking or savings account,1,machine
+7340996,a2c7bb2f22bb87c30a40017d7c5cbcdc8a89ad369901595e4b1a1369ca490cd6,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+7341258,f1d782332afb2223929cbb8dffbbd5ed27ea8a329a750213b960b432ae9f1524,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+7342513,c9ebe6ff1eacb24d2df065bab091ea4c804c445114735787fd6ad71c252bf380,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+7343637,6958ea35693739350bcf9c7714bc30e5e91b8597f57ab63cc5685b1ac07347e2,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7343894,9d77a5846f7b7be6770c5d5974950dd3d8876ee2e6d0ae9c973c15f4ac177ce6,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+7344193,2c367a023f1826d6c041415df60d586f4c09a87288c6e9c88587ed22cd6b05d1,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7346135,91bfe990f63e12907c1aefdd8b95e913fef2c510994ad7563e982a614b27d120,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+7346342,c77d9ad0e8ab09b033063acd3ee94821ec8b8d95359e2b82fe9456daceb516ca,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+7347079,10da877635501b2ee623fbefdd87e827255174283fa19b89cbab7425fb6915a4,Credit card,1,1,1,Credit card,2,human,Credit card or prepaid card,1,machine
+7347126,830abd406ddbf87c01d0f79acafbf70b8e117d7f7bd91484327ac4276b36c9a9,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+7347415,10da877635501b2ee623fbefdd87e827255174283fa19b89cbab7425fb6915a4,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7348964,477032a9f18ece7b5d64994bbc4f4972e13740864292afc00798d44657d3cd2d,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+7349802,6539628da309bea4c1c7f9107146039acbd98c6aca9a7b0564d944cb122e5573,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+7349873,dc4258a7af2e944e922154198ab37563882f4749664cdcd5c41e0d7d71533fe0,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7351100,e8546e27f455a1a303cf1a8b3b62fdb6d0bea841a7ebe71cdc80a69be5383f71,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+7351648,0569aefbbea985aeb1594b560d0ae60e6ad5fa7fb0b39f6a6f3cc3e83c3752a5,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+7352176,834c121567577596494a8dbc08bf2c557711addad97f0f2783ef50aab37bae6e,Checking or savings account,0,0,1,Checking or savings account,2,machine,Checking or savings account,1,machine
+7352446,10da877635501b2ee623fbefdd87e827255174283fa19b89cbab7425fb6915a4,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7353609,6808ac98868e585600bbdf736f7a52338484f184042da4d6427c386fb5867cbe,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7355123,0c64b3692ae323e5f4250e83f913b48fb5cb83f116de139477992c951e4fbcbf,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+7355154,ca5373bd4fa8c0810b00a85d082c23903434e36941f29d681fa8eb3876abf6a7,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+7356297,810ce100ba53434057ef83ee5c597a1bbc4ae5b5f839425cce6fa9202de44622,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+7358525,ccb71f942b8db922d85dce62f2ceec8f9e732178b7211a7a0a6ce9d3e7798bd1,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7361838,6d3e6a0ff2034c2eac710fd5424aab9a63042debbbea8e88391d6a392b6bfa3f,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+7362117,c5c212240cce5c823188f2f7e8a0e5aa8b8cfe6dd58d527ebb6f9d25cc56f056,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7362308,9117d7a33f63ac3184239176b41245df7945e1acb02e076c2e82e120c09cd9a1,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+7362943,7ff60a10d5f57bb1a6cdf0716c62e31b49a7fe87b9aa64cbb87626a4e8c55080,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+7363135,f46a88856e7c1c6f995c2f380f71c0eadabfb31c9e7696b593b3bd613b9a0cd5,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7364741,f114dbee6f4c772cddb8165ddf431dc166287a73378dfff3b76fc66ab620b17e,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+7365005,c8b2d6699998898cf56f5d426972da921d2625af825ad447e4ebe2e0bb4fa5fb,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7365721,2501d7eba7cf3be74b260da8ed082640e23b9497f860d7391dc3ff78510fa7b4,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+7366218,c13e998d8d1392181da96dcda28a7d35d8eeda94c504207cb61194c75df6d010,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7367150,4877906d9f0bd4074bb9662d83f96eb8cf781500c4d5087daab8fa088794714e,Prepaid card,1,0,1,Prepaid card,2,machine,Credit card or prepaid card,1,machine
+7367451,e545bca8bd846c46fba1496539e1aec3c876e41fbea63ccabab4f018b28b9352,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7367835,c361c79fa89b34487e7da9664e679fc98598a0fa15f409913ac390bae8eeeb87,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7367926,fbc35f545480b5ba98d0daf35104b76d2b40db9fdf2546e6235b769943fa5871,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+7368533,1c657df4fb6fea187285450cbb72fff7256f070227551327972be9a89fd56618,Checking or savings account,0,0,1,Checking or savings account,2,machine,Checking or savings account,1,machine
+7369065,257022ccd3761f940c34e1e60cc398862d32ca6d7d218292e6b6516f81581d66,Prepaid card,1,0,1,Prepaid card,2,machine,Credit card or prepaid card,1,machine
+7369579,ab21d5fd586dcc2399f7fe8fcb87fbe41ee04bb1d5d55272eb9ef5d251502ed6,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+7374636,9fb4dccddd8b4608cced82150dbc59617f741bbc7551f8a834f3aec9dc14053c,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+7375678,fd3b621498283728daac3aaeafdfa9b39edb8d450bf702b16db6cb5bce61985f,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+7376209,a95a785a0f28a08880a4c8063dafb9ddaa9e8ab9cf55eb7a9c20deb5d4676977,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7376864,b7b3907961deae473f1e955a541c54496adc18c5ca4d9b4f5c6743a998dfc615,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+7377117,f067e8d441de8c58c144ebe620353c7636d8a7274b60816398f42555e526173b,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7377341,05dbb3de741fb922f9406577091bc22d18d9432a0e39c13416350e6fc20963a9,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7377708,8d92477dd37bbe8851313f750cb72eeb98ac7cba51e56792c5d2b334f4b4434c,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+7379308,62115bcb1669ac7a310ab30ff58fe0f996dd26caa07e85158e636c90d2ea171c,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+7380117,93c14208ccec711dbd319ae197fda1ec5155c1609d29a4c2d1e4d66c8ecd6583,Checking or savings account,0,0,1,Checking or savings account,2,machine,Checking or savings account,1,machine
+7380595,534a131e81b7bfd76c0c1a40802473f15fe23e948c03afeb062faf652c7abf0b,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7383130,b155e629c8c93b28073343158e431ee2a47a2a416894c77ed10fdfae15b9caa1,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+7383291,5fec72b6977ffa5b134341c624e967ebdc14de5483c6eadbe2d125052634c992,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+7384065,2874fd62382921c704a65dbd27b35aa7b70afadb45c8bd434e0be51db57b9c7f,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+7384550,d29fff41a52443803d8e0840d0a9b97a7ffc0cd6d2acff2e7378ed92b305d0eb,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7385954,a7fb6cc4839094659e63a1761b53c37d1a4c102343ccdbfd5cdf4af6fe966f61,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7386879,6d68291f1f53a3e03ac1d5b2c93c590f5ec2f1bbc552f2b51e5bc3ec241b8676,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+7387103,f27d9cf562a36c43d5e70aa196e59e1b9f7fd00d267c3b78958176d872bdf9d8,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7387905,49e2b978dc6bf90db3074bbebb4ad46863348037e920a2d054e712444691e5b8,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+7388226,10276cebb8e8ce66c858e9a513775d33a29fc00b82d28d7116892958ccd1415f,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+7389426,10da877635501b2ee623fbefdd87e827255174283fa19b89cbab7425fb6915a4,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7389429,10da877635501b2ee623fbefdd87e827255174283fa19b89cbab7425fb6915a4,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7390294,42a67e8714563e6aeb1be396a07d233dc974437669be5771814a85378a1476e1,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+7390373,7ecbe4fbf758b3c50147c039abeaa2549ea6eb7935094fa77a1ebd1d21f57613,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7391010,c01c99e1d66f772d08cde18ecb13cb153c8964bb7af11f1836a80ce5fc71840a,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7391404,3f56e8bdfe0dcbcf8736798dcf3a0e6dafb7a89561418d52fb4661607691e9b9,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7392328,078eea0c231cf5c000e424d13cc040b1485bab6adba8f4ebea09abf23f9e020b,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+7392346,34f10662df0ee89a8fa81fc4ad19944363f8c7f48c7b85cc58e175175a2dc62a,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7394505,1ad4f02e1fd8f980014bb3674f9ba0fab52390009c42e4d2cbc375835c48b5a9,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+7395167,ba0d03d73290320b2fa68ba0022eba54cb9ec45a10c40bc861973eb5a15da99e,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7397970,308b855e5306c2aa131f43cc75b6d858dc5f821c163d7437b4f3ed573b456009,Credit card,1,1,1,Credit card,2,human,Credit card or prepaid card,1,machine
+7398270,5491f46b052917aea9a7e851f14931b03d77918de66fdf1ad9c0315d6f590c07,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7398614,ae638d2af4835327f0ee76c88c859a94f4f2d8b6c1f682b4b299dfcd3871b0f0,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+7399923,d19a4a28fb3213d0fef900d9f6f7e6e1db3e8ae9ef72abb88edc1768f76f3eb1,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+7400143,a05c26365a0d45130cdf7b0313b4cb107fb3b0547e438201a20fea3f2afa2ffc,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+7400192,f80f456bef3062793d61d3b04fc487e0d6ffb7f8dadfbab9bc7170c6664d3ad5,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+7400900,37cab0dc6e819a87a53fe6254d95e381c89c7c2f117f509e4d8d141723445664,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+7404607,7c9eaba32eccd5bc6bf77bab148a9def91911f062754060b14a523ee82a56364,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+7404704,10da877635501b2ee623fbefdd87e827255174283fa19b89cbab7425fb6915a4,Credit card,1,0,1,Credit card,2,machine,Credit card or prepaid card,1,machine
+7405692,8bcd67cc305b8e2ad0c8c3e40cb4db19fe950163f0e84155f16bde77fbebc6cf,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7406131,aeeeca559b20dcd4ffa91de3b3b4fb9aa4e41b7c989c8820cb53232389c2da8d,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+7406237,ca9a75a326475f147b54cd47acaff8c14f4db41648444ab5439237236d29e5fb,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+7406966,45c8a38d877b2f47035e7f6bffbf9cdb81f7c52996603f4d944f8464a8ea8cdf,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+7407655,a9cb37780d009f4224aeec727137a626e5d959e362522ce93371cf590d659d21,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+7408790,8b16d48335d52f082ce4deea3e6df8db1e2775c2d2d5d00b1f72863738f6f40b,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7409674,eaf0714a72b702612790ed6cea20bcf689b65f06e79f1be2c488abf1ec60027f,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+7410082,009d8ce247211178cbc6cea2a39e6a0ef106301c11c17ac95e418df8c826a92b,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+7410715,32316c832612fa1fb97f20678795e8e13eeff0f468b213d76b13830cb2323034,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+7411039,d301036ac0ee579b317235d9c9e5335b9f448a551467bc235264f95fd7eaf0bf,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7411691,073691f37d92961f4c2112667f8b973c2459632338cd9ed13541e3ba4ea4d0a6,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+7412601,5dbc52217ec07f5e10e4008cc3fd414205f52a674dd54d44a1c87a5c4922d2f5,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+7412705,e08029065f171f48be442a6acc4ff10d7191bf258653f2a1756292faf924c5bf,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7413508,cba431da09df98cf62481b3f91e38dfc2ac26e915d119ca7066e80f86b3b01f3,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7413511,4be41beb671ebed0ee7675d8674d7aea493c2be7baf824016ab73a89a0d7fd64,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+7415953,e676ff8d4190c47333cd96319604e591ac13af84ae7b0e3af2b3dea6d45f35b9,Prepaid card,1,0,1,Prepaid card,2,machine,Credit card or prepaid card,1,machine
+7417278,10da877635501b2ee623fbefdd87e827255174283fa19b89cbab7425fb6915a4,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7417317,10da877635501b2ee623fbefdd87e827255174283fa19b89cbab7425fb6915a4,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7418573,f15c7cfc4a9a74175442274045c470cd32dad445c4c29ddcda83b7054331a9d0,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+7420540,a71af83aa9eed3b7afe484155b296d8a73f630a95da5bad1905129923fa2bb43,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+7422072,162d255ccb947e7281fdd6e867caf79eaaab4e013ecdaa9ef0cd8062fad44946,Prepaid card,1,0,1,Prepaid card,2,machine,Credit card or prepaid card,1,machine
+7422103,ebe438e44323c183244a5fc1fa9f594b8ec6d5bb86e7b3cde9fe7a61bea6a43e,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7422782,2d02ea58e0a575524fcf77d32e3addc2988a21f83d4db81743cc165f24cd5993,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7424331,e3b20c754b347de4314e7b04ed33f7838a4b5f400577434e802679b75772bf48,Prepaid card,1,1,1,Prepaid card,2,human,Credit card or prepaid card,1,machine
+7424706,ea780f1b3699f7a9fdceda2d72e7278d56b8a4dd71f64295cf5fa2802eb5b44a,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7424878,b8ceb2fab300571ba6f932fd6c055d6acca9ec398340d8840674695fc19aee10,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+7425496,f81201094e78ea67dd01b7501edb8af99c40eb7ca212f06c1be5b2cb10864993,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7427077,f9b562550f83f9001fe12442a2d31846d7fc99d43c259b5990da34fcd144ba7f,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+7427110,2467cfe5ede41d712c7bb3544e28966c93c5169d65461038a27cb6ff370bc72f,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+7427774,647578f95a0ad9689a1f7508e7f7d0cab4e2a38cd217e245aa425bfe40551acb,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7429461,cb7bbf11ae90717a6af862f1606f28ff227a100e1937b1c91d5cd47cc6d691a3,Prepaid card,1,0,1,Prepaid card,2,machine,Credit card or prepaid card,1,machine
+7429728,165401be21cd7281a540b071377eebf8438dcba7063c7479a4f3a1ac4b0f1514,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+7432567,10da877635501b2ee623fbefdd87e827255174283fa19b89cbab7425fb6915a4,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7432790,2c26994e56ef3de593e4f0e216bac4d92f92baf586aaac459cc917bb2b0a12fd,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7432876,859b1693f8803a04261bbd68dcc3ef1d8ed2f929b04dbca54f2da4c5e6e43e97,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+7433399,66a78fe2a626e1486af049c41470b0b89c6a1f4fa0e0be09b313e379b27b390d,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+7435376,5692cf9e06fddae280733d9098d8402e072880cc2ef75c42c9f6d784ba642f33,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+7436267,34eeead02cc32bbeead0f9fc89ed82bb94a9a58ff8824f5009c3e1467e78cc5d,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7436735,10da877635501b2ee623fbefdd87e827255174283fa19b89cbab7425fb6915a4,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7438175,16d55137b123dede0b4b83195e5649843b69e746ac14741103528f9434dc23f1,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+7438996,f59d73c28067788f5d887d64ff51f8d2f6ad9754704b5710bee63500944d0be6,Credit card,1,0,1,Credit card,2,machine,Credit card or prepaid card,1,machine
+7439312,6f28a71db32bf7da9349761a1e8bbc6d9aa02208d9b20f751bd18f97d227ead2,Credit card,1,0,1,Credit card,2,machine,Credit card or prepaid card,1,machine
+7440144,b46fd8a003378cf8d69a9a741bfb58bd698a7f88b469c7c9ee9186e0c829d4f3,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+7440810,f3645d1f6cba1267612d49e68ff7b4db80cdf998df25698c3ebfd589fde2ce61,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine
+7440981,0a17d75102b57a42422263f7c50e03468e286972f2b36a875d9ffea45147f621,Credit card,1,0,1,Credit card,2,machine,Credit card or prepaid card,1,machine
+7441114,b1e3353a201ac29db0b1a63638d475d9fe168500a0dccf3d36cdb1ba1816feaa,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7441427,82381855b4045b486998480791f37875e3b715e87d5d8a1cf23c8cc2e080ef18,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7442491,c13e998d8d1392181da96dcda28a7d35d8eeda94c504207cb61194c75df6d010,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7445762,50cc39f144f8df1659aadf34d08b64405fc41ef769b638e0b03e0d219784ecb4,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7445763,d338ae4aec412e251ae7f095c4e1f5be2ae68705c8bcf3a7056630047f5ef86d,Credit card,1,0,0,Credit card,2,machine,Credit card,2,machine
+7446777,9619a92d694bbadc693878f7b3262917b4c91090336aa7718b42340b641fb266,Prepaid card,1,0,0,Prepaid card,2,machine,Prepaid card,2,machine
+7447306,0a3a6853f523959d53e324eee3129e4b36dd3b4a3705a4630162a008291fb8f6,Checking or savings account,0,0,0,Checking or savings account,2,machine,Checking or savings account,2,machine

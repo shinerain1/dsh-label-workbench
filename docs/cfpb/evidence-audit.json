@@ -1,0 +1,8 @@
+{
+  "verified": true,
+  "audit_rows_recomputed": 10800,
+  "unique_complaints": 1200,
+  "runs": 3,
+  "arms_per_run": 3,
+  "scope": "Hashes, independent taxonomy mapping, paired schedules and row-level metrics; no claim of verifying consumer allegations or actual human review"
+}
