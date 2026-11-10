@@ -1,0 +1,17 @@
+{
+  "active_version": 2,
+  "pending_human_ids": [
+    "r00005",
+    "r00018"
+  ],
+  "export_allowed": false,
+  "isolated_callback_count": 24,
+  "script_path": "<temporary-workspace>\\generate_state_v2.py",
+  "state_path": "<temporary-workspace>\\state-v2.json",
+  "impact_path": "<temporary-workspace>\\impact-analysis.json",
+  "artifacts": [
+    "<temporary-workspace>\\generate_state_v2.py",
+    "<temporary-workspace>\\state-v2.json",
+    "<temporary-workspace>\\impact-analysis.json"
+  ]
+}

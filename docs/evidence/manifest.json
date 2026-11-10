@@ -1,0 +1,102 @@
+{
+  "data": "synthetic",
+  "raw_model_sessions_included": false,
+  "files": [
+    {
+      "file": "plain-script/records.json",
+      "sha256": "56897bfc74e47a2d9d88ea711584756de4a16308b70441624af3d546d8a6943d",
+      "source_sha256": "11fcf25fb5540f11a3bffc80d3a5aaf9f641bbc304aa7b8aa223aa49b1d2095e",
+      "local_path_redacted": false
+    },
+    {
+      "file": "plain-script/rules-v1.json",
+      "sha256": "fd24010501b39a0afc0a1b1730292a98eec99b630b3538cd5780dc43f40f27a7",
+      "source_sha256": "116d99fddf7f2205a0af2d0ca610ef400a843e20b12a8eca20fbc67888045305",
+      "local_path_redacted": false
+    },
+    {
+      "file": "plain-script/rules-v2.json",
+      "sha256": "8a9f33c81245c3a8abdd6f72ad0666125c474a2327d633134c43ea3861b78ddd",
+      "source_sha256": "9eb0cdacf5ab721abb7308fb765c30155f46c88fa665a15ca25beedda38ae224",
+      "local_path_redacted": false
+    },
+    {
+      "file": "plain-script/state-v1.json",
+      "sha256": "e12e4b3e3299c64f6dc06b0bf138db97e34bb835d6d14062f75f7ef5902ff77b",
+      "source_sha256": "4d9c27208ce9e1426c93cd84490724f1d70544194d28e4cfed9522790014f059",
+      "local_path_redacted": false
+    },
+    {
+      "file": "plain-script/late-results.json",
+      "sha256": "488e0bf844e3f14a965eb127ff049da0ed8495db7e982d14290a67eaaf0c9654",
+      "source_sha256": "9a48bce40b3a103003bee0376c36b76030188cf3f66f24aa22e755526bf67dd2",
+      "local_path_redacted": false
+    },
+    {
+      "file": "plain-script/state-v2.json",
+      "sha256": "c85dbb81617469e9aee45fb9ef5dd22db6b708b107e97b60ee44450c59075d11",
+      "source_sha256": "c85dbb81617469e9aee45fb9ef5dd22db6b708b107e97b60ee44450c59075d11",
+      "local_path_redacted": false
+    },
+    {
+      "file": "plain-script/result.json",
+      "sha256": "86398a6ddb3608f8fa313ce6396402b0070b4e8391cb4b3a5eb4bc66d2673b33",
+      "source_sha256": "6f28478b7ff7482867c2e282fa6b8b0795a46f6efcf24fcb59b0450c3d8aeaa7",
+      "local_path_redacted": true
+    },
+    {
+      "file": "plain-script/resume.json",
+      "sha256": "f83a75878090075afca01a426494a90eb9204243043f19e2243b0f6227e3316a",
+      "source_sha256": "85ff70c6e3d566d527942693abd14ee915f6489f0564268eb65b60ab215fcc5b",
+      "local_path_redacted": true
+    },
+    {
+      "file": "plain-script/workflow.py",
+      "sha256": "3947b07fc1503b3f274d56428cf14ad9b197585a11b02b2daf2cad6dcae752fa",
+      "source_sha256": "3947b07fc1503b3f274d56428cf14ad9b197585a11b02b2daf2cad6dcae752fa",
+      "local_path_redacted": false
+    },
+    {
+      "file": "plain-script/isolated-callbacks.json",
+      "sha256": "9dd36f714a88d555ce1bff1be50a6c3359f5894d32b728e786b2d172a931f64c",
+      "source_sha256": "9dd36f714a88d555ce1bff1be50a6c3359f5894d32b728e786b2d172a931f64c",
+      "local_path_redacted": false
+    },
+    {
+      "file": "plain-script/callback-ledger.json",
+      "sha256": "593c6c0ea814c02ec253a7828c4b1d60dc6aaa84483d9445a1eb4db4b4b0f3f3",
+      "source_sha256": "593c6c0ea814c02ec253a7828c4b1d60dc6aaa84483d9445a1eb4db4b4b0f3f3",
+      "local_path_redacted": false
+    },
+    {
+      "file": "with-plugin/state-v2.json",
+      "sha256": "c85dbb81617469e9aee45fb9ef5dd22db6b708b107e97b60ee44450c59075d11",
+      "source_sha256": "5c1d18545fcf3c9ddc3776fa46b91dd9347c35ba60b59ebfc94f493ca1b61856",
+      "local_path_redacted": false
+    },
+    {
+      "file": "with-plugin/result.json",
+      "sha256": "735d0514a74036a227554ed572d77d87e553d60f1e5420deeb324bce9e1fe821",
+      "source_sha256": "4374f920ad1ec205df30607f89c7b0c15e8a308ac117a4cc1a9d383c491b0a0e",
+      "local_path_redacted": true
+    },
+    {
+      "file": "with-plugin/resume.json",
+      "sha256": "ec7e16bbf08230c8f1fccb25916d32a64c8e4fff460d03b3748388035d958fe0",
+      "source_sha256": "ec7e16bbf08230c8f1fccb25916d32a64c8e4fff460d03b3748388035d958fe0",
+      "local_path_redacted": false
+    },
+    {
+      "file": "with-plugin/impact-analysis.json",
+      "sha256": "9f3c306538e7ac8cc8af9cea756a1e14742f8bff3dc17576013c5eea88af64e8",
+      "source_sha256": "9414b42b021a64ebe8a34ec4f8b5cbdf3bbea17d7bce2a3a6e94be8120037680",
+      "local_path_redacted": false
+    },
+    {
+      "file": "with-plugin/generate_state_v2.py",
+      "sha256": "3771f270a75a814868fc0d9cb67dda680a21d4de81713cd1a5f421d3ad67e3b9",
+      "source_sha256": "3771f270a75a814868fc0d9cb67dda680a21d4de81713cd1a5f421d3ad67e3b9",
+      "local_path_redacted": false
+    }
+  ]
+}

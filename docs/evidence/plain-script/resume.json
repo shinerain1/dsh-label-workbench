@@ -1,0 +1,14 @@
+{
+  "recovered": true,
+  "pending_human_ids": [
+    "r00005",
+    "r00018"
+  ],
+  "export_allowed": false,
+  "active_version": 2,
+  "state_unchanged_during_resume": true,
+  "callback_replay_ignored": true,
+  "isolated_callback_count": 24,
+  "state_path": "<temporary-workspace>\\state-v2.json",
+  "result_path": "<temporary-workspace>\\result.json"
+}

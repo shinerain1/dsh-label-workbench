@@ -1,0 +1,14 @@
+{
+  "name":"dsh-label-workbench","version":"0.1.0","description":"Iterative annotation workflows for DSH: rule versions, stale worker isolation, human review and traceable exports",
+  "type":"module","main":"./lib/index.js","types":"./lib/index.d.ts",
+  "exports":{".":{"types":"./lib/index.d.ts","default":"./lib/index.js"},"./package.json":"./package.json","./cordis.patch.yml":"./cordis.patch.yml"},
+  "files":["lib","python/dsh_label_workbench/*.py","pyproject.toml","cordis.patch.yml","README.md","LICENSE","docs","examples","scripts/install.py"],
+  "scripts":{"build":"tsc -p tsconfig.json","build:check":"tsc -p tsconfig.json --noEmit","test":"node --test tests-node/*.test.mjs","check":"npm run build && npm run build:check && npm test"},
+  "engines":{"node":">=24.9.0","dsh":">=0.2.2-alpha.3 <0.3.0"},
+  "peerDependencies":{"@deepseek-ai/cordis":">=4.0.6-alpha.2 <5","@deepseek-ai/dsh-tools":">=0.0.1-rc.1 <0.3.0"},
+  "dependencies":{"@deepseek-ai/schemastery":"3.19.0"},
+  "devDependencies":{"@deepseek-ai/cordis":"4.1.0","@deepseek-ai/dsh-tools":"0.0.1-rc.1","@types/node":"^24.0.0","typescript":"^5.9.0"},
+  "dsh":{"bundle":{"patch":"./cordis.patch.yml"}},"author":"shinerain1","license":"MIT",
+  "repository":{"type":"git","url":"git+https://github.com/shinerain1/dsh-project-2.git"},
+  "keywords":["dsh-plugin","annotation","label-studio","data-quality","human-review"]
+}

@@ -1,0 +1,230 @@
+[
+  {
+    "id": "r00005",
+    "text": "物流很快，谢谢（工单5）",
+    "label": "其他",
+    "rule_version": 1,
+    "needs_review": true,
+    "source": "human",
+    "history": [
+      {
+        "rule_version": 1,
+        "label": "其他",
+        "reviewer": "fixture-reviewer"
+      }
+    ]
+  },
+  {
+    "id": "r00018",
+    "text": "东西坏了怎么办（工单18）",
+    "label": "其他",
+    "rule_version": 1,
+    "needs_review": true,
+    "source": "human",
+    "history": [
+      {
+        "rule_version": 1,
+        "label": "其他",
+        "reviewer": "fixture-reviewer"
+      }
+    ]
+  },
+  {
+    "id": "r00022",
+    "text": "商品损坏，申请退货（工单22）",
+    "label": "售后",
+    "rule_version": 2,
+    "needs_review": false,
+    "source": "machine",
+    "history": []
+  },
+  {
+    "id": "r00015",
+    "text": "请帮我退钱（工单15）",
+    "label": "退款",
+    "rule_version": 2,
+    "needs_review": false,
+    "source": "machine",
+    "history": []
+  },
+  {
+    "id": "r00007",
+    "text": "这个颜色还有货吗（工单7）",
+    "label": "其他",
+    "rule_version": 2,
+    "needs_review": false,
+    "source": "machine",
+    "history": []
+  },
+  {
+    "id": "r00014",
+    "text": "商品破损了（工单14）",
+    "label": "售后",
+    "rule_version": 2,
+    "needs_review": false,
+    "source": "machine",
+    "history": []
+  },
+  {
+    "id": "r00023",
+    "text": "你好，想咨询一下（工单23）",
+    "label": "其他",
+    "rule_version": 2,
+    "needs_review": false,
+    "source": "machine",
+    "history": []
+  },
+  {
+    "id": "r00021",
+    "text": "收到破损快递（工单21）",
+    "label": "售后",
+    "rule_version": 2,
+    "needs_review": false,
+    "source": "machine",
+    "history": []
+  },
+  {
+    "id": "r00006",
+    "text": "东西坏了怎么办（工单6）",
+    "label": "售后",
+    "rule_version": 2,
+    "needs_review": false,
+    "source": "machine",
+    "history": []
+  },
+  {
+    "id": "r00019",
+    "text": "这个颜色还有货吗（工单19）",
+    "label": "其他",
+    "rule_version": 2,
+    "needs_review": false,
+    "source": "machine",
+    "history": []
+  },
+  {
+    "id": "r00013",
+    "text": "申请退货，尺寸不合适（工单13）",
+    "label": "售后",
+    "rule_version": 2,
+    "needs_review": false,
+    "source": "machine",
+    "history": []
+  },
+  {
+    "id": "r00016",
+    "text": "快递一直没到（工单16）",
+    "label": "物流",
+    "rule_version": 2,
+    "needs_review": false,
+    "source": "machine",
+    "history": []
+  },
+  {
+    "id": "r00008",
+    "text": "已经退款，为什么还要退货（工单8）",
+    "label": "退款",
+    "rule_version": 2,
+    "needs_review": false,
+    "source": "machine",
+    "history": []
+  },
+  {
+    "id": "r00000",
+    "text": "我想申请退款（工单0）",
+    "label": "退款",
+    "rule_version": 2,
+    "needs_review": false,
+    "source": "machine",
+    "history": []
+  },
+  {
+    "id": "r00009",
+    "text": "收到破损快递（工单9）",
+    "label": "售后",
+    "rule_version": 2,
+    "needs_review": false,
+    "source": "machine",
+    "history": []
+  },
+  {
+    "id": "r00011",
+    "text": "你好，想咨询一下（工单11）",
+    "label": "其他",
+    "rule_version": 2,
+    "needs_review": false,
+    "source": "machine",
+    "history": []
+  },
+  {
+    "id": "r00003",
+    "text": "请帮我退钱（工单3）",
+    "label": "退款",
+    "rule_version": 2,
+    "needs_review": false,
+    "source": "machine",
+    "history": []
+  },
+  {
+    "id": "r00017",
+    "text": "物流很快，谢谢（工单17）",
+    "label": "物流",
+    "rule_version": 2,
+    "needs_review": false,
+    "source": "machine",
+    "history": []
+  },
+  {
+    "id": "r00002",
+    "text": "商品破损了（工单2）",
+    "label": "售后",
+    "rule_version": 2,
+    "needs_review": false,
+    "source": "machine",
+    "history": []
+  },
+  {
+    "id": "r00001",
+    "text": "申请退货，尺寸不合适（工单1）",
+    "label": "售后",
+    "rule_version": 2,
+    "needs_review": false,
+    "source": "machine",
+    "history": []
+  },
+  {
+    "id": "r00020",
+    "text": "已经退款，为什么还要退货（工单20）",
+    "label": "退款",
+    "rule_version": 2,
+    "needs_review": false,
+    "source": "machine",
+    "history": []
+  },
+  {
+    "id": "r00012",
+    "text": "我想申请退款（工单12）",
+    "label": "退款",
+    "rule_version": 2,
+    "needs_review": false,
+    "source": "machine",
+    "history": []
+  },
+  {
+    "id": "r00004",
+    "text": "快递一直没到（工单4）",
+    "label": "物流",
+    "rule_version": 2,
+    "needs_review": false,
+    "source": "machine",
+    "history": []
+  },
+  {
+    "id": "r00010",
+    "text": "商品损坏，申请退货（工单10）",
+    "label": "售后",
+    "rule_version": 2,
+    "needs_review": false,
+    "source": "machine",
+    "history": []
+  }
+]

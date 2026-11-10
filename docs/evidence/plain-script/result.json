@@ -1,0 +1,101 @@
+{
+  "active_version": 2,
+  "pending_human_ids": [
+    "r00005",
+    "r00018"
+  ],
+  "export_allowed": false,
+  "isolated_callback_count": 24,
+  "isolated_callback_batches": 1,
+  "state_recovered": true,
+  "state_written_this_run": false,
+  "last_callback": {
+    "fingerprint": "64858adf02799f11d324bfd596b163b19fdcc216900cd23136877b1496d964fe",
+    "rule_version": 1,
+    "result_count": 24,
+    "status": "duplicate_ignored",
+    "reason": "stale_rule_version"
+  },
+  "impact": {
+    "machine_total": 22,
+    "machine_relabeled_count": 10,
+    "machine_relabeled": [
+      {
+        "id": "r00022",
+        "old_label": "退款",
+        "new_label": "售后"
+      },
+      {
+        "id": "r00015",
+        "old_label": "其他",
+        "new_label": "退款"
+      },
+      {
+        "id": "r00014",
+        "old_label": "其他",
+        "new_label": "售后"
+      },
+      {
+        "id": "r00021",
+        "old_label": "物流",
+        "new_label": "售后"
+      },
+      {
+        "id": "r00013",
+        "old_label": "退款",
+        "new_label": "售后"
+      },
+      {
+        "id": "r00009",
+        "old_label": "物流",
+        "new_label": "售后"
+      },
+      {
+        "id": "r00003",
+        "old_label": "其他",
+        "new_label": "退款"
+      },
+      {
+        "id": "r00002",
+        "old_label": "其他",
+        "new_label": "售后"
+      },
+      {
+        "id": "r00001",
+        "old_label": "退款",
+        "new_label": "售后"
+      },
+      {
+        "id": "r00010",
+        "old_label": "退款",
+        "new_label": "售后"
+      }
+    ],
+    "machine_unchanged_count": 12,
+    "human_total": 2,
+    "human_pending": [
+      {
+        "id": "r00005",
+        "kept_label": "其他",
+        "kept_rule_version": 1,
+        "v2_rule_label": "物流",
+        "needs_review": true
+      },
+      {
+        "id": "r00018",
+        "kept_label": "其他",
+        "kept_rule_version": 1,
+        "v2_rule_label": "售后",
+        "needs_review": true
+      }
+    ]
+  },
+  "artifacts": {
+    "workflow": "<temporary-workspace>\\workflow.py",
+    "state_v2": "<temporary-workspace>\\state-v2.json",
+    "result": "<temporary-workspace>\\result.json",
+    "resume": "<temporary-workspace>\\resume.json",
+    "isolated_callbacks": "<temporary-workspace>\\isolated-callbacks.json",
+    "callback_ledger": "<temporary-workspace>\\callback-ledger.json"
+  }
+}

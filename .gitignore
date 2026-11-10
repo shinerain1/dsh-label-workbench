@@ -4,8 +4,14 @@ node_modules/
 __pycache__/
 *.py[cod]
 .pytest_cache/
+.verification/
+.research/
+*.egg-info/
+build/
+dist/
 .env
 .env.*
 !.env.example
-.DS_Store
+.label-workbench/
 Thumbs.db
+.DS_Store

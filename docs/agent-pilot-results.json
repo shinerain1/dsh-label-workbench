@@ -1,0 +1,118 @@
+{
+  "kind": "live-dsh-agent-pilot",
+  "model": "deepseek-official/deepseek-flash",
+  "reasoning_effort": "low",
+  "replicates_per_arm": 1,
+  "turns_per_arm": 2,
+  "records": 24,
+  "human_reviews": "2 pre-seeded simulated reviews; no real human participation",
+  "budget": "600 seconds per turn, maxTokens 8192 per completion; no equal-token constraint",
+  "arms": {
+    "plain-script": {
+      "completed": [
+        false,
+        true
+      ],
+      "final_reasons": [
+        [
+          "max-tokens"
+        ],
+        [
+          "completed"
+        ]
+      ],
+      "model_completions": 14,
+      "same_session_new_process": true,
+      "records_delivered": 24,
+      "audit_failures": [],
+      "tool_calls": {
+        "pwsh": 6,
+        "read": 13,
+        "write": 1,
+        "edit": 3,
+        "grep": 1
+      },
+      "tool_error_count": 0,
+      "usage": {
+        "inputTokens": 19406,
+        "outputTokens": 21172,
+        "cacheReadTokens": 431744,
+        "cacheWriteTokens": 0,
+        "totalTokens": 472322
+      },
+      "timings": [
+        {
+          "arm": "plain-script",
+          "turn": 1,
+          "exit_code": 1,
+          "seconds": 121.156
+        },
+        {
+          "arm": "plain-script",
+          "turn": 2,
+          "exit_code": 0,
+          "seconds": 87.781
+        }
+      ],
+      "backend_independently_checked": false,
+      "export_blocked": true
+    },
+    "with-plugin": {
+      "completed": [
+        true,
+        true
+      ],
+      "final_reasons": [
+        [
+          "completed"
+        ],
+        [
+          "completed"
+        ]
+      ],
+      "model_completions": 25,
+      "same_session_new_process": true,
+      "records_delivered": 24,
+      "audit_failures": [],
+      "tool_calls": {
+        "pwsh": 5,
+        "read": 11,
+        "label_health": 1,
+        "label_project_status": 5,
+        "label_rule_preview": 1,
+        "label_rule_activate": 1,
+        "label_review_queue": 2,
+        "label_job_create": 1,
+        "label_job_claim": 1,
+        "label_job_submit": 4,
+        "label_job_get": 1,
+        "write": 2,
+        "label_workbench_resume": 1
+      },
+      "tool_error_count": 0,
+      "usage": {
+        "inputTokens": 33196,
+        "outputTokens": 14056,
+        "cacheReadTokens": 698752,
+        "cacheWriteTokens": 0,
+        "totalTokens": 746004
+      },
+      "timings": [
+        {
+          "arm": "with-plugin",
+          "turn": 1,
+          "exit_code": 0,
+          "seconds": 89.312
+        },
+        {
+          "arm": "with-plugin",
+          "turn": 2,
+          "exit_code": 0,
+          "seconds": 31.422
+        }
+      ],
+      "backend_independently_checked": true,
+      "export_blocked": true
+    }
+  }
+}

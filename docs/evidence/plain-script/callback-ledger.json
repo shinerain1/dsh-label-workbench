@@ -1,0 +1,40 @@
+{
+  "active_version": 2,
+  "callbacks": [
+    {
+      "fingerprint": "64858adf02799f11d324bfd596b163b19fdcc216900cd23136877b1496d964fe",
+      "rule_version": 1,
+      "result_count": 24,
+      "malformed_count": 0,
+      "ids": [
+        "r00005",
+        "r00018",
+        "r00022",
+        "r00015",
+        "r00007",
+        "r00014",
+        "r00023",
+        "r00021",
+        "r00006",
+        "r00019",
+        "r00013",
+        "r00016",
+        "r00008",
+        "r00000",
+        "r00009",
+        "r00011",
+        "r00003",
+        "r00017",
+        "r00002",
+        "r00001",
+        "r00020",
+        "r00012",
+        "r00004",
+        "r00010"
+      ],
+      "reason": "stale_rule_version",
+      "processed_at": "2026-11-10T06:22:24+00:00",
+      "state_mutated": false
+    }
+  ]
+}

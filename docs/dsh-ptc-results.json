@@ -1,0 +1,13 @@
+{
+  "kind": "real-dsh-ptc-no-model",
+  "model_calls": 0,
+  "tool_count": 17,
+  "outer_calls_for_workflow": 1,
+  "nested_calls_for_workflow": 11,
+  "stale_callback_isolated": true,
+  "safe_carry_count": 1,
+  "reload_same_session_recovered": true,
+  "idempotent_create": true,
+  "unload_removed_tools": true,
+  "limitation": "Plugin remount is not a full DSH process restart. Managed local store uses host RPC, not DSH subprocess confinement."
+}

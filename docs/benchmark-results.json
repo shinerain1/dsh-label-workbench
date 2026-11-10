@@ -1,0 +1,175 @@
+{
+  "kind": "deterministic_synthetic_fault_injection",
+  "date": "2026-11-10",
+  "model_calls": 0,
+  "human_events": "simulated",
+  "protocol_sha256": "62a4091243731ecf8720e32000f8de41aed3d1bfdfa380f8a26255b3df735447",
+  "script_sha256": "de7fe9ea48f81081e5061f4a3e234992eb1b8badb755ff7cc4ebfdc155e68bce",
+  "runs": [
+    {
+      "n": 120,
+      "seed": 7,
+      "changed_labels": 50,
+      "late_callbacks": 24,
+      "human_records": 4,
+      "arms": [
+        {
+          "arm": "simple_json_script",
+          "missed_review": 18,
+          "stale_current": 24,
+          "human_overwritten": 4,
+          "wrong_final_labels": 27,
+          "new_machine_evaluations": 30,
+          "human_confirmations": 4,
+          "isolated_callbacks": 0,
+          "seconds": 0.000161,
+          "retained_human_history": 8,
+          "scope_selected": 30,
+          "artifact_verified": false
+        },
+        {
+          "arm": "guarded_full_reprocess_script",
+          "missed_review": 0,
+          "stale_current": 0,
+          "human_overwritten": 0,
+          "wrong_final_labels": 0,
+          "new_machine_evaluations": 116,
+          "human_confirmations": 4,
+          "isolated_callbacks": 24,
+          "seconds": 8.7e-05,
+          "retained_human_history": 8,
+          "scope_selected": 120,
+          "artifact_verified": false
+        },
+        {
+          "arm": "workbench",
+          "missed_review": 0,
+          "stale_current": 0,
+          "human_overwritten": 0,
+          "wrong_final_labels": 0,
+          "new_machine_evaluations": 52,
+          "human_confirmations": 4,
+          "isolated_callbacks": 24,
+          "seconds": 0.44113,
+          "change_and_export_seconds": 0.195971,
+          "retained_human_history": 8,
+          "scope_selected": 52,
+          "safe_carry": 68,
+          "artifact_verified": true
+        }
+      ]
+    },
+    {
+      "n": 360,
+      "seed": 11,
+      "changed_labels": 150,
+      "late_callbacks": 72,
+      "human_records": 12,
+      "arms": [
+        {
+          "arm": "simple_json_script",
+          "missed_review": 58,
+          "stale_current": 72,
+          "human_overwritten": 12,
+          "wrong_final_labels": 81,
+          "new_machine_evaluations": 90,
+          "human_confirmations": 12,
+          "isolated_callbacks": 0,
+          "seconds": 0.00041,
+          "retained_human_history": 24,
+          "scope_selected": 90,
+          "artifact_verified": false
+        },
+        {
+          "arm": "guarded_full_reprocess_script",
+          "missed_review": 0,
+          "stale_current": 0,
+          "human_overwritten": 0,
+          "wrong_final_labels": 0,
+          "new_machine_evaluations": 348,
+          "human_confirmations": 12,
+          "isolated_callbacks": 72,
+          "seconds": 0.000242,
+          "retained_human_history": 24,
+          "scope_selected": 360,
+          "artifact_verified": false
+        },
+        {
+          "arm": "workbench",
+          "missed_review": 0,
+          "stale_current": 0,
+          "human_overwritten": 0,
+          "wrong_final_labels": 0,
+          "new_machine_evaluations": 157,
+          "human_confirmations": 12,
+          "isolated_callbacks": 72,
+          "seconds": 0.816868,
+          "change_and_export_seconds": 0.400134,
+          "retained_human_history": 24,
+          "scope_selected": 157,
+          "safe_carry": 203,
+          "artifact_verified": true
+        }
+      ]
+    },
+    {
+      "n": 1200,
+      "seed": 19,
+      "changed_labels": 500,
+      "late_callbacks": 100,
+      "human_records": 40,
+      "arms": [
+        {
+          "arm": "simple_json_script",
+          "missed_review": 192,
+          "stale_current": 100,
+          "human_overwritten": 40,
+          "wrong_final_labels": 240,
+          "new_machine_evaluations": 300,
+          "human_confirmations": 40,
+          "isolated_callbacks": 0,
+          "seconds": 0.001374,
+          "retained_human_history": 80,
+          "scope_selected": 300,
+          "artifact_verified": false
+        },
+        {
+          "arm": "guarded_full_reprocess_script",
+          "missed_review": 0,
+          "stale_current": 0,
+          "human_overwritten": 0,
+          "wrong_final_labels": 0,
+          "new_machine_evaluations": 1160,
+          "human_confirmations": 40,
+          "isolated_callbacks": 100,
+          "seconds": 0.000844,
+          "retained_human_history": 80,
+          "scope_selected": 1200,
+          "artifact_verified": false
+        },
+        {
+          "arm": "workbench",
+          "missed_review": 0,
+          "stale_current": 0,
+          "human_overwritten": 0,
+          "wrong_final_labels": 0,
+          "new_machine_evaluations": 527,
+          "human_confirmations": 40,
+          "isolated_callbacks": 100,
+          "seconds": 2.193671,
+          "change_and_export_seconds": 1.124398,
+          "retained_human_history": 80,
+          "scope_selected": 527,
+          "safe_carry": 673,
+          "artifact_verified": true
+        }
+      ]
+    }
+  ],
+  "limits": [
+    "Synthetic complete decision-list standards; not natural language impact prediction",
+    "Simple baseline intentionally lacks callback guards; guarded baseline also solves integrity",
+    "In-memory scripts and persistent SQLite/ZIP workbench timing are not a fair speed comparison",
+    "Human actions are scripted, not participant data"
+  ]
+}
