@@ -1,0 +1,51 @@
+{
+    "release":  "https://github.com/shinerain1/dsh-project-2/releases/tag/v0.1.0",
+    "version":  "0.1.0",
+    "prerelease":  true,
+    "source_commit":  "f2710ed681618655efc09be92c829d7a0545c928",
+    "checked_utc":  "2026-11-11T04:43:41.8804139Z",
+    "assets":  [
+                   {
+                       "name":  "dsh-label-workbench-0.1.0.tgz",
+                       "sha256":  "4c5f18c45434c9cac2b6eccb3719bfea0a2da14e9beace7f700acb6de82cf6da",
+                       "github_digest_matches":  true,
+                       "public_download_matches":  true
+                   },
+                   {
+                       "name":  "dsh_label_workbench-0.1.0-py3-none-any.whl",
+                       "sha256":  "6b54f0e87268a1db37c32cc4d7b742f056c14206138c296a6eec73f09ff643bf",
+                       "github_digest_matches":  true,
+                       "public_download_matches":  true
+                   },
+                   {
+                       "name":  "SHA256SUMS-v0.1.0.txt",
+                       "sha256":  "8ed50873b0ce1011863113f8cec0d2198db77f3b0cfc29c19ede7450cf635145",
+                       "github_digest_matches":  true,
+                       "public_download_matches":  true
+                   }
+               ],
+    "python_tests_passed":  22,
+    "node_tests_passed":  2,
+    "typescript_build":  "passed",
+    "installed_wheel":  "passed",
+    "public_dsh_cli_install":  "passed",
+    "profile":  {
+                    "public_profile_resolution":  "passed",
+                    "sdk_peers_from_dsh_host":  true,
+                    "native_tools":  17,
+                    "tool_calls":  11,
+                    "backend_version":  "0.1.0",
+                    "rule_migration":  "passed",
+                    "late_callbacks_isolated":  2,
+                    "export_verified":  true,
+                    "unload":  "passed",
+                    "model_calls":  0
+                },
+    "scope":  "Windows, Node 24.18.0, Python 3.12, actual DSH 0.2.2-alpha.3; isolated profiles; no user profile modified",
+    "notes":  [
+                  "Build used an isolated setuptools environment because the development venv has no setuptools.",
+                  "The first profile smoke used health.version incorrectly; corrected to documented health.backend_version and the full workflow passed without modifying the released plugin.",
+                  "pnpm reports host SDK peers missing from the profile; the real DSH resolver supplies them from the installation anchor.",
+                  "Browser visual acceptance and production deployment are not claimed."
+              ]
+}

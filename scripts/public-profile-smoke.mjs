@@ -42,7 +42,7 @@ try {
     return result.value
   }
   const health=await call('label_health')
-  assert.equal(health.version,'0.1.0')
+  assert.equal(health.backend_version,'0.1.0')
   const rule={mode:'decision_list',labels:['a','b'],guidelines:'Complete literal rules',rules:[{contains_any:['old'],label:'a'}],default:'b'}
   const p=await call('label_project_create',{name:'Public package smoke',records:[{id:'1',text:'old'},{id:'2',text:'hello'}],rule,request_key:'release-create'})
   const old=await call('label_job_create',{project_id:p.project_id,expected_version:1})
@@ -59,7 +59,7 @@ try {
   assert.equal(audit.valid,true)
   await plugin.dispose()
   assert.equal(ctx.tools.schemas().filter(x=>x.name.startsWith('label_')).length,0)
-  const result={public_profile_resolution:'passed',sdk_peers_from_dsh_host:true,native_tools:17,tool_calls:calls,backend_version:health.version,rule_migration:'passed',late_callbacks_isolated:late.outcomes.length,export_verified:audit.valid,unload:'passed',model_calls:0}
+  const result={public_profile_resolution:'passed',sdk_peers_from_dsh_host:true,native_tools:17,tool_calls:calls,backend_version:health.backend_version,rule_migration:'passed',late_callbacks_isolated:late.outcomes.length,export_verified:audit.valid,unload:'passed',model_calls:0}
   if(process.env.LABEL_VALIDATION_OUTPUT) await writeFile(process.env.LABEL_VALIDATION_OUTPUT,JSON.stringify(result,null,2)+'\n')
   console.log(JSON.stringify(result))
 }finally{await ctx.fiber.dispose()}
