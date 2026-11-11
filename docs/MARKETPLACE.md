@@ -6,7 +6,7 @@
 
 ## 1. 安装后端
 
-从 [v0.1.0 发布页](https://github.com/shinerain1/dsh-project-2/releases/tag/v0.1.0)下载 `dsh_label_workbench-0.1.0-py3-none-any.whl`，在专用目录运行：
+从 [v0.1.0 发布页](https://github.com/shinerain1/dsh-label-workbench/releases/tag/v0.1.0)下载 `dsh_label_workbench-0.1.0-py3-none-any.whl`，在专用目录运行：
 
 ```powershell
 py -3.12 -m venv .venv
@@ -20,13 +20,13 @@ py -3.12 -m venv .venv
 在实际使用的 DSH 插件界面安装预构建包：
 
 ```text
-https://github.com/shinerain1/dsh-project-2/releases/download/v0.1.0/dsh-label-workbench-0.1.0.tgz
+https://github.com/shinerain1/dsh-label-workbench/releases/download/v0.1.0/dsh-label-workbench-0.1.0.tgz
 ```
 
 自行管理 `web` profile 时也可执行：
 
 ```powershell
-dsh plugin --profile web add https://github.com/shinerain1/dsh-project-2/releases/download/v0.1.0/dsh-label-workbench-0.1.0.tgz
+dsh plugin --profile web add https://github.com/shinerain1/dsh-label-workbench/releases/download/v0.1.0/dsh-label-workbench-0.1.0.tgz
 ```
 
 Desktop 用户请在实际的桌面应用插件界面安装；`--profile web` 不会安装到 Desktop。预构建包已包含 JavaScript，无需在本机编译 TypeScript。不要把仓库地址当成已经构建好的包；源码开发安装见主 README。

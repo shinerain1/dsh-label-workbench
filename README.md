@@ -21,8 +21,8 @@
 普通用户可按[发布包安装说明](docs/MARKETPLACE.md)安装预构建 DSH 包和 Python wheel，无需编译。以下是源码开发安装方式：
 
 ```powershell
-git clone https://github.com/shinerain1/dsh-project-2.git
-cd dsh-project-2
+git clone https://github.com/shinerain1/dsh-label-workbench.git
+cd dsh-label-workbench
 py -3.12 -m venv .venv
 .\.venv\Scripts\python.exe -m pip install .
 npm.cmd ci --ignore-scripts
@@ -34,10 +34,10 @@ npm.cmd run build
 ```yaml
 - insert:
     - id: label-workbench
-      name: E:/dsh插件/dsh-project-2/lib/index.js
+      name: E:/dsh插件/dsh-label-workbench/lib/index.js
       config:
-        pythonExecutable: E:/dsh插件/dsh-project-2/.venv/Scripts/python.exe
-        root: E:/dsh插件/dsh-project-2/.label-workbench
+        pythonExecutable: E:/dsh插件/dsh-label-workbench/.venv/Scripts/python.exe
+        root: E:/dsh插件/dsh-label-workbench/.label-workbench
         requestTimeoutMs: 120000
 ```
 

@@ -9,6 +9,6 @@
   "dependencies":{"@deepseek-ai/schemastery":"3.19.0"},
   "devDependencies":{"@deepseek-ai/cordis":"4.1.0","@deepseek-ai/dsh-tools":"0.0.1-rc.1","@types/node":"^24.0.0","typescript":"^5.9.0"},
   "dsh":{"bundle":{"patch":"./cordis.patch.yml"}},"author":"shinerain1","license":"MIT",
-  "repository":{"type":"git","url":"git+https://github.com/shinerain1/dsh-project-2.git"},
+  "repository":{"type":"git","url":"git+https://github.com/shinerain1/dsh-label-workbench.git"},
   "keywords":["dsh-plugin","annotation","label-studio","data-quality","human-review"]
 }

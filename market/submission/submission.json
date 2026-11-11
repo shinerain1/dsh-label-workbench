@@ -2,7 +2,7 @@
     "submitted":  true,
     "catalog":  "awesome-dsh-plugin/awesome-dsh-plugin",
     "pull_request":  "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/pull/14174",
-    "state":  "OPEN",
+    "state":  "MERGED",
     "submitted_utc":  "2026-11-11T04:46:15Z",
     "repository_created_utc":  "2026-11-10T04:16:58Z",
     "age_hours_at_submission":  24.488,
@@ -17,19 +17,30 @@
                               ],
     "format_passed":  true,
     "public_install_passed":  true,
-    "remote_checks_checked_utc":  "2026-11-11T04:49:16.5530736Z",
+    "remote_checks_checked_utc":  "2026-11-11T08:23:32.1820630Z",
     "remote_checks":  [
                           {
                               "__typename":  "CheckRun",
-                              "completedAt":  "0001-01-01T00:00:00Z",
-                              "conclusion":  "",
+                              "completedAt":  "2026-11-11T05:01:54Z",
+                              "conclusion":  "SUCCESS",
                               "detailsUrl":  "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/actions/runs/42961387305/job/130328478225",
                               "name":  "check",
                               "startedAt":  "2026-11-11T04:46:21Z",
-                              "status":  "IN_PROGRESS",
+                              "status":  "COMPLETED",
+                              "workflowName":  "PR check"
+                          },
+                          {
+                              "__typename":  "CheckRun",
+                              "completedAt":  "2026-11-11T05:02:39Z",
+                              "conclusion":  "SUCCESS",
+                              "detailsUrl":  "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/runs/130334055413",
+                              "name":  "Submission gate",
+                              "startedAt":  "2026-11-11T05:02:39Z",
+                              "status":  "COMPLETED",
                               "workflowName":  "PR check"
                           }
                       ],
-    "maintainer_review":  "pending",
-    "listed":  false
+    "maintainer_review":  "merged",
+    "listed":  true,
+    "merged_utc":  "2026-11-11T05:42:03Z"
 }

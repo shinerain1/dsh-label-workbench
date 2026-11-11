@@ -1,0 +1,17 @@
+{
+    "repository_id":  1452193799,
+    "old_repository":  "shinerain1/dsh-project-2",
+    "new_repository":  "shinerain1/dsh-label-workbench",
+    "created_utc":  "2026-11-10T04:16:58Z",
+    "repository_renamed":  true,
+    "old_api_url_redirects":  true,
+    "public_release_sha256":  "4c5f18c45434c9cac2b6eccb3719bfea0a2da14e9beace7f700acb6de82cf6da",
+    "release_bytes_unchanged":  true,
+    "catalog_pr":  "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/pull/14259",
+    "catalog_pr_state":  "OPEN",
+    "catalog_head":  "4f5bb80ad5c717078eca2c4a2ff9255a367d5c0d",
+    "catalog_base":  "aa37dc1a68fe8ea372f597a160706160761be8a1",
+    "catalog_format_passed":  true,
+    "catalog_old_entry_removed":  true,
+    "checked_utc":  "2026-11-11T08:23:32.2415700Z"
+}
