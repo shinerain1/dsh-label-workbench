@@ -2,7 +2,7 @@
 
 **标注标准改变后，让已有工作可靠地继续。** 首版 `0.1.0` 支持本地文本单标签分类：固定规则版本，隔离旧任务回调，保留人工审核，筛出待复核记录，检查后导出可追溯的数据集。
 
-这不是自动保证 AI 标签正确的系统，也不是完整替代 Label Studio/Argilla。项目仍处于首版验证阶段，未提交插件广场。
+非官方社区项目，仍处于首版验证阶段。它不自动保证 AI 标签正确，也不完整替代 Label Studio/Argilla。[安装与范围](docs/MARKETPLACE.md)；[社区广场投稿状态](market/submission/README.md)。
 
 ## 使用流程
 
@@ -17,6 +17,8 @@
 ## 安装
 
 需要 Python 3.11+、Node 24.9+、DSH `0.2.2-alpha.3` 系列。已在 Windows / Python 3.12 的本机 DSH 构建上验证。
+
+普通用户可按[发布包安装说明](docs/MARKETPLACE.md)安装预构建 DSH 包和 Python wheel，无需编译。以下是源码开发安装方式：
 
 ```powershell
 git clone https://github.com/shinerain1/dsh-project-2.git

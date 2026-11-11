@@ -5,7 +5,7 @@
   "files":["lib","python/dsh_label_workbench/*.py","pyproject.toml","cordis.patch.yml","README.md","LICENSE","docs","examples","scripts/install.py"],
   "scripts":{"build":"tsc -p tsconfig.json","build:check":"tsc -p tsconfig.json --noEmit","test":"node --test tests-node/*.test.mjs","check":"npm run build && npm run build:check && npm test"},
   "engines":{"node":">=24.9.0","dsh":">=0.2.2-alpha.3 <0.3.0"},
-  "peerDependencies":{"@deepseek-ai/cordis":">=4.0.6-alpha.2 <5","@deepseek-ai/dsh-tools":">=0.0.1-rc.1 <0.3.0"},
+  "peerDependencies":{"@deepseek-ai/cordis":">=4.0.6-alpha.2 <5","@deepseek-ai/dsh-tools":">=0.0.1-rc.1 <0.3.0 || >=0.2.2-alpha.3 <0.2.2"},
   "dependencies":{"@deepseek-ai/schemastery":"3.19.0"},
   "devDependencies":{"@deepseek-ai/cordis":"4.1.0","@deepseek-ai/dsh-tools":"0.0.1-rc.1","@types/node":"^24.0.0","typescript":"^5.9.0"},
   "dsh":{"bundle":{"patch":"./cordis.patch.yml"}},"author":"shinerain1","license":"MIT",
